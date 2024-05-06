@@ -1,0 +1,3084 @@
+brand,model,city,km,price
+2015 Honda,CR-V,Pincourt · QC,211737.0,14495.0
+2020 Hyundai,Kona,Blainville · QC,59842.0,18987.0
+2009 Chevrolet,Corvette,Saint-Hyacinthe · QC,114622.0,34495.0
+2019 Volkswagen,Golf Gti,Laval · QC,53016.0,26299.0
+2020 Volkswagen,Golf,Saint-Eustache · QC,89766.0,23995.0
+2022 Honda,Civic,Saint-Hubert · QC,51255.0,27999.0
+2020 Hyundai,Kona,Saint-Eustache · QC,60484.0,22495.0
+2021 Ford,EDGE,Laval · QC,40383.0,26999.0
+2017 Dodge,Grand Caravan,Laval · QC,73099.0,21499.0
+2021 Mitsubishi,RVR,Saint-Hubert · QC,91268.0,20499.0
+2019 Hyundai,Elantra Gt,Brossard · QC,95172.0,17985.0
+2021 Toyota,Corolla,Saint-Hubert · QC,80940.0,24449.0
+2014 Honda,Civic Sedan,Pincourt · QC,70522.0,15490.0
+2015 Mitsubishi,Lancer Sportback,Pincourt · QC,107280.0,10999.0
+2015 Mazda,Mazda3,Saint-Hyacinthe · QC,121579.0,12994.0
+2019 Chevrolet,Silverado 1500 LD,Granby · QC,113200.0,29988.0
+2020 Chevrolet,Blazer,Saint-Hubert · QC,73411.0,30499.0
+2020 Mitsubishi,RVR,Brossard · QC,17118.0,25445.0
+2021 Subaru,Crosstrek,Laval · QC,47045.0,24299.0
+2021 Toyota,Prius,Saint-Hubert · QC,95300.0,26999.0
+2021 Chevrolet,Spark,Saint-Hubert · QC,87912.0,19949.0
+2016 Mercedes-Benz,CLA45,Cowansville · QC,63296.0,37384.0
+2010 Porsche,911,Cowansville · QC,70210.0,76984.0
+2020 Mitsubishi,Eclipse Cross,Saint-Hubert · QC,45735.0,22499.0
+2007 Hyundai,Santa Fe,Granby · QC,195195.0,4995.0
+2022 Hyundai,Venue,Cowansville · QC,11388.0,24984.0
+2020 Honda,CR-V,Cowansville · QC,22043.0,33984.0
+2021 Kia,Forte,Laval · QC,84164.0,22999.0
+2023 Jeep,Wrangler 4xe,Brossard · QC,10000.0,64985.0
+2013 Mazda,MAZDA6,Pincourt · QC,151855.0,8499.0
+2018 Kia,Sorento,Saint-Jerome · QC,74522.0,18895.0
+2022 Nissan,Sentra,Laval · QC,24619.0,24949.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,48447.0,21999.0
+2023 Toyota,RAV4 Hybrid,Granby · QC,19521.0,44995.0
+2022 Hyundai,Kona,Saint-Hubert · QC,76114.0,23999.0
+2017 Porsche,Cayenne,Pincourt · QC,151407.0,27043.0
+2015 Kia,Soul,Pincourt · QC,142432.0,12888.0
+2020 Honda,CR-V,Laval · QC,71004.0,29499.0
+2020 Gmc,Sierra 1500,Granby · QC,116000.0,45988.0
+2016 Jeep,Wrangler,Saint-Eustache · QC,146887.0,25997.0
+2022 Chevrolet,BOLT EV 1LT,Pincourt · QC,42679.0,29937.0
+2019 Toyota,Corolla,Pincourt · QC,31870.0,20990.0
+2020 Mercedes-Benz,A-Class,Cowansville · QC,53834.0,31995.0
+2023 Genesis,G70,Brossard · QC,13685.0,53475.0
+2021 Mazda,Mazda3 Sport,Pincourt · QC,92555.0,23977.0
+2022 Jeep,Cherokee,Saint-Jerome · QC,39440.0,35955.0
+2022 Hyundai,Elantra,Laval · QC,33171.0,25999.0
+2018 Ford,Mustang,Saint-Hubert · QC,21838.0,29999.0
+2022 Hyundai,Elantra Hybrid,Brossard · QC,31500.0,31985.0
+2017 Honda,Odyssey,Pincourt · QC,169676.0,21995.0
+2011 Infiniti,G37,Cowansville · QC,132229.0,13984.0
+2016 Mazda,CX-3,Saint-Hubert · QC,86277.0,17999.0
+2020 Toyota,Corolla,Saint-Hubert · QC,19591.0,23999.0
+2021 Ford,EcoSport,Pincourt · QC,48971.0,22798.0
+2021 Mazda,CX-3,Pincourt · QC,36555.0,19977.0
+2018 Nissan,Leaf,Laval · QC,105341.0,16499.0
+2022 Kia,Sorento,Saint-Jerome · QC,42952.0,38895.0
+2022 Mitsubishi,Outlander,Blainville · QC,19775.0,31441.0
+2020 Honda,CR-V,Saint-Hubert · QC,69148.0,29499.0
+2014 Ford,Fourgon Econoline,Drummondville · QC,228610.0,14995.0
+2021 Kia,Soul,Saint-Hubert · QC,126335.0,19449.0
+2020 Bmw,X2,Saint-Hubert · QC,80007.0,29949.0
+2019 Kia,Sorento,Saint-Eustache · QC,118197.0,27995.0
+2016 Honda,Civic,Laval · QC,113439.0,17449.0
+2019 Mazda,Mazda3,Laval · QC,36019.0,20999.0
+2021 Toyota,Corolla,Saint-Hubert · QC,64959.0,22999.0
+2019 Toyota,Corolla Hatchback,Saint-Hubert · QC,99741.0,20499.0
+2019 Nissan,Rogue,Saint-Eustache · QC,72000.0,22995.0
+2021 Toyota,RAV4,Saint-Jerome · QC,79558.0,33985.0
+2018 Dodge,Durango,Saint-Hubert · QC,66761.0,38949.0
+2021 Dodge,Charger,Saint-Hubert · QC,77496.0,31999.0
+2016 Chevrolet,Cruze,Saint-Hubert · QC,39015.0,14499.0
+2018 Buick,Envision,Laval · QC,98656.0,22999.0
+2018 Honda,Civic Hatchback,Saint-Hubert · QC,71927.0,21449.0
+2024 Hyundai,Tucson Plug-In Hybrid,Brossard · QC,5155.0,51985.0
+2022 Chevrolet,Malibu,Granby · QC,22317.0,26988.0
+2018 Ford,Mustang,Brossard · QC,23956.0,31985.0
+2017 Nissan,Rogue,Laval · QC,143338.0,16949.0
+2019 Subaru,Impreza,Saint-Jerome · QC,72852.0,18985.0
+2021 Bmw,X5,Blainville · QC,33000.0,59950.0
+2016 Toyota,Corolla,Montreal · QC,87095.0,17900.0
+2021 Toyota,RAV4,Laval · QC,107571.0,28999.0
+2022 Hyundai,Tucson,Brossard · QC,38985.0,32485.0
+2018 Volvo,XC60,Saint-Hubert · QC,116904.0,26499.0
+2021 Chrysler,Pacifica,Laval · QC,86453.0,31499.0
+2019 Ford,Expedition,Granby · QC,138000.0,43988.0
+2019 Buick,Encore,Granby · QC,72902.0,20988.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,93216.0,31499.0
+2016 Volkswagen,Beetle Convertible,Cowansville · QC,74811.0,23999.0
+2019 Chevrolet,Express,Saint-Hyacinthe · QC,99755.0,32894.0
+2016 Kia,Soul,Laval · QC,86724.0,14999.0
+2016 Nissan,Altima,Laval · QC,128165.0,12999.0
+2022 Toyota,Corolla,Saint-Hubert · QC,49137.0,24499.0
+2022 Honda,Odyssey,Pincourt · QC,37748.0,44995.0
+2021 Hyundai,Kona,Saint-Eustache · QC,77965.0,20594.0
+2020 Hyundai,Accent,Saint-Hubert · QC,45762.0,18999.0
+2022 Bmw,3 Series,Blainville · QC,16800.0,49550.0
+2023 Bmw,X5,Blainville · QC,30000.0,82950.0
+2021 Nissan,Versa,Saint-Hubert · QC,83987.0,18999.0
+2020 Ford,EcoSport,Saint-Jerome · QC,48544.0,20955.0
+2019 Hyundai,Kona,Brossard · QC,21713.0,22975.0
+2021 Honda,CR-V,Notre-Dame-des-Prairies · QC,38000.0,31499.0
+2022 Hyundai,Kona N,Brossard · QC,17830.0,35985.0
+2019 Toyota,Prius Prime,Pincourt · QC,92244.0,22038.0
+2018 Hyundai,Elantra,Saint-Jerome · QC,88010.0,14995.0
+2021 Mazda,CX-5,Pincourt · QC,71276.0,25477.0
+2020 Hyundai,Santa Fe,Saint-Eustache · QC,38561.0,26594.0
+2020 Dodge,Grand Caravan,Saint-Hubert · QC,118741.0,25499.0
+2018 Volkswagen,Golf,Brossard · QC,102910.0,19495.0
+2019 Ram,1500 Classic,Saint-Eustache · QC,125776.0,29995.0
+2017 Kia,Soul,Saint-Hubert · QC,55539.0,16499.0
+2019 Buick,Regal Sportback,Pincourt · QC,22399.0,26697.0
+2018 Volkswagen,Tiguan,Saint-Eustache · QC,116737.0,23495.0
+2019 Audi,RS 5 Sportback,Brossard · QC,30969.0,67899.0
+2020 Toyota,RAV4 Hybrid,Granby · QC,38034.0,35995.0
+2018 Chevrolet,Equinox Premier,Pincourt · QC,29000.0,22537.0
+2015 Buick,VERANO SEDAN LEATHER,Pincourt · QC,152000.0,9937.0
+2021 Bmw,X1,Saint-Hubert · QC,85189.0,28999.0
+2016 Hyundai,SANTA FE SPORT,Blainville · QC,84672.0,15387.0
+2018 Toyota,Camry,Brossard · QC,102418.0,21985.0
+2021 Bmw,X1,Saint-Hubert · QC,64426.0,29999.0
+2019 Toyota,Camry,Pincourt · QC,120347.0,26038.0
+2019 Volkswagen,Jetta,Saint-Hubert · QC,47185.0,20999.0
+2010 Ford,Fusion,Pincourt · QC,195877.0,5999.0
+2021 Hyundai,Venue,Saint-Hubert · QC,85056.0,19999.0
+2017 Nissan,Qashqai,Saint-Hubert · QC,94613.0,16999.0
+2020 Gmc,Savana Cargo Van,Granby · QC,72800.0,36988.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,48288.0,21999.0
+2021 Toyota,Corolla Hatchback,Pincourt · QC,21481.0,26038.0
+2020 Hyundai,Ioniq Electric,Saint-Hubert · QC,43855.0,23949.0
+2021 Ford,F-150,Pincourt · QC,130050.0,35486.0
+2019 Mercedes-Benz,GLC,Saint-Hubert · QC,83192.0,29499.0
+2015 Mercedes-Benz,GLK-Class,Granby · QC,179535.0,16984.0
+2012 Volvo,C30,Pincourt · QC,196265.0,6299.0
+2023 Kia,Sorento,Saint-Jerome · QC,18145.0,36795.0
+2020 Kia,SEDONA EX/SX,Pincourt · QC,63118.0,31537.0
+2020 Hyundai,Elantra,Blainville · QC,65895.0,21986.0
+2019 Toyota,Corolla,Saint-Jerome · QC,86538.0,17895.0
+2022 Hyundai,Santa Fe Hybrid,Blainville · QC,36548.0,38992.0
+2022 Honda,Civic,Pincourt · QC,34393.0,29995.0
+2015 Honda,Accord,Saint-Hubert · QC,78283.0,16999.0
+2020 Hyundai,Santa Fe,Saint-Hubert · QC,47390.0,29999.0
+2018 Nissan,Kicks,Saint-Eustache · QC,92112.0,16997.0
+2021 Nissan,Kicks,Saint-Jerome · QC,34852.0,20795.0
+2023 Hyundai,IONIQ 5,Blainville · QC,8500.0,58950.0
+2019 Hyundai,Elantra,Pincourt · QC,207845.0,9999.0
+2016 Lincoln,MKC,Saint-Hubert · QC,111126.0,17999.0
+2023 Toyota,BZ4X,Granby · QC,9568.0,39988.0
+2021 Nissan,Kicks,Saint-Hubert · QC,77098.0,20999.0
+2016 Kia,Sorento,Saint-Eustache · QC,89367.0,19994.0
+2024 Bmw,330,Blainville · QC,7300.0,63331.0
+2019 Ram,1500 Classic,Granby · QC,45792.0,30995.0
+2021 Ford,Explorer,Saint-Hubert · QC,89788.0,31499.0
+2020 Toyota,RAV4,Pincourt · QC,101944.0,26990.0
+2018 Hyundai,Elantra,Brossard · QC,40147.0,16788.0
+2022 Hyundai,Tucson Hybrid,Brossard · QC,31608.0,40985.0
+2023 Mitsubishi,RVR,Blainville · QC,8673.0,31492.0
+2013 Mitsubishi,RVR,Pincourt · QC,93281.0,9699.0
+2019 Hyundai,Santa Fe,Saint-Eustache · QC,40591.0,29997.0
+2022 Mazda,CX-5,Brossard · QC,14371.0,37975.0
+2022 Hyundai,Elantra Hybrid,Brossard · QC,31008.0,29385.0
+2019 Toyota,Corolla Hatchback,Granby · QC,65331.0,22995.0
+2021 Ford,Escape,Saint-Eustache · QC,33000.0,27850.0
+2019 Acura,TLX,Notre-Dame-des-Prairies · QC,118048.0,29849.0
+2019 Lexus,Rx,Saint-Hubert · QC,68084.0,35999.0
+2021 Lexus,IS 300,Granby · QC,39102.0,37995.0
+2022 Hyundai,Elantra,Saint-Eustache · QC,21819.0,27222.0
+2020 Honda,Civic,Laval · QC,62554.0,23995.0
+2017 Hyundai,Ioniq Hybrid,Pincourt · QC,148936.0,13990.0
+2022 Chevrolet,Silverado 1500,Granby · QC,47943.0,48988.0
+2016 Honda,CR-V,Blainville · QC,176000.0,14950.0
+2023 Kia,Niro EV,Saint-Jerome · QC,3621.0,45775.0
+2018 Chevrolet,Malibu,Brossard · QC,115125.0,17985.0
+2019 Ford,EDGE,Saint-Eustache · QC,85000.0,27850.0
+2022 Subaru,Impreza,Saint-Hubert · QC,69010.0,22499.0
+2017 Honda,Ridgeline,Saint-Hubert · QC,137705.0,25999.0
+2021 Chevrolet,Spark,Saint-Eustache · QC,80090.0,20995.0
+2020 Hyundai,Santa Fe,Saint-Hubert · QC,64901.0,25999.0
+2019 Kia,Sorento,Saint-Hubert · QC,112655.0,20499.0
+2020 Volvo,XC60,Saint-Hubert · QC,35874.0,37999.0
+2018 Subaru,Forester,Brossard · QC,102990.0,21445.0
+2019 Honda,HR-V,Pincourt · QC,168000.0,18495.0
+2021 Toyota,RAV4 Prime,Montreal · QC,59717.0,42900.0
+2020 Volvo,XC90,Saint-Hubert · QC,84910.0,37449.0
+2023 Bmw,330,Blainville · QC,4600.0,63812.0
+2019 Nissan,Altima,Saint-Eustache · QC,65556.0,21995.0
+2020 Honda,Civic Sedan,Pincourt · QC,57123.0,24477.0
+2018 Honda,Odyssey,Pincourt · QC,92123.0,31477.0
+2017 Volvo,XC90 Hybrid,Saint-Hubert · QC,102338.0,33999.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,54196.0,22999.0
+2021 Chrysler,Pacifica Hybrid,Pincourt · QC,66409.0,42990.0
+2021 Hyundai,Santa Fe,Saint-Hubert · QC,73727.0,28449.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,71271.0,21999.0
+2022 Chevrolet,Blazer,Pincourt · QC,14368.0,36797.0
+2024 Bmw,X3,Blainville · QC,3600.0,69742.0
+2021 Chevrolet,Silverado 1500,Drummondville · QC,24237.0,49995.0
+2016 Mazda,CX-3,Saint-Eustache · QC,167809.0,13994.0
+2018 Nissan,Qashqai,Saint-Jerome · QC,91543.0,18795.0
+2017 Toyota,Prius Prime,Granby · QC,55606.0,21495.0
+2024 Ford,EDGE,Saint-Jerome · QC,11526.0,49955.0
+2021 Chevrolet,Spark,Brossard · QC,19718.0,18795.0
+2021 Volvo,XC40,Pincourt · QC,44772.0,38798.0
+2022 Ram,1500 Classic,Pincourt · QC,17233.0,42038.0
+2022 Hyundai,Venue,Montreal · QC,53059.0,19900.0
+2018 Chevrolet,Traverse,Pincourt · QC,127916.0,27144.0
+2016 Dodge,Grand Caravan,Saint-Hubert · QC,72189.0,18499.0
+2022 Hyundai,Kona,Saint-Eustache · QC,30365.0,24777.0
+2022 Kia,Forte,Saint-Jerome · QC,38915.0,22495.0
+2020 Gmc,Sierra 1500,Pincourt · QC,57336.0,59043.0
+2023 Hyundai,Santa Fe Hybrid,Brossard · QC,8095.0,45494.0
+2020 Toyota,Corolla Hatchback,Saint-Hubert · QC,56993.0,24449.0
+2018 Nissan,Versa Note,Saint-Hubert · QC,128049.0,13999.0
+2018 Subaru,Crosstrek,Saint-Hubert · QC,128151.0,17999.0
+2022 Chevrolet,Colorado,Granby · QC,24900.0,46988.0
+2020 Honda,CR-V,Notre-Dame-des-Prairies · QC,106300.0,26949.0
+2016 Nissan,Titan XD,Pincourt · QC,134528.0,27038.0
+2021 Nissan,Sentra,Saint-Hubert · QC,93203.0,20499.0
+2018 Hyundai,Sonata,Saint-Hubert · QC,129152.0,15999.0
+2018 Toyota,Highlander,Granby · QC,102875.0,36988.0
+2019 Kia,Sorento,Saint-Jerome · QC,75867.0,23495.0
+2018 Ford,Explorer,Pincourt · QC,81871.0,26798.0
+2022 Hyundai,IONIQ 5,Brossard · QC,16830.0,49985.0
+2021 Toyota,Venza,Granby · QC,26599.0,40995.0
+2021 Hyundai,Elantra Hybrid,Brossard · QC,49995.0,27445.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,82540.0,22999.0
+2015 Toyota,Corolla,Pincourt · QC,36565.0,16977.0
+2020 Mercedes-Benz,GLC63 AMG,Laval · QC,65671.0,83995.0
+2018 Chevrolet,Bolt EV,Saint-Jerome · QC,82731.0,20985.0
+2017 Honda,Civic Sedan,Montreal · QC,108109.0,13900.0
+2018 Chevrolet,Cruze,Saint-Eustache · QC,55465.0,22995.0
+2019 Mazda,CX-3,Saint-Eustache · QC,51522.0,23995.0
+2019 Infiniti,Qx50,Saint-Hubert · QC,83015.0,25499.0
+2018 Hyundai,Kona,Saint-Eustache · QC,73946.0,17997.0
+2023 Mercedes-Benz,GLA250,Laval · QC,22088.0,52995.0
+2019 Mercedes-Benz,B-Class,Brossard · QC,33940.0,27985.0
+2021 Chevrolet,Traverse,Granby · QC,86279.0,32988.0
+2019 Kia,Sportage,Granby · QC,45702.0,23495.0
+2023 Bmw,X5,Blainville · QC,14000.0,84950.0
+2021 Mazda,CX-3,Pincourt · QC,111123.0,19477.0
+2017 Audi,S3,Blainville · QC,115262.0,28492.0
+2023 Hyundai,Tucson Hybrid,Brossard · QC,270.0,44985.0
+2014 Fiat,500c,Brossard · QC,96698.0,9985.0
+2020 Hyundai,Elantra,Pincourt · QC,78493.0,17490.0
+2015 Nissan,Micra,Saint-Hubert · QC,91793.0,10999.0
+2021 Volvo,XC40,Blainville · QC,49067.0,39482.0
+2021 Toyota,Highlander,Pincourt · QC,58076.0,44690.0
+2018 Buick,Encore,Pincourt · QC,55063.0,21993.0
+2018 Ford,F-150,Saint-Eustache · QC,72326.0,33995.0
+2010 Toyota,Yaris,Pincourt · QC,235513.0,7990.0
+2016 Toyota,Prius C,Montreal · QC,206451.0,12900.0
+2021 Kia,Forte,Saint-Hubert · QC,77566.0,19999.0
+2019 Dodge,Grand Caravan,Saint-Hubert · QC,124994.0,27449.0
+2022 Bmw,4 Series,Blainville · QC,27417.0,61950.0
+2017 Cadillac,XT5,Pincourt · QC,99097.0,22536.0
+2024 Ford,EDGE,Saint-Jerome · QC,11142.0,49955.0
+2021 Mazda,MAZDA6,Saint-Eustache · QC,88152.0,24995.0
+2020 Hyundai,Accent,Brossard · QC,44159.0,22455.0
+2023 Audi,A3,Blainville · QC,11100.0,41450.0
+2022 Mazda,CX-5,Saint-Eustache · QC,38000.0,29450.0
+2020 Nissan,Leaf,Granby · QC,43406.0,19995.0
+2012 Chevrolet,Equinox,Saint-Hyacinthe · QC,123536.0,10694.0
+2020 Dodge,Grand Caravan,Saint-Hubert · QC,82218.0,28999.0
+2022 Bmw,X2,Saint-Hubert · QC,75658.0,31999.0
+2021 Ford,F-150,Blainville · QC,56000.0,51950.0
+2021 Chevrolet,Silverado 1500,Granby · QC,76000.0,36988.0
+2021 Hyundai,Venue,Saint-Eustache · QC,76353.0,23995.0
+2021 Hyundai,Sonata,Saint-Eustache · QC,79675.0,24495.0
+2020 Nissan,Altima,Saint-Jerome · QC,18246.0,26895.0
+2023 Kia,Stinger,Saint-Jerome · QC,5130.0,50995.0
+2017 Jeep,Grand Cherokee,Granby · QC,112655.0,27984.0
+2021 Honda,Civic Berline,Saint-Jerome · QC,70684.0,22495.0
+2019 Ford,Transit,Saint-Hyacinthe · QC,74968.0,45194.0
+2021 Gmc,Cutaway,Saint-Hyacinthe · QC,71515.0,52994.0
+2019 Jeep,Cherokee,Saint-Hubert · QC,113655.0,24499.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,53786.0,22999.0
+2016 Honda,HR-V,Saint-Hyacinthe · QC,124364.0,17994.0
+2019 Ford,FIESTA,Saint-Eustache · QC,78849.0,17995.0
+2019 Hyundai,Elantra,Saint-Hubert · QC,57202.0,19999.0
+2020 Toyota,Camry,Saint-Hubert · QC,89774.0,22999.0
+2021 Chevrolet,Trax,Granby · QC,60517.0,20988.0
+2021 Chrysler,300,Saint-Hubert · QC,87665.0,31499.0
+2022 Genesis,GV70,Brossard · QC,27131.0,46775.0
+2017 Kia,Sorento,Granby · QC,141400.0,16988.0
+2019 Ford,F-150,Granby · QC,92000.0,32988.0
+2017 Mini,Cooper Hardtop,Granby · QC,64000.0,18988.0
+2019 Toyota,Yaris,Blainville · QC,55018.0,18982.0
+2016 Jeep,Cherokee,Pincourt · QC,93252.0,18977.0
+2022 Honda,HR-V,Notre-Dame-des-Prairies · QC,56000.0,28749.0
+2019 Hyundai,Tucson,Saint-Hubert · QC,41420.0,24449.0
+2024 Bmw,iX,Blainville · QC,8500.0,93319.0
+2019 Dodge,Grand Caravan,Saint-Hubert · QC,126394.0,22999.0
+2018 Chevrolet,Silverado 1500,Saint-Hyacinthe · QC,114521.0,30894.0
+2021 Mazda,CX-5,Saint-Hubert · QC,91279.0,27949.0
+2018 Honda,Civic,Pincourt · QC,42556.0,19495.0
+2020 Mercedes-Benz,GLC,Brossard · QC,53110.0,40985.0
+2021 Tesla,Model 3,Brossard · QC,75083.0,48975.0
+2024 Toyota,BZ4X,Montreal · QC,13.0,46252.0
+2021 Mazda,CX-3,Saint-Hubert · QC,97550.0,24499.0
+2023 Gmc,Terrain,Blainville · QC,25000.0,36950.0
+2018 Audi,Q5,Saint-Hubert · QC,107016.0,24999.0
+2022 Hyundai,Venue,Pincourt · QC,43622.0,18790.0
+2019 Audi,A4,Saint-Hubert · QC,58007.0,27949.0
+2012 Jeep,Grand Cherokee,Granby · QC,121316.0,16995.0
+2021 Ford,Escape Hybrid,Saint-Eustache · QC,16000.0,29250.0
+2019 Honda,Civic Sedan,Notre-Dame-des-Prairies · QC,91000.0,17949.0
+2020 Nissan,Rogue,Saint-Eustache · QC,121000.0,25995.0
+2018 Hyundai,Elantra Gt,Brossard · QC,88590.0,21985.0
+2023 Honda,Civic,Saint-Hyacinthe · QC,2753.0,32994.0
+2020 Ford,EDGE,Saint-Jerome · QC,61580.0,29955.0
+2022 Gmc,Sierra 1500,Drummondville · QC,31906.0,44995.0
+2022 Chevrolet,1500,Saint-Eustache · QC,75000.0,41950.0
+2022 Chevrolet,Camaro,Saint-Hubert · QC,60993.0,38999.0
+2021 Gmc,Sierra 1500,Saint-Hubert · QC,99559.0,34999.0
+2018 Bmw,3 Series,Brossard · QC,65442.0,26985.0
+2020 Volvo,XC40,Pincourt · QC,95221.0,29543.0
+2021 Hyundai,Palisade,Brossard · QC,80361.0,37285.0
+2018 Honda,Civic,Saint-Eustache · QC,88000.0,22850.0
+2020 Toyota,Corolla,Saint-Jerome · QC,75260.0,18695.0
+2022 Kia,Niro EV,Saint-Jerome · QC,49755.0,32395.0
+2024 Toyota,RAV4,Montreal · QC,10.0,36101.0
+2023 Honda,Civic Type R,Notre-Dame-des-Prairies · QC,5523.0,64949.0
+2018 Hyundai,Kona,Saint-Hyacinthe · QC,46452.0,22394.0
+2021 Subaru,Crosstrek,Granby · QC,122223.0,22995.0
+2021 Toyota,Tacoma,Granby · QC,40657.0,42495.0
+2021 Honda,CR-V,Notre-Dame-des-Prairies · QC,120966.0,25249.0
+2011 Honda,Accord Sedan,Saint-Eustache · QC,165555.0,7993.0
+2021 Mercedes-Benz,CLA250,Laval · QC,41710.0,40495.0
+2022 Mercedes-Benz,GLC43 AMG,Laval · QC,30278.0,62995.0
+2019 Ford,EDGE,Saint-Eustache · QC,91000.0,21950.0
+2024 Bmw,i4,Blainville · QC,3150.0,79041.0
+2020 Mazda,Mazda3 Sport,Saint-Hubert · QC,164127.0,20449.0
+2023 Gmc,Sierra 2500HD,Montreal · QC,35742.0,75900.0
+2015 Hyundai,SANTA FE SPORT,Brossard · QC,176008.0,10985.0
+2019 Hyundai,Kona Electric,Blainville · QC,84955.0,21987.0
+2018 Porsche,Cayenne,Brossard · QC,87600.0,42875.0
+2020 Toyota,RAV4,Saint-Hubert · QC,102041.0,26999.0
+2013 Hyundai,Sonata Hybrid,Blainville · QC,132426.0,10986.0
+2022 Chevrolet,SILVERADO K1500 RST,Pincourt · QC,15000.0,56937.0
+2019 Ford,Explorer,Saint-Hubert · QC,81238.0,29499.0
+2015 Chrysler,200,Saint-Jerome · QC,131383.0,13955.0
+2010 Dodge,Challenger,Brossard · QC,53258.0,29985.0
+2017 Hyundai,Tucson,Saint-Jerome · QC,111331.0,16295.0
+2024 Bmw,330,Blainville · QC,6700.0,64590.0
+2022 Toyota,Corolla,Saint-Hubert · QC,20792.0,26499.0
+2022 Toyota,Corolla,Granby · QC,26302.0,24495.0
+2016 Hyundai,Elantra,Pincourt · QC,117638.0,10990.0
+2012 Cadillac,SRX,Pincourt · QC,143247.0,11536.0
+2019 Kia,Sorento,Saint-Jerome · QC,87411.0,27795.0
+2021 Mercedes-Benz,GLE53,Laval · QC,26141.0,89995.0
+2020 Bmw,i3,Blainville · QC,54000.0,31950.0
+2020 Hyundai,Elantra,Blainville · QC,15240.0,18987.0
+2021 Kia,Forte,Saint-Hubert · QC,80420.0,23499.0
+2020 Hyundai,Tucson,Saint-Hubert · QC,116853.0,25949.0
+2022 Mazda,CX-30,Pincourt · QC,26679.0,28477.0
+2022 Ford,Mustang Mach-E,Saint-Jerome · QC,50968.0,34955.0
+2019 Volkswagen,Jetta,Pincourt · QC,236026.0,12306.0
+2024 Subaru,Forester,Pincourt · QC,4504.0,43990.0
+2020 Toyota,Corolla Hatchback,Granby · QC,40775.0,23495.0
+2019 Toyota,Highlander,Pincourt · QC,98618.0,32038.0
+2020 Ford,EcoSport,Saint-Eustache · QC,89579.0,23995.0
+2017 Nissan,Pathfinder,Saint-Hubert · QC,136965.0,18999.0
+2020 Volkswagen,Tiguan,Saint-Hubert · QC,36763.0,26499.0
+2021 Toyota,Corolla,Saint-Hubert · QC,106243.0,21999.0
+2020 Ford,F-150,Pincourt · QC,116066.0,33298.0
+2021 Mazda,CX-5,Pincourt · QC,52275.0,24977.0
+2019 Gmc,Terrain,Pincourt · QC,85163.0,21406.0
+2018 Toyota,Corolla iM,Montreal · QC,32420.0,20900.0
+2023 Hyundai,Santa Fe,Blainville · QC,35372.0,36987.0
+2018 Hyundai,Elantra,Saint-Eustache · QC,105256.0,13997.0
+2021 Chevrolet,Trailblazer AWD LT,Pincourt · QC,78622.0,22998.0
+2021 Toyota,RAV4,Saint-Hubert · QC,104411.0,27999.0
+2021 Volvo,XC90,Blainville · QC,73500.0,56950.0
+2017 Hyundai,Sonata,Pincourt · QC,146525.0,13977.0
+2013 Chevrolet,Malibu,Pincourt · QC,200020.0,7599.0
+2022 Kia,EV6,Saint-Jerome · QC,59488.0,51595.0
+2021 Toyota,C-HR,Saint-Hubert · QC,88624.0,24499.0
+2021 Bmw,X3 M,Blainville · QC,75500.0,69950.0
+2020 Ford,F-150,Saint-Eustache · QC,95000.0,31500.0
+2022 Kia,Sorento,Saint-Jerome · QC,25217.0,35995.0
+2019 Toyota,Corolla,Saint-Hubert · QC,80159.0,21249.0
+2019 Nissan,Leaf,Saint-Eustache · QC,40942.0,19994.0
+2022 Nissan,Frontier,Saint-Hubert · QC,21830.0,35999.0
+2018 Mercedes-Benz,GLC,Saint-Hubert · QC,109379.0,26999.0
+2020 Alfa Romeo,Stelvio,Pincourt · QC,51373.0,36036.0
+2016 Dodge,Grand Caravan,Blainville · QC,58852.0,19992.0
+2021 Nissan,Versa,Saint-Hubert · QC,87632.0,18499.0
+2019 Nissan,Kicks,Saint-Hubert · QC,43468.0,19999.0
+2019 Nissan,Sentra,Saint-Eustache · QC,87761.0,19995.0
+2019 Toyota,Tundra,Montreal · QC,122791.0,39900.0
+2021 Jeep,Wrangler 4xe,Pincourt · QC,34446.0,47338.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,37651.0,23999.0
+2019 Lexus,Rx,Brossard · QC,49000.0,40485.0
+2020 Hyundai,Elantra,Saint-Eustache · QC,61937.0,18997.0
+2021 Ford,Mustang,Brossard · QC,9885.0,49985.0
+2021 Kia,Forte,Saint-Eustache · QC,90745.0,23995.0
+2020 Toyota,Prius Prime,Montreal · QC,20523.0,25900.0
+2016 Lexus,Rx,Saint-Hubert · QC,72251.0,30999.0
+2023 Genesis,GV60,Brossard · QC,18954.0,68985.0
+2022 Bmw,4 Series,Blainville · QC,13700.0,62950.0
+2018 Volkswagen,e-Golf,Granby · QC,92615.0,18495.0
+2016 Dodge,Grand Caravan,Saint-Hubert · QC,112732.0,18499.0
+2023 Hyundai,Kona Electric,Brossard · QC,23801.0,39875.0
+2023 Bmw,3 Series,Blainville · QC,8800.0,61081.0
+2013 Hyundai,Accent,Saint-Eustache · QC,91471.0,7549.0
+2023 Cadillac,XT5,Pincourt · QC,13575.0,50036.0
+2019 Chevrolet,Trax,Granby · QC,49000.0,18988.0
+2017 Mazda,Mazda3,Saint-Eustache · QC,105475.0,20995.0
+2019 Bmw,3 Series,Brossard · QC,43295.0,33795.0
+2019 Audi,Q7,Saint-Hubert · QC,85118.0,38999.0
+2022 Hyundai,Tucson,Brossard · QC,18124.0,31985.0
+2021 Volkswagen,Jetta,Saint-Hubert · QC,83126.0,23999.0
+2015 Chevrolet,Trax,Saint-Hubert · QC,115103.0,16449.0
+2021 Buick,Encore GX,Saint-Hubert · QC,78853.0,23999.0
+2021 Nissan,Kicks,Saint-Hubert · QC,33757.0,22999.0
+2019 Ford,E-Series Cutaway,Granby · QC,117500.0,49988.0
+2016 Ford,C-max Energi,Pincourt · QC,148201.0,10488.0
+2022 Kia,Seltos,Saint-Eustache · QC,26583.0,25994.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,85072.0,21999.0
+2021 Nissan,Kicks,Saint-Hubert · QC,37329.0,20999.0
+2018 Chevrolet,Equinox,Brossard · QC,32102.0,25985.0
+2011 Volkswagen,Eos,Blainville · QC,85900.0,15987.0
+2019 Honda,CR-V,Pincourt · QC,119174.0,22395.0
+2021 Chrysler,Grand Caravan,Saint-Hubert · QC,87363.0,28999.0
+2021 Toyota,Venza,Brossard · QC,42242.0,44775.0
+2017 Hyundai,Elantra,Saint-Eustache · QC,95572.0,13997.0
+2021 Toyota,RAV4,Pincourt · QC,42989.0,33990.0
+2014 Volkswagen,Tiguan,Granby · QC,153000.0,10984.0
+2021 Ford,EDGE,Saint-Jerome · QC,59777.0,27955.0
+2021 Kia,Sportage,Saint-Hubert · QC,75681.0,26999.0
+2018 Toyota,RAV4,Pincourt · QC,132489.0,19990.0
+2019 Ford,Explorer,Saint-Eustache · QC,75000.0,29850.0
+2013 Mazda,CX-5,Pincourt · QC,283763.0,5999.0
+2022 Chevrolet,Silverado 1500 LTD,Granby · QC,29143.0,47988.0
+2015 Infiniti,Q50,Pincourt · QC,156182.0,12490.0
+2024 Nissan,Kicks,Saint-Hubert · QC,2889.0,26999.0
+2018 Kia,Sportage,Saint-Eustache · QC,56000.0,20850.0
+2020 Honda,Pilot,Notre-Dame-des-Prairies · QC,51043.0,40763.0
+2014 Toyota,Prius C,Montreal · QC,202695.0,10900.0
+2022 Mercedes-Benz,GLC300,Laval · QC,51093.0,49995.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,70225.0,22999.0
+2019 Chevrolet,Trax,Granby · QC,50705.0,18988.0
+2020 Kia,Forte,Saint-Hubert · QC,59070.0,20499.0
+2022 Volkswagen,ID.4,Saint-Hubert · QC,28796.0,43999.0
+2020 Nissan,Qashqai,Saint-Hubert · QC,71863.0,20999.0
+2014 Dodge,Journey,Blainville · QC,93593.0,13987.0
+2021 Volkswagen,ID.4,Saint-Hubert · QC,38440.0,41999.0
+2021 Jeep,Wrangler 4xe,Saint-Eustache · QC,69000.0,43650.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,87474.0,31499.0
+2023 Toyota,RAV4,Pincourt · QC,17797.0,36990.0
+2023 Toyota,BZ4X,Montreal · QC,4836.0,56312.0
+2021 Buick,Envision,Pincourt · QC,37866.0,30621.0
+2017 Dodge,Grand Caravan,Granby · QC,101158.0,16988.0
+2017 Dodge,Grand Caravan,Saint-Jerome · QC,47542.0,20895.0
+2022 Kia,Seltos,Saint-Jerome · QC,53392.0,27995.0
+2021 Buick,Encore GX,Saint-Hubert · QC,54512.0,25949.0
+2024 Toyota,BZ4X,Montreal · QC,14.0,45997.0
+2020 Nissan,Sentra,Saint-Hubert · QC,42705.0,20999.0
+2023 Genesis,G70,Saint-Jerome · QC,20032.0,47695.0
+2018 Nissan,Versa Note,Saint-Jerome · QC,77958.0,14955.0
+2015 Lexus,Rx,Saint-Hubert · QC,74470.0,24499.0
+2020 Toyota,Corolla,Saint-Eustache · QC,30000.0,21495.0
+2020 Toyota,C-HR,Brossard · QC,71620.0,23985.0
+2024 Bmw,330,Blainville · QC,6200.0,69507.0
+2020 Ford,F-150,Saint-Eustache · QC,98000.0,36450.0
+2016 Honda,Civic Coupe,Saint-Hubert · QC,46744.0,19999.0
+2018 Audi,A5 Sportback,Saint-Hubert · QC,114457.0,28999.0
+2020 Kia,Forte,Saint-Jerome · QC,37965.0,18985.0
+2022 Tesla,Model 3,Pincourt · QC,50811.0,37990.0
+2016 Kia,Rio,Saint-Hubert · QC,52013.0,14999.0
+2020 Kia,Soul,Saint-Jerome · QC,75052.0,17695.0
+2017 Hyundai,Veloster,Saint-Hubert · QC,64617.0,20499.0
+2020 Kia,Sorento,Saint-Eustache · QC,78705.0,27995.0
+2018 Kia,Sportage,Saint-Jerome · QC,64453.0,20695.0
+2020 Ford,Escape,Saint-Eustache · QC,51398.0,28333.0
+2021 Mercedes-Benz,Sprinter 2500 Cargo 170,Laval · QC,43336.0,58995.0
+2016 Dodge,Journey,Saint-Hubert · QC,106502.0,17999.0
+2019 Honda,CR-V,Saint-Hubert · QC,103775.0,24499.0
+2019 Gmc,TERRAIN DENALI,Pincourt · QC,101580.0,23937.0
+2018 Hyundai,Elantra Gt,Saint-Hubert · QC,101180.0,17999.0
+2015 Honda,Accord Sedan,Pincourt · QC,133419.0,13038.0
+2020 Chrysler,Pacifica Hybrid,Saint-Eustache · QC,69948.0,43997.0
+2013 Chevrolet,Volt,Saint-Hyacinthe · QC,188914.0,11991.0
+2021 Mazda,CX-5,Pincourt · QC,38123.0,27477.0
+2021 Kia,Forte,Saint-Hubert · QC,84732.0,22949.0
+2022 Mercedes-Benz,GLC300,Laval · QC,27280.0,50995.0
+2013 Nissan,Maxima,Pincourt · QC,158123.0,9499.0
+2019 Honda,CR-V,Notre-Dame-des-Prairies · QC,129000.0,23949.0
+2019 Chevrolet,Blazer,Pincourt · QC,111674.0,30758.0
+2023 Kia,Niro EV,Saint-Jerome · QC,25.0,40525.0
+2019 Subaru,Crosstrek,Pincourt · QC,75863.0,22038.0
+2022 Hyundai,Venue,Saint-Eustache · QC,42269.0,21997.0
+2022 Gmc,Sierra 1500,Granby · QC,42388.0,63988.0
+2019 Volkswagen,Jetta,Saint-Hubert · QC,45540.0,20999.0
+2019 Kia,Niro,Saint-Eustache · QC,93034.0,22995.0
+2021 Ram,3500,Pincourt · QC,39391.0,52142.0
+2022 Hyundai,Kona Electric,Saint-Eustache · QC,33762.0,30777.0
+2020 Hyundai,Kona,Brossard · QC,109551.0,22975.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,93488.0,31299.0
+2012 Lexus,RX 350,Blainville · QC,83500.0,18950.0
+2021 Mercedes-Benz,GLS450,Laval · QC,60378.0,80995.0
+2022 Chevrolet,Camaro,Saint-Hubert · QC,55228.0,39999.0
+2023 Kia,Sportage Hybrid,Saint-Jerome · QC,32265.0,40995.0
+2012 Hyundai,Santa Fe,Pincourt · QC,150000.0,8299.0
+2020 Bmw,X2,Pincourt · QC,23500.0,32043.0
+2023 Bmw,X4,Laval · QC,20423.0,58995.0
+2021 Kia,Soul,Saint-Hubert · QC,91328.0,19999.0
+2018 Dodge,Grand Caravan,Saint-Hubert · QC,105194.0,23499.0
+2020 Ram,1500,Granby · QC,86243.0,46988.0
+2018 Acura,RDX,Saint-Hubert · QC,69862.0,25999.0
+2024 Bmw,330,Blainville · QC,5800.0,69233.0
+2021 Chevrolet,Trailblazer,Granby · QC,38404.0,24488.0
+2018 Chevrolet,Equinox,Pincourt · QC,104100.0,19721.0
+2010 Gmc,Terrain,Saint-Eustache · QC,90047.0,7997.0
+2020 Ford,Fusion Energi,Pincourt · QC,93830.0,19298.0
+2019 Subaru,Impreza,Saint-Hubert · QC,124005.0,18999.0
+2015 Mini,Cooper Hardtop 5 Door,Pincourt · QC,99044.0,12975.0
+2023 Kia,Stinger,Saint-Jerome · QC,19366.0,48695.0
+2021 Volkswagen,Tiguan,Saint-Hubert · QC,94805.0,27999.0
+2021 Genesis,GV80,Brossard · QC,48210.0,62485.0
+2021 Nissan,Kicks,Saint-Jerome · QC,27984.0,22485.0
+2019 Subaru,Crosstrek,Blainville · QC,52426.0,23487.0
+2020 Honda,HR-V,Blainville · QC,68215.0,25987.0
+2020 Audi,Q3,Saint-Hubert · QC,120049.0,26999.0
+2019 Gmc,Terrain,Pincourt · QC,92203.0,28936.0
+2017 Hyundai,SANTA FE SPORT,Blainville · QC,142676.0,16987.0
+2018 Chevrolet,Cruze,Saint-Hubert · QC,80655.0,17999.0
+2013 Mazda,MAZDA5,Pincourt · QC,136225.0,8499.0
+2016 Hyundai,Sonata,Pincourt · QC,180981.0,10038.0
+2021 Hyundai,Tucson,Saint-Hubert · QC,12801.0,26999.0
+2018 Mazda,CX-5,Saint-Eustache · QC,109087.0,20222.0
+2017 Nissan,Rogue,Saint-Jerome · QC,101133.0,15595.0
+2019 Honda,Civic Coupe,Pincourt · QC,174555.0,14477.0
+2020 Honda,Civic,Pincourt · QC,65369.0,21495.0
+2022 Ram,1500,Brossard · QC,21512.0,57985.0
+2021 Toyota,RAV4,Pincourt · QC,74681.0,29490.0
+2021 Bmw,X7,Blainville · QC,65000.0,72900.0
+2019 Volvo,S60,Saint-Hubert · QC,89440.0,26999.0
+2018 Honda,CR-V,Pincourt · QC,61205.0,22995.0
+2022 Ford,E-450,Saint-Eustache · QC,51000.0,45950.0
+2020 Kia,Forte,Saint-Jerome · QC,85922.0,18285.0
+2019 Kia,Soul EV,Saint-Hubert · QC,64000.0,16999.0
+2023 Hyundai,Venue,Brossard · QC,74.0,26475.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,73062.0,22999.0
+2021 Toyota,Corolla,Saint-Hubert · QC,83800.0,22999.0
+2015 Infiniti,Qx60,Pincourt · QC,167970.0,15038.0
+2023 Hyundai,Kona,Pincourt · QC,20974.0,26543.0
+2020 Jeep,Wrangler,Saint-Eustache · QC,126889.0,39944.0
+2023 Bmw,X3,Blainville · QC,7700.0,65789.0
+2018 Hyundai,Elantra,Brossard · QC,138581.0,16475.0
+2017 Dodge,Grand Caravan,Saint-Eustache · QC,75000.0,18997.0
+2018 Nissan,Leaf,Pincourt · QC,112343.0,15298.0
+2018 Ford,EcoSport,Saint-Jerome · QC,25617.0,18955.0
+2021 Chevrolet,Bolt EV,Pincourt · QC,59166.0,26978.0
+2021 Kia,Forte,Saint-Hubert · QC,80527.0,23499.0
+2018 Tesla,Model 3,Pincourt · QC,110611.0,28798.0
+2023 Chevrolet,Bolt EUV,Saint-Eustache · QC,12058.0,33994.0
+2023 Mercedes-Benz,C-Class,Blainville · QC,2250.0,61950.0
+2016 Toyota,RAV4,Pincourt · QC,98784.0,20990.0
+2018 Cadillac,XT5,Blainville · QC,65805.0,27992.0
+2023 Kia,Seltos,Saint-Jerome · QC,22234.0,32495.0
+2019 Mitsubishi,Outlander PHEV,Saint-Hubert · QC,68968.0,25499.0
+2021 Hyundai,Kona,Saint-Eustache · QC,57671.0,21997.0
+2019 Mazda,CX-3,Granby · QC,43777.0,19988.0
+2018 Chevrolet,Trax,Pincourt · QC,97140.0,16046.0
+2022 Mercedes-Benz,GLA250,Laval · QC,64.0,53995.0
+2021 Mercedes-Benz,A220,Laval · QC,24533.0,39995.0
+2019 Audi,Q5,Pincourt · QC,98407.0,26298.0
+2021 Hyundai,Tucson,Brossard · QC,55009.0,32795.0
+2015 Audi,Q5,Saint-Hubert · QC,144146.0,14999.0
+2022 Mazda,CX-30,Pincourt · QC,56295.0,26888.0
+2018 Mazda,MX-5,Brossard · QC,23400.0,27775.0
+2019 Nissan,Rogue,Saint-Eustache · QC,62962.0,24995.0
+2016 Kia,Cadenza,Saint-Hubert · QC,95325.0,16499.0
+2024 Toyota,4Runner,Montreal · QC,13.0,63791.0
+2019 Gmc,Sierra 1500,Drummondville · QC,104210.0,34995.0
+2018 Hyundai,SANTA FE SPORT,Saint-Hyacinthe · QC,142625.0,16694.0
+2022 Chevrolet,2500,Saint-Hyacinthe · QC,28000.0,82993.0
+2020 Kia,Niro EV,Saint-Jerome · QC,79439.0,26885.0
+2021 Volkswagen,Golf,Saint-Hubert · QC,79184.0,24449.0
+2020 Gmc,Savana,Saint-Hyacinthe · QC,54702.0,39894.0
+2013 Nissan,Sentra,Saint-Hyacinthe · QC,198119.0,7994.0
+2021 Toyota,C-HR,Saint-Hubert · QC,92142.0,24499.0
+2023 Genesis,GV60,Brossard · QC,12593.0,69985.0
+2021 Hyundai,Venue,Saint-Hubert · QC,84927.0,19999.0
+2022 Jeep,Compass,Saint-Hubert · QC,84784.0,25499.0
+2020 Nissan,Murano,Montreal · QC,34178.0,30900.0
+2019 Ford,Fusion Energi,Saint-Eustache · QC,96149.0,21995.0
+2020 Mercedes-Benz,C300,Laval · QC,98220.0,31495.0
+2022 Ford,EDGE,Saint-Eustache · QC,39000.0,35450.0
+2020 Kia,Forte5,Saint-Jerome · QC,59657.0,23995.0
+2019 Lexus,Is,Granby · QC,45270.0,37988.0
+2018 Toyota,RAV4,Pincourt · QC,106130.0,19990.0
+2019 Honda,CR-V,Notre-Dame-des-Prairies · QC,34500.0,29849.0
+2023 Honda,Civic,Pincourt · QC,11398.0,29995.0
+2017 Gmc,Acadia,Pincourt · QC,126719.0,21980.0
+2020 Volvo,XC60,Saint-Hubert · QC,55399.0,33999.0
+2020 Honda,CR-V,Pincourt · QC,120163.0,24995.0
+2021 Toyota,RAV4,Granby · QC,68762.0,31995.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,78675.0,22999.0
+2021 Bmw,X5 M,Blainville · QC,61800.0,60950.0
+2006 Ford,Mustang,Pincourt · QC,92699.0,17043.0
+2022 Toyota,Corolla,Saint-Hubert · QC,59963.0,24499.0
+2022 Toyota,Corolla Cross,Saint-Eustache · QC,13337.0,31333.0
+2022 Toyota,Corolla,Pincourt · QC,29733.0,24990.0
+2018 Hyundai,Sonata,Saint-Hubert · QC,94343.0,20999.0
+2020 Dodge,Grand Caravan,Saint-Hubert · QC,81832.0,25949.0
+2020 Honda,Passport,Saint-Hubert · QC,137039.0,31499.0
+2021 Kia,Forte,Saint-Hubert · QC,85577.0,19999.0
+2021 Ford,Bronco Sport,Saint-Hubert · QC,82941.0,26499.0
+2021 Hyundai,Tucson,Saint-Eustache · QC,58323.0,22993.0
+2022 Mercedes-Benz,GLC300,Laval · QC,3415.0,62995.0
+2020 Toyota,Camry,Granby · QC,67707.0,27495.0
+2017 Kia,Sorento,Granby · QC,130739.0,18984.0
+2020 Ram,1500 Classic,Saint-Eustache · QC,60872.0,34495.0
+2017 Kia,Niro,Saint-Hubert · QC,126041.0,16999.0
+2018 Hyundai,Elantra Gt,Saint-Eustache · QC,95667.0,16997.0
+2018 Toyota,Yaris Hatchback,Pincourt · QC,66198.0,16990.0
+2021 Kia,Forte,Saint-Hubert · QC,77356.0,21999.0
+2021 Toyota,Corolla Hatchback,Saint-Hubert · QC,71635.0,23949.0
+2023 Mitsubishi,Eclipse Cross,Blainville · QC,16657.0,35992.0
+2023 Toyota,Corolla Cross,Pincourt · QC,16049.0,33990.0
+2019 Honda,Odyssey,Saint-Hubert · QC,97681.0,32499.0
+2022 Honda,CR-V,Pincourt · QC,23266.0,30995.0
+2016 Mitsubishi,Outlander,Blainville · QC,105344.0,17987.0
+2020 Gmc,Terrain,Saint-Hubert · QC,112424.0,27999.0
+2014 Honda,CR-V TOURING,Pincourt · QC,202000.0,11889.0
+2022 Chevrolet,Bolt EV,Brossard · QC,9385.0,35485.0
+2023 Genesis,GV60,Brossard · QC,29693.0,63985.0
+2017 Volkswagen,Tiguan,Saint-Hubert · QC,123311.0,17999.0
+2018 Hyundai,Kona,Blainville · QC,89335.0,17487.0
+2020 Toyota,Prius Prime,Pincourt · QC,152654.0,20538.0
+2020 Honda,CR-V,Pincourt · QC,40299.0,28995.0
+2021 Bmw,X5,Blainville · QC,74800.0,56950.0
+2017 Nissan,Qashqai,Saint-Hubert · QC,97987.0,16999.0
+2017 Mitsubishi,Outlander,Blainville · QC,118000.0,18950.0
+2021 Volkswagen,Passat,Pincourt · QC,86269.0,20990.0
+2018 Volkswagen,Golf R,Granby · QC,141285.0,28988.0
+2020 Bmw,X5,Blainville · QC,56100.0,53950.0
+2016 Hyundai,Elantra,Saint-Jerome · QC,139011.0,11955.0
+2024 Toyota,Corolla,Montreal · QC,13.0,31581.0
+2020 Kia,Forte,Saint-Hubert · QC,83506.0,19999.0
+2024 Toyota,BZ4X,Montreal · QC,13.0,45997.0
+2022 Cadillac,Escalade,Pincourt · QC,40875.0,95036.0
+2022 Bmw,3 Series,Blainville · QC,19750.0,61950.0
+2019 Kia,Rio 5-door,Saint-Jerome · QC,72179.0,18985.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,60693.0,22499.0
+2018 Kia,Sorento,Saint-Jerome · QC,111989.0,22985.0
+2019 Ford,F-150,Saint-Eustache · QC,77000.0,33850.0
+2021 Mazda,CX-5,Pincourt · QC,81682.0,26977.0
+2014 Mazda,CX-5,Pincourt · QC,182804.0,12499.0
+2016 Mazda,CX-5,Pincourt · QC,110675.0,12499.0
+2020 Mitsubishi,RVR,Blainville · QC,102909.0,17792.0
+2022 Kia,EV6,Saint-Hubert · QC,12542.0,41949.0
+2021 Hyundai,Tucson,Blainville · QC,84260.0,20987.0
+2019 Hyundai,Ioniq Electric,Saint-Hubert · QC,58307.0,20999.0
+2020 Bmw,X3,Blainville · QC,89000.0,33450.0
+2019 Mini,3 Door,Blainville · QC,63262.0,17992.0
+2019 Chevrolet,Equinox,Saint-Eustache · QC,129500.0,24995.0
+2018 Audi,A4,Saint-Hubert · QC,81038.0,25949.0
+2022 Honda,Civic Sedan,Saint-Hubert · QC,71470.0,24999.0
+2021 Mazda,CX-5,Pincourt · QC,91885.0,24277.0
+2021 Hyundai,Venue,Saint-Hubert · QC,91915.0,20499.0
+2021 Hyundai,Sonata,Saint-Hubert · QC,88032.0,21999.0
+2017 Hyundai,Tucson,Blainville · QC,71238.0,18987.0
+2021 Mazda,CX-3,Saint-Hubert · QC,92022.0,23499.0
+2012 Chevrolet,Corvette,Saint-Hyacinthe · QC,74000.0,53495.0
+2019 Ford,ESCAPE SE,Pincourt · QC,137438.0,16937.0
+2021 Volvo,S90,Saint-Hubert · QC,46164.0,35499.0
+2022 Toyota,RAV4,Saint-Hubert · QC,56442.0,31999.0
+2020 Mazda,CX-5,Pincourt · QC,55126.0,25038.0
+2020 Bmw,X3,Blainville · QC,60000.0,35950.0
+2018 Acura,ILX,Brossard · QC,72782.0,20985.0
+2018 Toyota,RAV4,Pincourt · QC,79041.0,22038.0
+2024 Toyota,BZ4X,Montreal · QC,13.0,40997.0
+2016 Nissan,Murano,Saint-Hubert · QC,108464.0,19449.0
+2018 Kia,Sportage,Saint-Hubert · QC,49582.0,23999.0
+2019 Chevrolet,Silverado 1500,Saint-Eustache · QC,114741.0,39444.0
+2021 Nissan,Maxima,Saint-Hubert · QC,83675.0,28949.0
+2019 Toyota,Yaris Hatchback,Granby · QC,40097.0,19995.0
+2020 Honda,CR-V,Granby · QC,56844.0,26995.0
+2018 Audi,Q7,Saint-Hubert · QC,146489.0,26999.0
+2014 Ford,Escape,Saint-Eustache · QC,134000.0,12850.0
+2020 Bmw,X3,Blainville · QC,74500.0,35950.0
+2021 Hyundai,Elantra,Brossard · QC,19548.0,24475.0
+2010 Honda,CR-V,Granby · QC,217975.0,7995.0
+2019 Nissan,Kicks,Saint-Hubert · QC,112070.0,19449.0
+2018 Mercedes-Benz,E Class,Brossard · QC,70801.0,45985.0
+2021 Honda,CR-V,Notre-Dame-des-Prairies · QC,75000.0,28749.0
+2022 Gmc,Sierra 1500 Limited,Drummondville · QC,15398.0,54995.0
+2021 Ford,F-150,Saint-Jerome · QC,59082.0,49955.0
+2021 Toyota,RAV4,Montreal · QC,76425.0,28900.0
+2023 Hyundai,Kona,Brossard · QC,10300.0,31985.0
+2018 Chevrolet,Equinox,Pincourt · QC,79091.0,18482.0
+2023 Chevrolet,Tahoe,Saint-Hyacinthe · QC,11600.0,67994.0
+2020 Nissan,Murano,Pincourt · QC,52945.0,26990.0
+2016 Volkswagen,Jetta,Saint-Hubert · QC,85445.0,16999.0
+2020 Hyundai,Santa Fe,Saint-Eustache · QC,53210.0,30997.0
+2021 Toyota,RAV4,Saint-Hubert · QC,92984.0,28499.0
+2017 Kia,Sportage,Saint-Hubert · QC,84945.0,21499.0
+2023 Toyota,VENZA HYBRID,Montreal · QC,13738.0,56658.0
+2012 Hyundai,Elantra Touring,Brossard · QC,73224.0,6985.0
+2024 Toyota,BZ4X,Montreal · QC,13.0,41252.0
+2020 Kia,Niro EV,Saint-Jerome · QC,51682.0,30985.0
+2023 Genesis,Electrified GV70,Brossard · QC,7455.0,77775.0
+2010 Kia,Forte,Saint-Hyacinthe · QC,258000.0,3894.0
+2019 Volkswagen,Golf,Saint-Hubert · QC,69099.0,20499.0
+2018 Toyota,Sienna,Pincourt · QC,108574.0,31038.0
+2020 Ford,F-150,Saint-Jerome · QC,46554.0,38955.0
+2018 Kia,Forte,Saint-Jerome · QC,87400.0,14595.0
+2016 Fiat,500,Granby · QC,61300.0,12988.0
+2017 Kia,Rio,Saint-Hubert · QC,52907.0,15999.0
+2021 Kia,Rio 5-door,Saint-Eustache · QC,91095.0,20995.0
+2021 Toyota,Corolla,Granby · QC,32890.0,22995.0
+2020 Subaru,Impreza,Saint-Eustache · QC,81428.0,23995.0
+2020 Toyota,RAV4,Saint-Hubert · QC,125194.0,25499.0
+2020 Kia,Forte,Saint-Hubert · QC,11242.0,20299.0
+2019 Honda,Civic,Pincourt · QC,90396.0,18495.0
+2017 Kia,Forte,Saint-Hubert · QC,84178.0,15499.0
+2021 Gmc,Terrain,Saint-Hyacinthe · QC,44793.0,26994.0
+2022 Hyundai,Kona Electric,Saint-Eustache · QC,47981.0,29997.0
+2019 Gmc,Sierra 1500,Granby · QC,80279.0,44988.0
+2022 Kia,Seltos,Saint-Jerome · QC,27164.0,27995.0
+2018 Kia,Sorento,Saint-Eustache · QC,151976.0,18994.0
+2017 Lincoln,MKC,Brossard · QC,82363.0,21785.0
+2021 Hyundai,Elantra,Brossard · QC,43800.0,26485.0
+2021 Toyota,RAV4,Granby · QC,54794.0,31495.0
+2024 Toyota,4Runner,Montreal · QC,17.0,60751.0
+2012 Cadillac,SRX,Pincourt · QC,139349.0,12036.0
+2020 Kia,Stinger,Saint-Jerome · QC,65141.0,36495.0
+2019 Honda,CR-V,Pincourt · QC,64711.0,24695.0
+2018 Buick,Encore,Saint-Hubert · QC,111023.0,18499.0
+2021 Chevrolet,TRAILBLAZER LT,Pincourt · QC,65750.0,23937.0
+2017 Ford,Escape,Pincourt · QC,155269.0,13477.0
+2021 Hyundai,Kona Electric,Saint-Jerome · QC,37995.0,30495.0
+2022 Chevrolet,Silverado 1500,Pincourt · QC,39376.0,55093.0
+2020 Acura,MDX,Pincourt · QC,69195.0,35043.0
+2020 Hyundai,Elantra,Pincourt · QC,61001.0,18990.0
+2021 Hyundai,Kona Electric,Saint-Jerome · QC,56686.0,26895.0
+2019 Hyundai,Santa Fe,Brossard · QC,33859.0,32785.0
+2022 Genesis,G70,Brossard · QC,33460.0,44975.0
+2021 Toyota,Corolla Hatchback,Saint-Hubert · QC,79174.0,22999.0
+2019 Mazda,Mazda3,Saint-Hubert · QC,88115.0,20949.0
+2018 Mercedes-Benz,GLA,Saint-Hubert · QC,100776.0,23999.0
+2016 Kia,Rio,Pincourt · QC,123315.0,8699.0
+2020 Kia,Soul,Saint-Hubert · QC,56717.0,19499.0
+2022 Hyundai,Santa Fe,Brossard · QC,25317.0,36455.0
+2019 Hyundai,Kona Electric,Notre-Dame-des-Prairies · QC,71000.0,25849.0
+2016 Kia,Rio,Blainville · QC,108149.0,8688.0
+2018 Gmc,Terrain,Pincourt · QC,32500.0,24931.0
+2020 Nissan,Sentra,Saint-Hubert · QC,69785.0,19999.0
+2019 Cadillac,XT5,Saint-Hubert · QC,96752.0,28949.0
+2021 Toyota,RAV4,Pincourt · QC,96911.0,28338.0
+2014 Audi,A5,Brossard · QC,167635.0,13985.0
+2020 Volkswagen,Tiguan,Saint-Hubert · QC,44700.0,26999.0
+2018 Ford,FOCUS,Saint-Hubert · QC,156141.0,14949.0
+2016 Toyota,Prius,Montreal · QC,62160.0,20900.0
+2020 Mazda,CX-30,Pincourt · QC,38100.0,23277.0
+2020 Lincoln,Corsair,Saint-Hubert · QC,89737.0,28299.0
+2021 Toyota,RAV4,Saint-Hubert · QC,81800.0,30449.0
+2022 Mitsubishi,Outlander,Blainville · QC,18904.0,36492.0
+2020 Nissan,Kicks,Saint-Eustache · QC,94456.0,16998.0
+2016 Mazda,MAZDA6,Pincourt · QC,120015.0,15977.0
+2016 Mini,Cooper Clubman,Pincourt · QC,137700.0,13798.0
+2021 Ford,Ranger,Saint-Hubert · QC,22676.0,38999.0
+2017 Ford,Escape,Pincourt · QC,121000.0,13798.0
+2018 Buick,Encore,Saint-Hubert · QC,99239.0,20449.0
+2021 Nissan,Qashqai,Granby · QC,33098.0,23988.0
+2018 Audi,Q3,Pincourt · QC,67000.0,21798.0
+2020 Subaru,Wrx,Saint-Hubert · QC,62717.0,26499.0
+2019 Honda,CR-V,Pincourt · QC,128971.0,22995.0
+2016 Tesla,Model S,Blainville · QC,91707.0,39987.0
+2017 Subaru,Impreza,Blainville · QC,127637.0,15987.0
+2022 Ford,F-150,Saint-Jerome · QC,49963.0,46955.0
+2021 Kia,Seltos,Saint-Hubert · QC,50767.0,23999.0
+2022 Toyota,Tundra,Granby · QC,53955.0,55995.0
+2021 Chevrolet,Silverado 1500,Granby · QC,79025.0,51988.0
+2019 Mazda,CX-5,Brossard · QC,99409.0,23485.0
+2018 Mitsubishi,Eclipse Cross,Blainville · QC,49882.0,21492.0
+2017 Dodge,Grand Caravan,Saint-Hubert · QC,113923.0,20449.0
+2017 Dodge,Grand Caravan,Saint-Hubert · QC,78972.0,21499.0
+2024 Nissan,Versa,Saint-Hubert · QC,2319.0,23499.0
+2018 Jeep,Grand Cherokee,Saint-Hubert · QC,108921.0,28449.0
+2022 Bmw,X5,Blainville · QC,45000.0,74550.0
+2020 Ford,Transit,Saint-Eustache · QC,92000.0,42950.0
+2020 Toyota,RAV4 Hybrid,Granby · QC,61791.0,37995.0
+2022 Kia,Stinger,Saint-Jerome · QC,28232.0,47495.0
+2022 Gmc,Sierra 1500,Pincourt · QC,78805.0,55272.0
+2012 Toyota,Venza AWD,Pincourt · QC,142000.0,12888.0
+2016 Ford,Mustang,Pincourt · QC,160010.0,24543.0
+2018 Jeep,Grand Cherokee,Saint-Hubert · QC,104681.0,28499.0
+2018 Hyundai,Elantra,Brossard · QC,158000.0,13985.0
+2017 Kia,Sorento,Brossard · QC,142870.0,18485.0
+2017 Volkswagen,Jetta Sedan,Saint-Hubert · QC,103802.0,14999.0
+2019 Mini,COUNTRYMAN,Brossard · QC,45057.0,25787.0
+2023 Genesis,Electrified GV70,Brossard · QC,2725.0,78985.0
+2008 Toyota,Matrix,Pincourt · QC,299999.0,2888.0
+2021 Mercedes-Benz,GLB250,Laval · QC,23885.0,42995.0
+2021 Nissan,Rogue,Blainville · QC,36635.0,30987.0
+2020 Mitsubishi,RVR,Blainville · QC,50786.0,20742.0
+2021 Dodge,Charger,Brossard · QC,36103.0,48985.0
+2012 Hyundai,Elantra,Pincourt · QC,142304.0,7038.0
+2019 Mitsubishi,Eclipse Cross,Blainville · QC,86040.0,19841.0
+2024 Bmw,X3,Blainville · QC,3075.0,69742.0
+2016 Mazda,CX-5,Pincourt · QC,100500.0,18977.0
+2016 Nissan,Micra,Granby · QC,105111.0,9995.0
+2020 Bmw,X4 M,Granby · QC,54209.0,68988.0
+2019 Nissan,Micra,Saint-Hubert · QC,31610.0,19449.0
+2021 Kia,Forte,Saint-Hubert · QC,106708.0,20499.0
+2020 Nissan,Rogue,Pincourt · QC,40138.0,19697.0
+2015 Hyundai,Elantra,Saint-Eustache · QC,64296.0,11994.0
+2017 Toyota,Highlander,Granby · QC,76248.0,31988.0
+2019 Nissan,Kicks,Saint-Jerome · QC,30772.0,20485.0
+2022 Volkswagen,Taos,Saint-Hubert · QC,49774.0,31499.0
+2018 Honda,Civic,Pincourt · QC,40517.0,21695.0
+2019 Bmw,X2,Saint-Hubert · QC,127612.0,25499.0
+2020 Toyota,Corolla,Montreal · QC,38428.0,21900.0
+2021 Ford,Escape,Pincourt · QC,51835.0,26043.0
+2020 Gmc,Acadia,Brossard · QC,76867.0,28985.0
+2016 Mazda,CX-3,Saint-Eustache · QC,97312.0,15777.0
+2019 Hyundai,Ioniq Electric,Brossard · QC,50396.0,24495.0
+2021 Hyundai,Venue,Saint-Hubert · QC,87347.0,19999.0
+2021 Kia,Sportage,Saint-Jerome · QC,98945.0,21485.0
+2018 Chevrolet,Silverado 2500HD,Granby · QC,185858.0,46988.0
+2018 Volkswagen,Tiguan,Saint-Hubert · QC,107549.0,22999.0
+2018 Alfa Romeo,Giulia,Saint-Hubert · QC,55547.0,27499.0
+2021 Bmw,X3,Blainville · QC,44500.0,33950.0
+2021 Toyota,Tundra,Granby · QC,92000.0,44988.0
+2022 Chevrolet,Silverado 1500,Drummondville · QC,15795.0,52995.0
+2023 Mitsubishi,RVR,Saint-Hubert · QC,7028.0,25499.0
+2019 Nissan,Kicks,Saint-Hubert · QC,82169.0,19999.0
+2019 Ford,EDGE,Saint-Hubert · QC,112930.0,23949.0
+2018 Kia,Rio 5-door,Saint-Hubert · QC,93764.0,18499.0
+2022 Tesla,Model 3,Brossard · QC,37800.0,49985.0
+2016 Mini,Cooper,Saint-Hubert · QC,59765.0,14499.0
+2020 Hyundai,Ioniq Electric,Saint-Hubert · QC,77275.0,21499.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,77030.0,22999.0
+2023 Hyundai,Kona,Saint-Jerome · QC,20848.0,23895.0
+2017 Kia,Rio,Saint-Jerome · QC,105514.0,13985.0
+2018 Nissan,Leaf,Saint-Eustache · QC,139369.0,16995.0
+2024 Kia,Seltos,Pincourt · QC,14006.0,29995.0
+2018 Kia,Rio 5-door,Saint-Jerome · QC,52647.0,16995.0
+2014 Chevrolet,Trax,Pincourt · QC,144821.0,8978.0
+2019 Toyota,Prius C,Montreal · QC,57052.0,21900.0
+2022 Chevrolet,EQUINOX LT,Pincourt · QC,15200.0,28537.0
+2021 Buick,Envision,Pincourt · QC,14828.0,32307.0
+2022 Audi,Q3,Blainville · QC,8500.0,39950.0
+2017 Chevrolet,Malibu,Saint-Jerome · QC,115960.0,15995.0
+2018 Honda,Civic,Pincourt · QC,183020.0,15995.0
+2021 Ford,F-150,Saint-Jerome · QC,78681.0,49955.0
+2023 Toyota,SIENNA XSE 7 PLACES,Montreal · QC,31293.0,62900.0
+2018 Audi,A3,Blainville · QC,71000.0,21950.0
+2021 Buick,Encore GX,Pincourt · QC,48406.0,23790.0
+2013 Toyota,Prius C,Montreal · QC,204563.0,9900.0
+2019 Honda,Civic,Pincourt · QC,92891.0,18295.0
+2019 Hyundai,Elantra,Brossard · QC,95017.0,18485.0
+2013 Hyundai,Elantra,Pincourt · QC,216805.0,5999.0
+2020 Mazda,CX-5,Pincourt · QC,94725.0,23477.0
+2019 Jeep,Compass,Pincourt · QC,90249.0,20990.0
+2019 Kia,Forte,Saint-Jerome · QC,101115.0,14495.0
+2021 Toyota,4Runner,Pincourt · QC,111970.0,47338.0
+2021 Mazda,CX-5,Saint-Eustache · QC,65362.0,25997.0
+2021 Nissan,Rogue,Saint-Eustache · QC,61843.0,24994.0
+2018 Hyundai,Tucson,Saint-Eustache · QC,97000.0,19450.0
+2019 Subaru,Wrx,Saint-Jerome · QC,54634.0,25495.0
+2022 Nissan,Rogue,Blainville · QC,14542.0,34986.0
+2017 Buick,Encore,Pincourt · QC,51684.0,18861.0
+2019 Honda,CIVIC SPORT,Pincourt · QC,69239.0,21257.0
+2019 Hyundai,Santa Fe,Saint-Eustache · QC,88901.0,22996.0
+2020 Bmw,3 Series,Blainville · QC,61600.0,32950.0
+2019 Toyota,COROLLA LE CVT,Montreal · QC,50929.0,20690.0
+2019 Chevrolet,Express,Saint-Hyacinthe · QC,86371.0,44894.0
+2022 Ford,Maverick,Saint-Eustache · QC,46891.0,32995.0
+2020 Mazda,CX-5,Pincourt · QC,65901.0,24977.0
+2011 Jeep,Grand Cherokee,Pincourt · QC,178000.0,9999.0
+2020 Honda,Civic,Pincourt · QC,85767.0,22995.0
+2020 Hyundai,Elantra,Blainville · QC,47036.0,22987.0
+2019 Kia,Sorento,Saint-Eustache · QC,86623.0,25995.0
+2020 Hyundai,Tucson,Saint-Eustache · QC,60411.0,22889.0
+2024 Honda,Pilot,Pincourt · QC,5800.0,64495.0
+2022 Chevrolet,Trailblazer,Pincourt · QC,22972.0,29043.0
+2020 Volvo,XC40,Saint-Jerome · QC,82707.0,28985.0
+2018 Acura,TLX,Saint-Eustache · QC,139461.0,22994.0
+2017 Hyundai,Tucson,Saint-Hyacinthe · QC,126030.0,17994.0
+2015 Mercedes-Benz,GLA-Class,Pincourt · QC,89601.0,19477.0
+2022 Kia,Sorento,Saint-Eustache · QC,55326.0,34992.0
+2021 Ford,Escape,Saint-Eustache · QC,126497.0,21995.0
+2020 Ford,Transit Cargo Van,Pincourt · QC,80053.0,48543.0
+2016 Audi,Q3,Pincourt · QC,116000.0,16036.0
+2021 Cadillac,XT4,Brossard · QC,75445.0,36485.0
+2019 Ford,EcoSport,Pincourt · QC,28162.0,20543.0
+2021 Kia,Rio 5-door,Pincourt · QC,57836.0,18038.0
+2020 Acura,RDX,Brossard · QC,55405.0,38985.0
+2011 Mazda,Mazda2,Blainville · QC,158563.0,6487.0
+2019 Gmc,Sierra 2500HD,Granby · QC,67138.0,43988.0
+2023 Bmw,2 Series,Blainville · QC,22000.0,58950.0
+2021 Mazda,CX-5,Pincourt · QC,86585.0,24477.0
+2016 Nissan,Rogue,Blainville · QC,130798.0,13941.0
+2021 Hyundai,Elantra Hybrid,Brossard · QC,49096.0,26985.0
+2012 Hyundai,Accent,Saint-Eustache · QC,129341.0,6997.0
+2020 Honda,Civic Sedan,Pincourt · QC,93969.0,19043.0
+2014 Acura,ILX,Pincourt · QC,157251.0,11543.0
+2018 Ram,1500,Blainville · QC,103500.0,33950.0
+2022 Ford,F-150 Lightning,Saint-Eustache · QC,24000.0,82850.0
+2019 Cadillac,XT4,Pincourt · QC,69800.0,30536.0
+2021 Bmw,X5,Blainville · QC,44500.0,59950.0
+2023 Cadillac,XT4,Pincourt · QC,17166.0,46536.0
+2017 Ford,Fusion Energi,Saint-Eustache · QC,135800.0,16995.0
+2021 Toyota,Corolla,Pincourt · QC,47574.0,23038.0
+2022 Chevrolet,Equinox,Saint-Hyacinthe · QC,13120.0,27995.0
+2020 Toyota,Camry Hybrid,Granby · QC,94243.0,26495.0
+2023 Bmw,3 Series,Blainville · QC,8100.0,60476.0
+2021 Hyundai,Sonata,Brossard · QC,92217.0,27985.0
+2020 Jeep,Wrangler,Blainville · QC,66347.0,35987.0
+2021 Hyundai,Tucson,Saint-Eustache · QC,31970.0,23994.0
+2020 Mazda,CX-30,Brossard · QC,93117.0,23775.0
+2024 Mitsubishi,Outlander,Blainville · QC,2000.0,47494.0
+2021 Toyota,Prius Prime,Granby · QC,138111.0,21995.0
+2023 Tesla,Model 3,Saint-Jerome · QC,9023.0,42995.0
+2022 Chevrolet,Bolt EV,Saint-Eustache · QC,36000.0,29450.0
+2023 Bmw,5 Series,Blainville · QC,8800.0,67774.0
+2023 Ford,F-150,Saint-Jerome · QC,9994.0,56955.0
+2019 Honda,Ridgeline,Notre-Dame-des-Prairies · QC,89124.0,34971.0
+2021 Ford,Escape,Saint-Eustache · QC,42000.0,23950.0
+2018 Bmw,3 Series,Pincourt · QC,70047.0,26038.0
+2017 Lexus,NX 200t,Blainville · QC,117000.0,26950.0
+2022 Honda,Civic Sedan,Notre-Dame-des-Prairies · QC,29059.0,29227.0
+2020 Mitsubishi,Outlander,Blainville · QC,50125.0,24992.0
+2019 Nissan,Qashqai,Granby · QC,45161.0,21495.0
+2023 Toyota,Prius Prime,Granby · QC,14498.0,42995.0
+2020 Toyota,RAV4 Hybrid,Granby · QC,49133.0,38949.0
+2021 Toyota,RAV4 Hybrid,Granby · QC,70478.0,42995.0
+2017 Toyota,4Runner,Blainville · QC,212800.0,24950.0
+2013 Chrysler,300,Pincourt · QC,127177.0,13188.0
+2021 Mazda,CX-5,Pincourt · QC,40255.0,23977.0
+2020 Kia,Forte,Notre-Dame-des-Prairies · QC,97500.0,17949.0
+2016 Toyota,Prius,Blainville · QC,105624.0,17987.0
+2016 Jeep,Wrangler Unlimited,Pincourt · QC,92718.0,27798.0
+2021 Ford,F-150,Saint-Jerome · QC,43064.0,41955.0
+2023 Kia,Niro EV,Saint-Jerome · QC,18670.0,37895.0
+2018 Buick,Encore,Granby · QC,193537.0,14988.0
+2023 Mazda,CX-9,Blainville · QC,16843.0,42592.0
+2021 Toyota,Sienna,Granby · QC,72476.0,51995.0
+2019 Mazda,CX-3,Pincourt · QC,134727.0,15977.0
+2020 Bmw,X4 M,Blainville · QC,40000.0,69450.0
+2023 Nissan,Kicks,Saint-Eustache · QC,18293.0,25995.0
+2012 Kia,Forte Koup,Granby · QC,144581.0,7988.0
+2020 Honda,CR-V,Pincourt · QC,74216.0,28495.0
+2016 Mitsubishi,Outlander,Blainville · QC,190681.0,13941.0
+2024 Toyota,Tacoma,Montreal · QC,144.0,53688.0
+2020 Hyundai,Kona,Pincourt · QC,86285.0,20114.0
+2017 Mazda,MX-5 RF,Blainville · QC,30000.0,27950.0
+2019 Chevrolet,Silverado 1500,Granby · QC,226500.0,25988.0
+2019 Toyota,Prius,Montreal · QC,53833.0,23900.0
+2023 Hyundai,Kona Electric,Saint-Jerome · QC,8509.0,34985.0
+2017 Infiniti,Qx60,Granby · QC,152843.0,19988.0
+2018 Bmw,X3,Granby · QC,136024.0,24988.0
+2022 Volkswagen,Atlas,Granby · QC,59811.0,45988.0
+2024 Bmw,X3,Blainville · QC,5000.0,84374.0
+2019 Ford,F-150,Saint-Jerome · QC,105680.0,33955.0
+2021 Bmw,X6,Blainville · QC,85500.0,62950.0
+2020 Hyundai,Accent,Saint-Jerome · QC,37266.0,18395.0
+2020 Hyundai,Santa Fe,Brossard · QC,71625.0,31985.0
+2019 Hyundai,Ioniq Electric,Brossard · QC,69192.0,22445.0
+2017 Chevrolet,Silverado 2500HD,Brossard · QC,156010.0,48485.0
+2020 Hyundai,Elantra,Saint-Eustache · QC,101805.0,20995.0
+2023 Hyundai,IONIQ 5,Brossard · QC,77.0,49975.0
+2022 Honda,CR-V,Pincourt · QC,51915.0,34195.0
+2018 Toyota,Prius C,Montreal · QC,62054.0,21690.0
+2020 Mercedes-Benz,GLE350,Laval · QC,60658.0,54995.0
+2023 Kia,Seltos,Brossard · QC,20128.0,26485.0
+2018 Nissan,Qashqai,Pincourt · QC,101111.0,18038.0
+2018 Chevrolet,Traverse,Granby · QC,199077.0,21988.0
+2020 Mazda,Mazda3,Pincourt · QC,48539.0,22888.0
+2020 Hyundai,Santa Fe,Saint-Eustache · QC,122500.0,22940.0
+2020 Chevrolet,Trax,Saint-Eustache · QC,102952.0,20495.0
+2022 Jeep,Wrangler 4xe,Pincourt · QC,8737.0,57543.0
+2017 Bmw,6 Series,Blainville · QC,80000.0,48950.0
+2022 Chevrolet,Malibu,Saint-Eustache · QC,49258.0,25995.0
+2020 Ram,1500,Saint-Remi · QC,57576.0,51999.0
+2018 Mercedes-Benz,GLE43 AMG,Laval · QC,84409.0,39995.0
+2018 Ford,Mustang,Saint-Eustache · QC,59000.0,27750.0
+2022 Mercedes-Benz,A250,Laval · QC,23121.0,38995.0
+2019 Honda,Civic,Pincourt · QC,95000.0,18495.0
+2020 Mercedes-Benz,A250,Laval · QC,66240.0,32995.0
+2020 Volkswagen,Tiguan,Saint-Jerome · QC,46498.0,24995.0
+2023 Bmw,i4,Blainville · QC,29500.0,69950.0
+2021 Honda,Pilot,Notre-Dame-des-Prairies · QC,57800.0,39649.0
+2017 Chevrolet,Express,Saint-Hyacinthe · QC,69940.0,31894.0
+2022 Chevrolet,Bolt EUV,Brossard · QC,8206.0,39475.0
+2018 Kia,Soul EV,Saint-Jerome · QC,77076.0,14985.0
+2022 Volkswagen,Tiguan,Blainville · QC,20800.0,35950.0
+2019 Hyundai,Kona,Saint-Jerome · QC,89990.0,18295.0
+2021 Toyota,RAV4,Granby · QC,49014.0,37495.0
+2010 Ford,Mustang,Brossard · QC,53570.0,49985.0
+2013 Kia,Forte,Saint-Hyacinthe · QC,113804.0,9994.0
+2021 Nissan,Versa,Blainville · QC,47906.0,19487.0
+2020 Chevrolet,Bolt EV,Pincourt · QC,21558.0,27225.0
+2019 Cadillac,XT5,Pincourt · QC,60000.0,30536.0
+2019 Chevrolet,Silverado 1500,Pincourt · QC,133050.0,39853.0
+2023 Volkswagen,ID.4,Saint-Eustache · QC,15000.0,39950.0
+2020 Hyundai,Elantra,Saint-Jerome · QC,53296.0,18485.0
+2021 Toyota,RAV4,Granby · QC,77052.0,31495.0
+2024 Mitsubishi,Outlander,Blainville · QC,8500.0,51988.0
+2023 Hyundai,Tucson Hybrid,Brossard · QC,68.0,43985.0
+2017 Ford,C-max Energi,Saint-Eustache · QC,81993.0,17995.0
+2023 Ford,Explorer,Saint-Eustache · QC,50.0,62495.0
+2016 Kia,SOUL EV +,Pincourt · QC,58926.0,12937.0
+2020 Hyundai,Elantra,Brossard · QC,12845.0,21795.0
+2022 Chevrolet,Express,Saint-Hyacinthe · QC,19732.0,64994.0
+2022 Gmc,Sierra 1500 Limited,Brossard · QC,20590.0,59985.0
+2019 Nissan,Leaf,Saint-Eustache · QC,82700.0,18997.0
+2021 Mercedes-Benz,GLC43 AMG,Laval · QC,52673.0,54995.0
+2018 Chevrolet,Silverado 1500,Granby · QC,173488.0,26988.0
+2017 Acura,MDX,Laval · QC,92138.0,28995.0
+2021 Mazda,CX-5,Blainville · QC,50192.0,24987.0
+2021 Toyota,RAV4,Montreal · QC,44559.0,27900.0
+2020 Hyundai,Elantra,Saint-Eustache · QC,36625.0,19994.0
+2020 Hyundai,Venue,Saint-Eustache · QC,69728.0,16997.0
+2021 Ford,EcoSport,Saint-Eustache · QC,31500.0,26490.0
+2023 Lexus,UX,Pincourt · QC,26275.0,44990.0
+2020 Hyundai,Kona,Saint-Eustache · QC,63281.0,20997.0
+2022 Mitsubishi,Outlander,Blainville · QC,35229.0,36492.0
+2019 Honda,CR-V,Blainville · QC,45962.0,24941.0
+2014 Chevrolet,Spark,Pincourt · QC,206514.0,7620.0
+2024 Honda,CR-V,Pincourt · QC,5353.0,34995.0
+2019 Toyota,Corolla Hatchback,Brossard · QC,181471.0,18775.0
+2021 Ford,Escape,Pincourt · QC,57141.0,25543.0
+2017 Toyota,Camry,Granby · QC,112779.0,17995.0
+2017 Ford,Explorer,Saint-Jerome · QC,103274.0,20955.0
+2018 Toyota,4Runner,Montreal · QC,133288.0,36900.0
+2019 Hyundai,Tucson,Saint-Eustache · QC,97966.0,20222.0
+2015 Bmw,X5,Granby · QC,111115.0,26988.0
+2024 Bmw,X3,Blainville · QC,8000.0,82349.0
+2018 Bmw,2 Series,Brossard · QC,86586.0,33985.0
+2020 Mercedes-Benz,GLE,Pincourt · QC,81956.0,51990.0
+2021 Jeep,Wrangler,Blainville · QC,59000.0,32950.0
+2017 Nissan,Sentra,Brossard · QC,80669.0,15985.0
+2012 Subaru,Outback,Granby · QC,221824.0,6995.0
+2007 Gmc,Canyon,Pincourt · QC,216924.0,5477.0
+2022 Ford,Explorer,Granby · QC,44397.0,43984.0
+2023 Chevrolet,Bolt EUV,Saint-Hyacinthe · QC,15215.0,35394.0
+2020 Volkswagen,e-Golf,Granby · QC,82191.0,25988.0
+2020 Mazda,CX-5,Pincourt · QC,22974.0,26990.0
+2020 Buick,Encore,Granby · QC,62300.0,19988.0
+2021 Ford,Escape,Saint-Jerome · QC,29963.0,27955.0
+2019 Kia,Forte,Saint-Jerome · QC,109416.0,13985.0
+2020 Kia,Forte,Saint-Jerome · QC,78756.0,17785.0
+2019 Gmc,Acadia,Granby · QC,160000.0,27988.0
+2019 Ford,EcoSport,Saint-Eustache · QC,18995.0,18995.0
+2018 Bmw,X3,Blainville · QC,138000.0,33950.0
+2023 Kia,Niro EV,Saint-Jerome · QC,18790.0,37895.0
+2017 Hyundai,SANTA FE SPORT,Saint-Eustache · QC,107968.0,18992.0
+2021 Toyota,Prius Prime,Granby · QC,67644.0,25995.0
+2023 Kia,Rio 5-door,Saint-Jerome · QC,14603.0,24995.0
+2015 Mazda,CX-5,Pincourt · QC,139225.0,14977.0
+2023 Hyundai,Tucson Hybrid,Saint-Jerome · QC,27817.0,37955.0
+2023 Mercedes-Benz,GLC300,Laval · QC,10398.0,69995.0
+2019 Hyundai,Elantra,Brossard · QC,61940.0,18985.0
+2020 Hyundai,Kona,Blainville · QC,104915.0,19487.0
+2012 Toyota,Camry,Pincourt · QC,163539.0,12638.0
+2018 Hyundai,Sonata,Saint-Eustache · QC,44772.0,18994.0
+2023 Genesis,GV60,Brossard · QC,8340.0,70985.0
+2022 Ford,EcoSport,Saint-Jerome · QC,8851.0,24955.0
+2016 Ford,FOCUS,Pincourt · QC,161316.0,8591.0
+2019 Honda,HR-V,Saint-Jerome · QC,46255.0,23895.0
+2024 Toyota,CROWN,Montreal · QC,13.0,55126.0
+2021 Hyundai,Tucson,Brossard · QC,30739.0,27485.0
+2022 Chevrolet,Silverado 1500,Drummondville · QC,39893.0,51995.0
+2022 Nissan,Sentra,Saint-Eustache · QC,46199.0,24995.0
+2014 Nissan,Rogue,Pincourt · QC,175973.0,9990.0
+2019 Hyundai,Tucson,Blainville · QC,60592.0,24987.0
+2022 Toyota,RAV4,Brossard · QC,24856.0,46985.0
+2023 Cadillac,XT5,Pincourt · QC,20200.0,48036.0
+2022 Acura,ILX,Blainville · QC,41000.0,31950.0
+2020 Jeep,Wrangler Unlimited,Saint-Jerome · QC,92486.0,35895.0
+2021 Hyundai,Kona,Pincourt · QC,139846.0,18990.0
+2021 Ford,Mustang,Saint-Eustache · QC,25000.0,48850.0
+2023 Mercedes-Benz,GLE450,Laval · QC,17000.0,82995.0
+2021 Toyota,Camry,Saint-Jerome · QC,126808.0,28995.0
+2023 Genesis,GV80,Brossard · QC,25468.0,70675.0
+2020 Mercedes-Benz,C300,Laval · QC,67265.0,45995.0
+2015 Ford,Fusion,Pincourt · QC,121682.0,13038.0
+2020 Kia,Niro EV,Saint-Jerome · QC,70888.0,26885.0
+2023 Cadillac,XT4,Pincourt · QC,9907.0,46036.0
+2018 Toyota,RAV4,Pincourt · QC,90944.0,23990.0
+2023 Mitsubishi,RVR,Blainville · QC,11053.0,33492.0
+2016 Kia,Soul,Pincourt · QC,164792.0,9995.0
+2021 Chevrolet,BOLT EV LT,Pincourt · QC,39002.0,24988.0
+2018 Honda,Civic Type R,Notre-Dame-des-Prairies · QC,87000.0,36949.0
+2019 Honda,HR-V,Notre-Dame-des-Prairies · QC,19630.0,23949.0
+2011 Mazda,MX-5,Pincourt · QC,38308.0,19299.0
+2023 Chevrolet,Colorado,Pincourt · QC,5258.0,55210.0
+2021 Mazda,CX-5,Pincourt · QC,98333.0,24777.0
+2017 Hyundai,Tucson,Saint-Eustache · QC,120790.0,18995.0
+2022 Ford,Transit Cargo Van,Saint-Eustache · QC,45000.0,46950.0
+2022 Ford,EDGE,Pincourt · QC,88532.0,29990.0
+2021 Kia,Seltos,Saint-Jerome · QC,76211.0,20695.0
+2021 Kia,Seltos,Saint-Jerome · QC,45016.0,25985.0
+2015 Volkswagen,Golf,Saint-Eustache · QC,111890.0,12991.0
+2020 Kia,Forte,Saint-Jerome · QC,34998.0,18985.0
+2017 Buick,Encore,Saint-Jerome · QC,107004.0,16885.0
+2019 Chevrolet,Spark,Brossard · QC,43008.0,15485.0
+2022 Jeep,Wrangler,Saint-Remi · QC,17093.0,62499.0
+2014 Mazda,CX-5,Blainville · QC,145187.0,12986.0
+2018 Kia,Rio5,Granby · QC,31001.0,17995.0
+2021 Toyota,Highlander,Pincourt · QC,35516.0,46043.0
+2020 Toyota,Camry,Saint-Jerome · QC,49084.0,28995.0
+2021 Cadillac,CT5,Granby · QC,41000.0,38988.0
+2019 Volvo,XC60,Saint-Jerome · QC,143861.0,27985.0
+2020 Volvo,XC40,Blainville · QC,65000.0,35950.0
+2021 Kia,Seltos,Saint-Jerome · QC,120020.0,20895.0
+2018 Hyundai,Elantra,Blainville · QC,128695.0,13487.0
+2018 Hyundai,Elantra Gt,Pincourt · QC,152539.0,14495.0
+2021 Mazda,CX-30,Saint-Jerome · QC,88338.0,21695.0
+2022 Chevrolet,Silverado 1500 LTD,Pincourt · QC,39106.0,50877.0
+2020 Ford,F-150,Granby · QC,52635.0,42988.0
+2021 Toyota,Prius Prime,Pincourt · QC,59795.0,29038.0
+2020 Mitsubishi,Outlander PHEV,Blainville · QC,52451.0,28992.0
+2021 Mazda,CX-5,Pincourt · QC,79010.0,24977.0
+2022 Gmc,Sierra 2500HD,Granby · QC,85110.0,79988.0
+2009 Toyota,Camry,Granby · QC,228513.0,6995.0
+2022 Mercedes-Benz,A220,Laval · QC,15063.0,38995.0
+2018 Cadillac,XT5,Brossard · QC,76175.0,32985.0
+2018 Mazda,CX-3,Pincourt · QC,62961.0,17995.0
+2022 Hyundai,Tucson,Saint-Jerome · QC,48153.0,27795.0
+2023 Gmc,Canyon,Pincourt · QC,1579.0,57997.0
+2016 Audi,A5,Brossard · QC,86350.0,28485.0
+2017 Hyundai,Tucson,Blainville · QC,137930.0,17986.0
+2019 Hyundai,Santa Fe,Blainville · QC,120352.0,25487.0
+2021 Acura,RDX,Brossard · QC,42263.0,38985.0
+2020 Toyota,Corolla,Pincourt · QC,41032.0,22538.0
+2017 Toyota,Corolla,Pincourt · QC,145998.0,16181.0
+2019 Hyundai,Santa Fe,Granby · QC,52290.0,23988.0
+2020 Kia,Forte,Saint-Jerome · QC,75761.0,17695.0
+2021 Mazda,CX-5,Pincourt · QC,92701.0,24277.0
+2015 Nissan,Rogue,Saint-Jerome · QC,122634.0,13295.0
+2015 Audi,A5,Blainville · QC,108000.0,23950.0
+2018 Kia,Sorento,Blainville · QC,115669.0,22987.0
+2019 Ford,Escape,Pincourt · QC,97512.0,21298.0
+2021 Ford,EDGE,Saint-Jerome · QC,86701.0,29985.0
+2019 Volkswagen,Jetta,Saint-Jerome · QC,127970.0,17485.0
+2023 Cadillac,XT5,Pincourt · QC,27000.0,48036.0
+2020 Ford,F-150,Saint-Jerome · QC,98551.0,35955.0
+2023 Kia,Sportage,Saint-Jerome · QC,57751.0,27495.0
+2019 Nissan,Kicks,Saint-Eustache · QC,65246.0,21995.0
+2018 Hyundai,Elantra,Granby · QC,103394.0,14995.0
+2017 Chevrolet,Equinox,Saint-Hyacinthe · QC,213119.0,12494.0
+2018 Bmw,X3,Blainville · QC,100800.0,29950.0
+2018 Hyundai,Ioniq Electric,Blainville · QC,147706.0,14487.0
+2019 Kia,Sorento,Blainville · QC,111545.0,18888.0
+2021 Mazda,CX-30,Pincourt · QC,73311.0,22977.0
+2019 Tesla,Model 3,Pincourt · QC,87844.0,35536.0
+2016 Mazda,CX-5,Pincourt · QC,191775.0,10999.0
+2012 Toyota,Sienna,Montreal · QC,149481.0,15900.0
+2020 Lincoln,Navigator,Saint-Eustache · QC,63500.0,67995.0
+2017 Chrysler,Pacifica,Pincourt · QC,148718.0,20543.0
+2015 Volkswagen,Passat,Brossard · QC,83270.0,14985.0
+2017 Volkswagen,Beetle Convertible,Pincourt · QC,79782.0,22937.0
+2018 Genesis,G80,Pincourt · QC,143560.0,24977.0
+2020 Mazda,Mazda3 Sport,Pincourt · QC,43653.0,23477.0
+2018 Lincoln,Continental,Brossard · QC,58353.0,34985.0
+2019 Toyota,Corolla,Granby · QC,83111.0,18995.0
+2019 Hyundai,Elantra,Blainville · QC,84858.0,16987.0
+2019 Ram,1500 Classic,Blainville · QC,119690.0,29492.0
+2021 Chevrolet,SILVERADO K1500 RST,Pincourt · QC,101904.0,43522.0
+2018 Acura,TLX,Saint-Hyacinthe · QC,76457.0,25494.0
+2018 Mazda,CX-5,Pincourt · QC,121123.0,19977.0
+2020 Ford,EcoSport,Saint-Eustache · QC,88770.0,23995.0
+2019 Ram,1500 Classic,Saint-Jerome · QC,98209.0,27985.0
+2021 Chevrolet,TRAVERSE LT,Pincourt · QC,47512.0,35325.0
+2020 Subaru,Forester,Brossard · QC,65980.0,28975.0
+2016 Chevrolet,Malibu,Blainville · QC,85694.0,15292.0
+2024 Toyota,BZ4X,Montreal · QC,14.0,47107.0
+2024 Toyota,RAV4,Montreal · QC,23.0,42350.0
+2020 Honda,Civic,Pincourt · QC,42562.0,26495.0
+2019 Gmc,Savana,Saint-Hyacinthe · QC,81300.0,46994.0
+2023 Bmw,3 Series,Blainville · QC,7500.0,64418.0
+2019 Hyundai,Kona,Brossard · QC,70125.0,24985.0
+2017 Gmc,Sierra 1500,Granby · QC,163213.0,29984.0
+2018 Bmw,X2,Saint-Jerome · QC,86991.0,22495.0
+2022 Mazda,CX-30,Brossard · QC,25513.0,33985.0
+2019 Gmc,Savana Cargo Van,Granby · QC,74433.0,31988.0
+2019 Ram,1500,Saint-Eustache · QC,98000.0,36950.0
+2017 Chevrolet,Equinox,Granby · QC,93426.0,19988.0
+2022 Hyundai,Venue,Brossard · QC,71659.0,23275.0
+2015 Hyundai,Elantra,Pincourt · QC,104632.0,10490.0
+2021 Buick,Encore,Pincourt · QC,68461.0,22426.0
+2023 Toyota,BZ4X,Pincourt · QC,14848.0,35038.0
+2024 Toyota,RAV4,Montreal · QC,13.0,43784.0
+2020 Bmw,3 Series,Blainville · QC,41200.0,52950.0
+2019 Ford,Escape,Pincourt · QC,77583.0,19298.0
+2020 Chevrolet,Colorado,Granby · QC,151957.0,35488.0
+2021 Hyundai,Kona,Brossard · QC,82214.0,24485.0
+2024 Bmw,X3,Blainville · QC,8700.0,65036.0
+2019 Hyundai,Kona,Brossard · QC,83749.0,20974.0
+2022 Chevrolet,Silverado 2500HD,Granby · QC,77796.0,65488.0
+2017 Kia,Sportage,Saint-Eustache · QC,126491.0,17994.0
+2013 Chevrolet,Volt,Pincourt · QC,174456.0,10996.0
+2019 Hyundai,Kona,Saint-Eustache · QC,137729.0,16777.0
+2014 Ford,EDGE,Brossard · QC,168000.0,13499.0
+2014 Audi,A4,Blainville · QC,140621.0,14987.0
+2021 Subaru,Crosstrek,Saint-Jerome · QC,28878.0,27485.0
+2021 Hyundai,Kona,Brossard · QC,85178.0,24295.0
+2017 Mercedes-Benz,GLC,Saint-Eustache · QC,95240.0,34995.0
+2021 Jeep,Compass,Pincourt · QC,29898.0,31998.0
+2024 Toyota,Corolla,Montreal · QC,10.0,25832.0
+2020 Kia,Sportage,Saint-Jerome · QC,55460.0,28495.0
+2021 Toyota,Corolla,Granby · QC,37483.0,23995.0
+2013 Hyundai,Elantra,Pincourt · QC,116355.0,7299.0
+2020 Ford,Escape,Saint-Jerome · QC,69710.0,22955.0
+2022 Volkswagen,Taos,Pincourt · QC,36167.0,28043.0
+2024 Toyota,CROWN,Montreal · QC,10.0,77667.0
+2019 Chevrolet,Trax,Granby · QC,56641.0,18988.0
+2018 Gmc,Terrain,Saint-Eustache · QC,85517.0,22994.0
+2021 Nissan,Qashqai,Saint-Eustache · QC,75618.0,25995.0
+2018 Gmc,Sierra 1500,Granby · QC,107957.0,29988.0
+2019 Ford,Escape,Brossard · QC,110870.0,21985.0
+2017 Mazda,Mazda3,Pincourt · QC,252884.0,7499.0
+2019 Nissan,Qashqai,Saint-Eustache · QC,74295.0,23995.0
+2010 Toyota,RAV4,Pincourt · QC,164425.0,12038.0
+2020 Hyundai,Elantra,Saint-Eustache · QC,86587.0,17994.0
+2018 Buick,Encore,Saint-Hyacinthe · QC,124067.0,16994.0
+2014 Kia,Rio,Granby · QC,132475.0,9988.0
+2010 Toyota,Prius,Brossard · QC,114805.0,12985.0
+2024 Kia,Niro EV,Saint-Jerome · QC,10611.0,48695.0
+2021 Toyota,RAV4,Blainville · QC,51490.0,35492.0
+2015 Jeep,Renegade,Granby · QC,90848.0,12988.0
+2014 Toyota,Camry,Pincourt · QC,201958.0,10490.0
+2020 Mazda,CX-5,Pincourt · QC,76145.0,24977.0
+2013 Kia,Forte,Saint-Hyacinthe · QC,122179.0,9994.0
+2019 Gmc,Acadia,Pincourt · QC,105659.0,26188.0
+2016 Chevrolet,Trax,Pincourt · QC,120284.0,11977.0
+2021 Toyota,RAV4,Pincourt · QC,45147.0,29990.0
+2007 Volkswagen,New Beetle Convertible,Brossard · QC,43350.0,10775.0
+2020 Volkswagen,e-Golf,Pincourt · QC,65123.0,22038.0
+2017 Toyota,Camry,Granby · QC,99860.0,18995.0
+2021 Honda,CR-V,Pincourt · QC,70809.0,30995.0
+2020 Hyundai,Ioniq Electric,Saint-Eustache · QC,43233.0,23997.0
+2018 Nissan,Versa Note,Blainville · QC,89699.0,14487.0
+2020 Kia,Soul EV,Granby · QC,33000.0,32488.0
+2020 Bmw,X1,Blainville · QC,89000.0,24950.0
+2019 Hyundai,Kona,Saint-Eustache · QC,74210.0,20994.0
+2018 Kia,Sportage,Saint-Eustache · QC,125000.0,17950.0
+2021 Chevrolet,Silverado 1500,Saint-Hyacinthe · QC,74000.0,48594.0
+2021 Kia,Seltos,Saint-Jerome · QC,65640.0,22985.0
+2022 Kia,Sportage,Saint-Jerome · QC,19169.0,29895.0
+2022 Mercedes-Benz,C300,Laval · QC,21584.0,61995.0
+2021 Chevrolet,Equinox,Saint-Hyacinthe · QC,49679.0,23994.0
+2020 Chevrolet,Equinox,Saint-Eustache · QC,62689.0,24500.0
+2022 Hyundai,Tucson Hybrid,Blainville · QC,36504.0,34987.0
+2021 Hyundai,Kona Electric,Pincourt · QC,86176.0,23798.0
+2022 Hyundai,Santa Fe,Blainville · QC,37757.0,33987.0
+2019 Mazda,CX-3,Saint-Eustache · QC,74696.0,21995.0
+2020 Mazda,Mazda3 Sport,Pincourt · QC,67565.0,22977.0
+2022 Hyundai,Santa Fe Hybrid,Brossard · QC,43386.0,40975.0
+2019 Volkswagen,Tiguan,Montreal · QC,73387.0,22900.0
+2022 Hyundai,Santa Fe Plug-In Hybrid,Brossard · QC,21001.0,44985.0
+2021 Bmw,X5,Blainville · QC,66800.0,59950.0
+2017 Ford,FIESTA,Pincourt · QC,100082.0,11543.0
+2021 Toyota,RAV4,Pincourt · QC,62647.0,32990.0
+2022 Ford,Mustang Mach-E,Blainville · QC,42000.0,42450.0
+2018 Ford,FIESTA,Pincourt · QC,48920.0,15543.0
+2023 Toyota,BZ4X,Montreal · QC,17.0,53812.0
+2017 Honda,CR-V,Pincourt · QC,106538.0,23477.0
+2020 Mercedes-Benz,E53,Laval · QC,34543.0,67995.0
+2021 Kia,Sportage,Saint-Eustache · QC,84000.0,21950.0
+2019 Kia,Sportage,Saint-Jerome · QC,103725.0,22895.0
+2023 Jeep,Grand Cherokee,Saint-Jerome · QC,12334.0,60495.0
+2015 Mazda,CX-5,Saint-Hyacinthe · QC,132715.0,15594.0
+2024 Bmw,X3,Blainville · QC,3075.0,70046.0
+2018 Volkswagen,e-Golf,Blainville · QC,97626.0,16992.0
+2017 Toyota,Camry Hybrid,Montreal · QC,149516.0,21900.0
+2013 Hyundai,Tucson,Pincourt · QC,97553.0,11490.0
+2016 Chrysler,Town & Country,Pincourt · QC,142028.0,16990.0
+2022 Toyota,Corolla,Pincourt · QC,51246.0,23990.0
+2019 Bmw,330,Blainville · QC,72500.0,33950.0
+2020 Hyundai,Elantra,Pincourt · QC,129142.0,15990.0
+2015 Toyota,RAV4,Blainville · QC,126585.0,17987.0
+2022 Hyundai,Tucson,Pincourt · QC,34669.0,34495.0
+2019 Cadillac,XT4,Pincourt · QC,40420.0,31036.0
+2020 Hyundai,Elantra,Saint-Eustache · QC,60031.0,18444.0
+2018 Audi,Q5,Blainville · QC,103336.0,23941.0
+2023 Buick,Encore GX,Pincourt · QC,14104.0,30263.0
+2020 Mercedes-Benz,GLE450,Laval · QC,52877.0,59995.0
+2015 Toyota,Prius C,Montreal · QC,214225.0,11900.0
+2023 Hyundai,Santa Cruz,Blainville · QC,11952.0,38986.0
+2016 Honda,Civic,Pincourt · QC,181079.0,14995.0
+2021 Toyota,Corolla,Pincourt · QC,13267.0,25990.0
+2017 Audi,Q5,Saint-Jerome · QC,116037.0,18695.0
+2023 Ford,Mustang Mach-E,Saint-Eustache · QC,50.0,47450.0
+2022 Mazda,CX-9,Brossard · QC,28974.0,41485.0
+2021 Kia,Seltos,Saint-Jerome · QC,58902.0,21995.0
+2021 Chevrolet,Bolt EV,Saint-Eustache · QC,67848.0,27994.0
+2024 Mitsubishi,Outlander,Blainville · QC,10965.0,48994.0
+2019 Subaru,Crosstrek,Blainville · QC,64995.0,23987.0
+2020 Gmc,Terrain,Granby · QC,32122.0,23988.0
+2024 Toyota,Grand Highlander,Montreal · QC,12377.0,63638.0
+2019 Buick,LaCrosse,Granby · QC,32500.0,24988.0
+2018 Hyundai,IONIQ Electric,Blainville · QC,97918.0,16986.0
+2020 Volkswagen,Golf,Pincourt · QC,98723.0,19995.0
+2021 Kia,Sorento,Saint-Jerome · QC,108340.0,34995.0
+2018 Ford,F-150,Saint-Jerome · QC,87814.0,33955.0
+2019 Toyota,Corolla,Pincourt · QC,89537.0,19990.0
+2019 Honda,Civic Sedan,Notre-Dame-des-Prairies · QC,107000.0,18849.0
+2019 Hyundai,Ioniq Electric,Blainville · QC,89990.0,16987.0
+2022 Mercedes-Benz,C300,Laval · QC,28200.0,61995.0
+2020 Chevrolet,Express,Saint-Hyacinthe · QC,110963.0,34894.0
+2018 Hyundai,Elantra,Saint-Jerome · QC,105048.0,14995.0
+2019 Gmc,ACADIA ALL TERRAIN,Pincourt · QC,105304.0,26937.0
+2021 Honda,Civic,Pincourt · QC,47424.0,23495.0
+2019 Hyundai,Elantra,Saint-Eustache · QC,73846.0,20495.0
+2020 Bmw,4 Series,Blainville · QC,58500.0,48950.0
+2016 Mazda,CX-3,Saint-Eustache · QC,84008.0,17994.0
+2019 Honda,Civic,Pincourt · QC,80101.0,19995.0
+2020 Subaru,Wrx,Pincourt · QC,137101.0,28888.0
+2021 Ford,Escape,Saint-Eustache · QC,39500.0,30500.0
+2022 Kia,Soul EV,Saint-Jerome · QC,27353.0,27485.0
+2018 Hyundai,SANTA FE SPORT,Saint-Eustache · QC,143689.0,17874.0
+2023 Mercedes-Benz,Sprinter 2500 Crew 144,Laval · QC,597.0,76888.0
+2016 Hyundai,Accent,Brossard · QC,107178.0,12985.0
+2016 Mazda,3 SPORT GS,Pincourt · QC,222819.0,8999.0
+2020 Hyundai,Elantra,Brossard · QC,47870.0,19485.0
+2017 Kia,Sportage,Saint-Eustache · QC,153908.0,14777.0
+2021 Kia,Forte,Pincourt · QC,73342.0,20495.0
+2024 Toyota,Grand Highlander,Montreal · QC,26.0,56149.0
+2017 Dodge,Grand Caravan,Saint-Jerome · QC,81325.0,18995.0
+2019 Toyota,RAV4 Hybrid,Granby · QC,66490.0,30995.0
+2024 Bmw,230,Blainville · QC,3215.0,60424.0
+2016 Chevrolet,Trax,Granby · QC,132000.0,10988.0
+2018 Toyota,Camry,Pincourt · QC,55836.0,22543.0
+2019 Hyundai,Ioniq Electric Plus,Granby · QC,151261.0,16988.0
+2018 Hyundai,SANTA FE SPORT,Granby · QC,128549.0,20495.0
+2015 Hyundai,Elantra,Pincourt · QC,127555.0,9999.0
+2019 Nissan,Armada,Pincourt · QC,73593.0,38043.0
+2019 Nissan,Qashqai,Saint-Jerome · QC,82217.0,19295.0
+2022 Hyundai,Santa Fe,Saint-Eustache · QC,38474.0,31997.0
+2023 Bmw,iX,Blainville · QC,27000.0,76950.0
+2021 Ford,EDGE,Pincourt · QC,44616.0,31543.0
+2019 Nissan,Leaf,Pincourt · QC,87171.0,16937.0
+2017 Ford,Fusion,Saint-Eustache · QC,59437.0,14997.0
+2022 Honda,Civic Sedan,Saint-Jerome · QC,57592.0,25885.0
+2016 Hyundai,Tucson,Saint-Eustache · QC,175262.0,11997.0
+2014 Toyota,Corolla,Montreal · QC,210258.0,11490.0
+2018 Nissan,Qashqai,Saint-Eustache · QC,91825.0,19995.0
+2021 Hyundai,Kona,Saint-Eustache · QC,55879.0,20888.0
+2016 Ford,Escape,Saint-Eustache · QC,104614.0,13777.0
+2020 Toyota,Corolla,Saint-Eustache · QC,54000.0,21444.0
+2020 Kia,Sportage,Saint-Jerome · QC,54896.0,22995.0
+2018 Ford,Fusion Energi,Saint-Eustache · QC,58000.0,17940.0
+2020 Mercedes-Benz,GLA250,Laval · QC,40795.0,33995.0
+2012 Ram,1500,Granby · QC,202000.0,13988.0
+2021 Nissan,Sentra,Saint-Eustache · QC,87992.0,23995.0
+2020 Toyota,Prius Prime,Granby · QC,61072.0,26995.0
+2020 Hyundai,Ioniq Electric,Brossard · QC,11179.0,26775.0
+2024 Toyota,Tundra,Montreal · QC,18.0,87973.0
+2021 Hyundai,Elantra,Granby · QC,78550.0,19488.0
+2023 Kia,Stinger,Saint-Jerome · QC,40575.0,43795.0
+2020 Toyota,4Runner,Blainville · QC,128617.0,38941.0
+2017 Mazda,CX-5,Brossard · QC,94000.0,22985.0
+2017 Honda,Civic,Pincourt · QC,155677.0,13995.0
+2023 Mercedes-Benz,GLE450,Laval · QC,5200.0,88995.0
+2019 Infiniti,Qx50,Pincourt · QC,83146.0,25290.0
+2017 Toyota,RAV4 Hybrid,Pincourt · QC,125424.0,25728.0
+2023 Honda,HR-V,Notre-Dame-des-Prairies · QC,47000.0,31849.0
+2019 Mazda,Mazda3,Saint-Eustache · QC,93150.0,23995.0
+2024 Bmw,X3,Blainville · QC,3090.0,69127.0
+2011 Gmc,Sierra 1500,Granby · QC,125000.0,15988.0
+2021 Ford,Bronco Sport,Saint-Eustache · QC,18000.0,34950.0
+2018 Kia,Sorento,Saint-Jerome · QC,102678.0,26385.0
+2019 Mazda,CX-9,Saint-Eustache · QC,71000.0,26750.0
+2020 Volkswagen,Tiguan,Saint-Eustache · QC,122753.0,24888.0
+2021 Lexus,NX,Pincourt · QC,40404.0,37036.0
+2021 Kia,Seltos,Saint-Jerome · QC,90634.0,21995.0
+2022 Hyundai,Elantra Hybrid,Brossard · QC,69950.0,28485.0
+2021 Toyota,RAV4 Prime,Montreal · QC,78195.0,41900.0
+2013 Acura,ILX,Brossard · QC,115494.0,13985.0
+2018 Chevrolet,Equinox,Pincourt · QC,71316.0,18424.0
+2022 Hyundai,Kona,Saint-Eustache · QC,54254.0,23994.0
+2021 Volkswagen,Atlas Cross Sport,Saint-Jerome · QC,81762.0,27795.0
+2018 Jeep,Cherokee,Montreal · QC,121811.0,19900.0
+2020 Audi,Q3,Brossard · QC,36601.0,34985.0
+2018 Mazda,Mazda3,Blainville · QC,85908.0,15987.0
+2023 Bmw,3 Series,Blainville · QC,17000.0,55950.0
+2012 Kia,Sportage,Pincourt · QC,163881.0,9299.0
+2020 Volkswagen,Tiguan,Pincourt · QC,45993.0,25990.0
+2022 Gmc,Savana Cargo Van,Pincourt · QC,51064.0,47793.0
+2020 Lincoln,Navigator L,Saint-Jerome · QC,124218.0,59985.0
+2019 Ford,Transit,Saint-Hyacinthe · QC,106767.0,35995.0
+2020 Hyundai,Elantra,Pincourt · QC,67802.0,19564.0
+2022 Hyundai,Tucson,Blainville · QC,65565.0,26987.0
+2021 Hyundai,Venue,Brossard · QC,10004.0,22485.0
+2020 Hyundai,Kona,Saint-Eustache · QC,21997.0,23874.0
+2019 Hyundai,Santa Fe,Saint-Eustache · QC,58470.0,24994.0
+2018 Hyundai,Tucson,Brossard · QC,42000.0,27475.0
+2017 Hyundai,Accent,Brossard · QC,82027.0,16495.0
+2022 Chevrolet,Silverado 1500,Drummondville · QC,39022.0,59995.0
+2017 Kia,Sorento,Blainville · QC,101690.0,18487.0
+2020 Mercedes-Benz,A-Class,Blainville · QC,36657.0,29987.0
+2014 Mitsubishi,Lancer,Pincourt · QC,94307.0,9990.0
+2017 Ram,1500,Granby · QC,188653.0,27988.0
+2019 Honda,Civic,Blainville · QC,21214.0,21487.0
+2021 Hyundai,Tucson,Saint-Jerome · QC,52848.0,24485.0
+2022 Hyundai,Santa Fe,Brossard · QC,16312.0,33945.0
+2022 Hyundai,Venue,Brossard · QC,68470.0,23275.0
+2023 Mercedes-Benz,E450,Laval · QC,11000.0,76995.0
+2023 Genesis,GV80,Brossard · QC,24507.0,77775.0
+2013 Toyota,Sienna,Pincourt · QC,153211.0,18990.0
+2021 Hyundai,Tucson,Brossard · QC,40147.0,29485.0
+2019 Honda,Civic,Pincourt · QC,39240.0,20995.0
+2021 Chevrolet,Silverado 1500,Drummondville · QC,134726.0,26995.0
+2019 Volkswagen,Jetta,Saint-Eustache · QC,97673.0,21995.0
+2020 Mazda,CX-5,Pincourt · QC,16877.0,26977.0
+2019 Jaguar,I-Pace,Brossard · QC,78741.0,49985.0
+2021 Toyota,Corolla Hatchback,Pincourt · QC,51504.0,24990.0
+2019 Buick,Encore,Saint-Eustache · QC,111884.0,19995.0
+2022 Chevrolet,Equinox,Blainville · QC,24857.0,25888.0
+2017 Audi,Sq5,Blainville · QC,90000.0,29950.0
+2020 Hyundai,Palisade,Pincourt · QC,46752.0,35489.0
+2018 Mazda,MX-5,Brossard · QC,58614.0,26775.0
+2018 Hyundai,Elantra,Saint-Jerome · QC,47345.0,15695.0
+2019 Mazda,CX-5,Saint-Eustache · QC,100219.0,24995.0
+2020 Hyundai,Tucson,Saint-Eustache · QC,88663.0,24995.0
+2021 Mazda,CX-3,Saint-Eustache · QC,27945.0,21997.0
+2015 Nissan,Murano,Blainville · QC,115145.0,14987.0
+2021 Honda,Civic,Pincourt · QC,28570.0,23495.0
+2018 Bmw,230,Blainville · QC,119650.0,24950.0
+2022 Kia,Seltos,Saint-Jerome · QC,73188.0,23395.0
+2023 Kia,Sportage,Saint-Jerome · QC,28402.0,36495.0
+2020 Mazda,Mazda3 Sport,Pincourt · QC,65101.0,19988.0
+2021 Chevrolet,Silverado 1500,Granby · QC,72500.0,51988.0
+2019 Honda,CR-V,Granby · QC,44850.0,26988.0
+2019 Mitsubishi,Mirage,Saint-Eustache · QC,69607.0,18995.0
+2023 Gmc,Sierra 2500HD,Pincourt · QC,34725.0,89308.0
+2017 Chrysler,Pacifica,Blainville · QC,88259.0,28792.0
+2022 Hyundai,Kona,Blainville · QC,57281.0,24987.0
+2023 Mitsubishi,Outlander,Blainville · QC,9911.0,38441.0
+2024 Toyota,COROLLA HYBRID,Montreal · QC,3424.0,34900.0
+2017 Toyota,RAV4,Pincourt · QC,81483.0,28038.0
+2022 Ford,F-150,Saint-Jerome · QC,57592.0,49955.0
+2018 Volkswagen,Golf SportWagen,Blainville · QC,140072.0,14987.0
+2022 Ford,Bronco Sport,Saint-Jerome · QC,59123.0,34955.0
+2019 Nissan,Versa Note,Saint-Eustache · QC,99393.0,17995.0
+2022 Kia,Seltos,Saint-Jerome · QC,36531.0,27985.0
+2018 Gmc,TERRAIN SLE,Pincourt · QC,78638.0,20937.0
+2024 Bmw,X3,Blainville · QC,3125.0,73810.0
+2019 Hyundai,Elantra,Saint-Jerome · QC,131505.0,17795.0
+2021 Cadillac,XT4,Pincourt · QC,65887.0,33536.0
+2019 Honda,Civic Sedan,Notre-Dame-des-Prairies · QC,27000.0,20998.0
+2013 Hyundai,SANTA FE XL,Saint-Jerome · QC,157081.0,10995.0
+2020 Mercedes-Benz,GLB250,Laval · QC,37153.0,37995.0
+2015 Toyota,Prius C,Montreal · QC,216316.0,11900.0
+2020 Genesis,G70,Brossard · QC,48327.0,34995.0
+2013 Lincoln,MKX,Pincourt · QC,162573.0,13977.0
+2024 Bmw,330,Blainville · QC,8000.0,63160.0
+2018 Honda,Civic,Pincourt · QC,90262.0,18995.0
+2020 Mercedes-Benz,C-Class,Brossard · QC,54125.0,38985.0
+2023 Genesis,Electrified G80,Brossard · QC,17218.0,83975.0
+2015 Kia,Rio 5,Saint-Jerome · QC,98399.0,14495.0
+2022 Ford,Mustang Mach-E,Brossard · QC,17403.0,58985.0
+2021 Bmw,X5,Blainville · QC,55000.0,66950.0
+2009 Mazda,MAZDA6,Pincourt · QC,209104.0,6299.0
+2018 Nissan,Qashqai,Saint-Eustache · QC,72629.0,21500.0
+2017 Audi,A4,Brossard · QC,97000.0,25895.0
+2018 Ford,Fusion,Pincourt · QC,95405.0,19543.0
+2024 Toyota,4Runner,Montreal · QC,17.0,56299.0
+2021 Mazda,Mazda3 Sport,Brossard · QC,39069.0,26785.0
+2021 Toyota,RAV4,Pincourt · QC,35681.0,37038.0
+2023 Hyundai,Kona Electric,Saint-Eustache · QC,21640.0,32994.0
+2020 Toyota,Corolla Hatchback,Pincourt · QC,125217.0,19490.0
+2015 Toyota,Corolla,Pincourt · QC,175142.0,13490.0
+2019 Nissan,Sentra,Saint-Jerome · QC,64159.0,17985.0
+2017 Honda,CR-V,Pincourt · QC,135048.0,19395.0
+2022 Hyundai,Kona Electric,Saint-Eustache · QC,67769.0,29980.0
+2018 Hyundai,SANTA FE SPORT,Blainville · QC,155273.0,18986.0
+2019 Chevrolet,Silverado 1500,Granby · QC,87314.0,39988.0
+2018 Nissan,Titan,Saint-Jerome · QC,65877.0,34595.0
+2020 Mercedes-Benz,GLC300,Laval · QC,41750.0,56995.0
+2020 Hyundai,Kona,Saint-Eustache · QC,52738.0,20222.0
+2021 Dodge,Durango,Brossard · QC,52500.0,47985.0
+2020 Chevrolet,Silverado 2500HD,Granby · QC,87500.0,59988.0
+2020 Bmw,3 Series,Blainville · QC,73800.0,31950.0
+2022 Subaru,Outback,Granby · QC,72476.0,38988.0
+2019 Mazda,CX-9,Saint-Eustache · QC,133000.0,24450.0
+2020 Ram,Cargo Van,Saint-Hyacinthe · QC,85167.0,45594.0
+2020 Cadillac,XT5,Granby · QC,25820.0,34988.0
+2020 Toyota,Tacoma,Montreal · QC,140542.0,36900.0
+2019 Bmw,X3,Brossard · QC,59698.0,35985.0
+2022 Bmw,X5,Blainville · QC,58000.0,82950.0
+2023 Volkswagen,Tiguan,Saint-Eustache · QC,39000.0,30750.0
+2018 Honda,Civic Coupe,Notre-Dame-des-Prairies · QC,63000.0,26949.0
+2018 Jeep,Grand Cherokee,Brossard · QC,136008.0,28995.0
+2022 Subaru,Wrx,Saint-Jerome · QC,28983.0,34985.0
+2022 Chevrolet,Silverado 2500HD,Drummondville · QC,84500.0,62995.0
+2019 Volvo,XC90,Montreal · QC,70414.0,35900.0
+2021 Kia,Sportage,Saint-Jerome · QC,40179.0,24985.0
+2019 Jeep,Cherokee Overland,Pincourt · QC,61724.0,27537.0
+2023 Genesis,G80,Brossard · QC,14137.0,58985.0
+2017 Volkswagen,Golf Gti,Brossard · QC,36158.0,25975.0
+2014 Chevrolet,Cruze,Saint-Hyacinthe · QC,198918.0,5995.0
+2021 Mercedes-Benz,C300,Laval · QC,18900.0,45995.0
+2015 Nissan,Altima,Saint-Hyacinthe · QC,118845.0,11993.0
+2018 Hyundai,Kona,Blainville · QC,45461.0,18987.0
+2022 Bmw,4 Series,Pincourt · QC,46000.0,63990.0
+2020 Nissan,Kicks,Saint-Eustache · QC,22495.0,22495.0
+2023 Cadillac,XT4,Pincourt · QC,33000.0,40036.0
+2021 Mazda,CX-30,Pincourt · QC,73880.0,24977.0
+2024 Toyota,Tundra,Montreal · QC,17.0,75171.0
+2015 Toyota,Prius V,Pincourt · QC,159782.0,16543.0
+2018 Gmc,Sierra 1500,Granby · QC,94786.0,41988.0
+2020 Hyundai,Santa Fe,Blainville · QC,85900.0,29987.0
+2019 Honda,Clarity Plug-In Hybrid,Blainville · QC,61000.0,25950.0
+2023 Hyundai,Venue,Saint-Eustache · QC,30762.0,22997.0
+2020 Dodge,Durango,Saint-Hyacinthe · QC,116201.0,39994.0
+2017 Hyundai,Elantra,Brossard · QC,118201.0,14995.0
+2023 Kia,Sorento,Saint-Jerome · QC,23671.0,42995.0
+2019 Nissan,Kicks,Pincourt · QC,79394.0,17608.0
+2015 Volkswagen,Golf,Pincourt · QC,158405.0,10488.0
+2020 Hyundai,Elantra,Brossard · QC,20001.0,22975.0
+2022 Ford,Bronco Sport,Saint-Eustache · QC,29000.0,29850.0
+2022 Genesis,GV80,Brossard · QC,29521.0,59985.0
+2021 Nissan,Rogue,Saint-Eustache · QC,76093.0,26777.0
+2022 Gmc,Sierra 1500 Limited,Drummondville · QC,37862.0,44995.0
+2022 Honda,CR-V,Notre-Dame-des-Prairies · QC,51000.0,29949.0
+2021 Honda,Accord Sedan,Pincourt · QC,58107.0,33995.0
+2023 Mercedes-Benz,GLC300,Laval · QC,28624.0,65495.0
+2023 Cadillac,XT6,Pincourt · QC,29184.0,60036.0
+2018 Mazda,Mazda3 Sport,Saint-Eustache · QC,160616.0,17995.0
+2022 Chevrolet,Malibu,Saint-Hyacinthe · QC,25114.0,23994.0
+2023 Ford,Bronco Sport,Saint-Eustache · QC,15500.0,46900.0
+2018 Honda,Civic Sedan,Saint-Hyacinthe · QC,112401.0,19794.0
+2020 Ford,Escape,Pincourt · QC,60840.0,20043.0
+2017 Hyundai,Tucson,Brossard · QC,123749.0,19995.0
+2021 Gmc,ACADIA AT4,Pincourt · QC,57308.0,35937.0
+2021 Toyota,Corolla,Granby · QC,36935.0,23495.0
+2023 Hyundai,IONIQ 6,Brossard · QC,180.0,54985.0
+2020 Hyundai,Tucson,Brossard · QC,65000.0,28485.0
+2022 Cadillac,XT6,Pincourt · QC,38375.0,52036.0
+2016 Honda,HR-V,Saint-Eustache · QC,129000.0,14950.0
+2019 Mazda,CX-9,Notre-Dame-des-Prairies · QC,119000.0,26799.0
+2021 Honda,HR-V,Saint-Eustache · QC,17000.0,29310.0
+2021 Mitsubishi,RVR,Saint-Eustache · QC,76815.0,23995.0
+2022 Kia,Sorento,Saint-Jerome · QC,37248.0,38995.0
+2019 Nissan,Leaf,Saint-Eustache · QC,95481.0,20995.0
+2020 Mazda,Mazda3,Pincourt · QC,79123.0,20977.0
+2021 Nissan,Maxima,Brossard · QC,54962.0,33485.0
+2020 Hyundai,Kona Electric,Blainville · QC,41691.0,28487.0
+2019 Mazda,CX-3,Saint-Eustache · QC,68425.0,21995.0
+2018 Chevrolet,Spark,Granby · QC,84255.0,14988.0
+2019 Ford,Transit,Saint-Hyacinthe · QC,84387.0,44594.0
+2022 Chevrolet,Silverado 1500,Drummondville · QC,32321.0,51995.0
+2019 Hyundai,Elantra,Blainville · QC,60338.0,17987.0
+2020 Nissan,Murano,Saint-Jerome · QC,90775.0,19995.0
+2018 Ford,Fusion Energi,Saint-Eustache · QC,78000.0,18950.0
+2023 Lexus,Is,Laval · QC,25475.0,56995.0
+2017 Hyundai,Elantra,Pincourt · QC,143124.0,12990.0
+2021 Ford,F-150,Granby · QC,104703.0,44988.0
+2018 Honda,Civic Coupe,Blainville · QC,90260.0,21987.0
+2008 Chevrolet,Corvette,Granby · QC,95000.0,35988.0
+2019 Audi,A4 allroad,Brossard · QC,63096.0,38985.0
+2022 Mitsubishi,Mirage,Blainville · QC,54003.0,17992.0
+2017 Honda,Odyssey,Blainville · QC,107096.0,27987.0
+2019 Nissan,Rogue,Saint-Eustache · QC,42007.0,18999.0
+2020 Mercedes-Benz,C300,Laval · QC,61400.0,34995.0
+2022 Hyundai,Tucson Plug-In Hybrid,Blainville · QC,31147.0,41987.0
+2016 Hyundai,Tucson,Brossard · QC,24302.0,20875.0
+2018 Mitsubishi,Outlander PHEV,Brossard · QC,78800.0,24965.0
+2019 Hyundai,Ioniq Electric,Blainville · QC,85373.0,20987.0
+2016 Ford,Fusion,Saint-Jerome · QC,81766.0,14555.0
+2020 Mitsubishi,Eclipse Cross,Blainville · QC,42000.0,22741.0
+2019 Honda,Civic,Pincourt · QC,62000.0,19995.0
+2015 Subaru,Impreza,Blainville · QC,72590.0,15487.0
+2023 Tesla,Model Y,Blainville · QC,23973.0,56987.0
+2018 Mercedes-Benz,GLS450,Blainville · QC,80000.0,42950.0
+2024 Mitsubishi,Outlander,Blainville · QC,6500.0,46994.0
+2016 Ford,FOCUS,Pincourt · QC,87192.0,11490.0
+2018 Honda,Odyssey,Pincourt · QC,171033.0,27038.0
+2019 Hyundai,Veloster,Brossard · QC,51203.0,24985.0
+2003 Bmw,3 Series,Granby · QC,128812.0,9995.0
+2024 Honda,Ridgeline,Notre-Dame-des-Prairies · QC,100.0,68270.0
+2020 Toyota,Prius Prime,Pincourt · QC,82120.0,24490.0
+2017 Chevrolet,Sonic,Saint-Eustache · QC,124000.0,16495.0
+2019 Lincoln,MKC,Pincourt · QC,68255.0,24995.0
+2016 Buick,Enclave,Pincourt · QC,140499.0,18956.0
+2022 Gmc,Sierra 1500,Drummondville · QC,9716.0,67995.0
+2022 Honda,Pilot,Pincourt · QC,39207.0,47494.0
+2021 Mercedes-Benz,C300,Laval · QC,45000.0,54995.0
+2013 Hyundai,Elantra,Notre-Dame-des-Prairies · QC,133000.0,9649.0
+2020 Mercedes-Benz,GLE350,Laval · QC,90181.0,53995.0
+2020 Toyota,Corolla,Pincourt · QC,62512.0,23038.0
+2022 Toyota,RAV4,Granby · QC,22381.0,37995.0
+2021 Ford,F-150,Saint-Jerome · QC,65368.0,42955.0
+2021 Toyota,Prius Prime,Granby · QC,109975.0,24995.0
+2020 Mazda,CX-3,Pincourt · QC,54855.0,22777.0
+2022 Toyota,Corolla Hybrid,Granby · QC,17785.0,29995.0
+2012 Mercedes-Benz,GLK-Class,Pincourt · QC,175465.0,11038.0
+2015 Mercedes-Benz,CLS-Class,Laval · QC,75664.0,31888.0
+2023 Ram,1500,Blainville · QC,10.0,62930.0
+2019 Bmw,X1,Mirabel · QC,97010.0,24495.0
+2020 Gmc,Sierra 1500,Saint-Jerome · QC,107323.0,47995.0
+2022 Kia,Sorento,Pointe-Claire · QC,33600.0,33898.0
+2015 Jeep,Wrangler,Blainville · QC,111000.0,23995.0
+2023 Ram,1500,Blainville · QC,10.0,62390.0
+2016 Mercedes-Benz,C-Class,Laval · QC,89800.0,27995.0
+2018 Hyundai,Kona,Blainville · QC,146000.0,13995.0
+2021 Hyundai,Kona Electric,Mirabel · QC,64427.0,26995.0
+2020 Jeep,Wrangler,Mirabel · QC,39614.0,33995.0
+2021 Chevrolet,Silverado 1500,Mirabel · QC,76037.0,38995.0
+2021 Chevrolet,Trailblazer,Pointe-Claire · QC,57100.0,27043.0
+2022 Jeep,WAGONEER,Saint-Jerome · QC,29496.0,65995.0
+2020 Lexus,RX 350,Pointe-Claire · QC,43812.0,45874.0
+2024 Chrysler,Pacifica Hybrid,Laval · QC,10.0,59622.0
+2022 Volkswagen,Taos,Laval · QC,50041.0,30888.0
+2019 Gmc,Sierra 2500HD,Mirabel · QC,152142.0,53495.0
+2022 Ford,Maverick,Saint-Jerome · QC,26606.0,35495.0
+2021 Jeep,Cherokee,Terrebonne · QC,14282.0,36195.0
+2021 Volkswagen,ID.4,Val-David · QC,49960.0,39695.0
+2015 Chevrolet,Malibu,Saint-Jerome · QC,111389.0,11895.0
+2013 Mercedes-Benz,SL550,Saint-Hubert · QC,66000.0,46995.0
+2019 Hyundai,Tucson,Saint-Jerome · QC,53730.0,20795.0
+2019 Chevrolet,Bolt EV,Saint-Jerome · QC,84914.0,21495.0
+2023 Nissan,Kicks,Terrebonne · QC,16480.0,24295.0
+2022 Jeep,WAGONEER,Mirabel · QC,29496.0,65995.0
+2019 Volkswagen,Golf Alltrack,Granby · QC,62586.0,27245.0
+2020 Nissan,Maxima,Mirabel · QC,55843.0,27995.0
+2018 Kia,Sportage,Granby · QC,100800.0,17495.0
+2017 Acura,RDX,Pointe-Claire · QC,75217.0,23797.0
+2021 Honda,CR-V,Boucherville · QC,61683.0,28500.0
+2024 Jeep,Grand Cherokee L,Laval · QC,300.0,65466.0
+2021 Jeep,Wrangler 4xe,Mirabel · QC,67143.0,43695.0
+2022 Lexus,NX 450h+,Pointe-Claire · QC,24951.0,60993.0
+2020 Volkswagen,Tiguan,Laval · QC,86780.0,25667.0
+2018 Volkswagen,Atlas,Mirabel · QC,87817.0,29995.0
+2019 Lincoln,Nautilus,Saint-Eustache · QC,80652.0,36975.0
+2023 Jeep,Gladiator,Mirabel · QC,6528.0,61865.0
+2022 Chevrolet,Silverado 1500,Saint-Jerome · QC,29612.0,47495.0
+2017 Mazda,CX-5,Chambly · QC,137351.0,19775.0
+2017 Jeep,Cherokee,Mirabel · QC,124240.0,20495.0
+2014 Dodge,Grand Caravan,Saint-Eustache · QC,95765.0,15975.0
+2018 Ford,Mustang,Saint-Hubert · QC,57293.0,24490.0
+2024 Jeep,Grand Cherokee,Laval · QC,150.0,74570.0
+2022 Mitsubishi,Outlander,Saint-Hubert · QC,24388.0,30944.0
+2019 Kia,Niro,Mascouche · QC,54804.0,26995.0
+2022 Nissan,Kicks,Mascouche · QC,14227.0,23995.0
+2017 Hyundai,Sonata Plug-In Hybrid,Laval · QC,69236.0,20999.0
+2022 Nissan,Sentra,Mascouche · QC,21953.0,24995.0
+2022 Toyota,Venza,Cowansville · QC,19473.0,51984.0
+2021 Hyundai,Sonata,Laval · QC,84470.0,21499.0
+2019 Jeep,Compass,Saint-Constant · QC,56888.0,24499.0
+2017 Mazda,CX-5,Laval · QC,94940.0,20999.0
+2023 Ford,S?lectionner,Cowansville · QC,8.0,69984.0
+2016 Lincoln,MKC,Saint-Constant · QC,102124.0,17999.0
+2021 Kia,Sportage,Mascouche · QC,34583.0,24995.0
+2020 Kia,Forte,Laval · QC,82437.0,19999.0
+2020 Chevrolet,Spark,Saint-Constant · QC,98445.0,16499.0
+2021 Chevrolet,Bolt EV,Saint-Constant · QC,57952.0,24499.0
+2023 Ford,F-150,Cowansville · QC,15.0,84995.0
+2023 Hyundai,Kona,Mascouche · QC,12468.0,27995.0
+2021 Toyota,Corolla,Laval · QC,82837.0,22999.0
+2018 Toyota,Corolla,Saint-Hubert · QC,88532.0,20999.0
+2011 Hyundai,Elantra,Pincourt · QC,179163.0,4899.0
+2021 Mazda,Mazda3 Sport,Mascouche · QC,41840.0,28995.0
+2021 Ford,Escape,Saint-Constant · QC,91609.0,22499.0
+2022 Honda,HR-V,Laval · QC,27655.0,27499.0
+2021 Ford,F-150,Saint-Jerome · QC,93384.0,38955.0
+2021 Nissan,Sentra,Mascouche · QC,30267.0,22995.0
+2019 Hyundai,Kona,Saint-Constant · QC,61997.0,21499.0
+2020 Kia,Soul,Mascouche · QC,23310.0,21995.0
+2021 Toyota,RAV4 Prime,Laval · QC,80641.0,40499.0
+2023 Hyundai,Sonata,Mascouche · QC,17652.0,39995.0
+2022 Nissan,Versa,Laval · QC,9756.0,20499.0
+2021 Kia,Forte,Saint-Hubert · QC,96180.0,22449.0
+2024 Nissan,Kicks,Saint-Constant · QC,1209.0,26999.0
+2021 Toyota,Prius Prime,Saint-Constant · QC,25580.0,29499.0
+2022 Hyundai,Tucson,Mascouche · QC,33532.0,27995.0
+2019 Buick,Encore,Laval · QC,83437.0,19949.0
+2020 Nissan,Kicks,Mascouche · QC,56560.0,21495.0
+2022 Jeep,Wagoneer,Saint-Constant · QC,25640.0,76999.0
+2023 Ford,F-150,Saint-Constant · QC,13062.0,57999.0
+2019 Hyundai,Tucson,Pincourt · QC,100542.0,18798.0
+2020 Bmw,X6 M,Saint-Constant · QC,52253.0,98999.0
+2021 Hyundai,Tucson,Mascouche · QC,46228.0,27995.0
+2021 Bmw,X1,Blainville · QC,65000.0,31950.0
+2019 Honda,Civic,Laval · QC,66261.0,22449.0
+2022 Nissan,Kicks,Mascouche · QC,18431.0,23995.0
+2020 Nissan,Kicks,Mascouche · QC,43461.0,20995.0
+2019 Chrysler,Pacifica Hybrid,Saint-Constant · QC,124742.0,29999.0
+2022 Hyundai,Kona,Mascouche · QC,51717.0,24495.0
+2019 Volvo,XC90,Saint-Constant · QC,84181.0,32499.0
+2019 Ford,F-150,Cowansville · QC,232568.0,30995.0
+2019 Nissan,Leaf,Mascouche · QC,60141.0,21995.0
+2020 Nissan,Leaf,Mascouche · QC,47583.0,24495.0
+2018 Kia,Forte,Saint-Hubert · QC,39269.0,18999.0
+2021 Hyundai,Tucson,Mascouche · QC,32101.0,26995.0
+2024 Bmw,230,Blainville · QC,3190.0,60949.0
+2021 Hyundai,Palisade,Cowansville · QC,56112.0,46982.0
+2020 Toyota,Corolla,Saint-Hubert · QC,98664.0,21999.0
+2020 Mini,Convertible,Cowansville · QC,82769.0,28495.0
+2021 Subaru,Crosstrek,Mascouche · QC,31390.0,29995.0
+2021 Chrysler,Pacifica,Saint-Constant · QC,88290.0,31499.0
+2018 Bmw,X1,Saint-Hubert · QC,71674.0,23499.0
+2019 Nissan,Rogue,Cowansville · QC,119805.0,20984.0
+2021 Hyundai,Elantra,Laval · QC,81001.0,22499.0
+2023 Chevrolet,Trailblazer,Mascouche · QC,11429.0,27495.0
+2023 Nissan,Leaf,Mascouche · QC,15024.0,28995.0
+2021 Toyota,Corolla,Laval · QC,81842.0,22499.0
+2018 Audi,A4 allroad,Laval · QC,126092.0,24999.0
+2022 Chevrolet,Silverado 1500 LTD,Mascouche · QC,38892.0,44995.0
+2021 Toyota,C-HR,Saint-Constant · QC,85110.0,26449.0
+2022 Tesla,Model 3,Laval · QC,55098.0,42999.0
+2020 Hyundai,Elantra,Laval · QC,79983.0,19999.0
+2021 Mazda,CX-30,Mascouche · QC,54289.0,29995.0
+2021 Toyota,Corolla,Saint-Hubert · QC,85673.0,24449.0
+2019 Honda,Pilot,Cowansville · QC,106186.0,36984.0
+2020 Nissan,Sentra,Laval · QC,51372.0,20999.0
+2017 Ford,Explorer,Saint-Eustache · QC,134000.0,16850.0
+2021 Hyundai,Elantra,Pincourt · QC,74184.0,21995.0
+2021 Volkswagen,Tiguan,Laval · QC,37500.0,31999.0
+2019 Mitsubishi,RVR,Saint-Hubert · QC,76830.0,19999.0
+2023 Nissan,Qashqai,Mascouche · QC,6437.0,27995.0
+2022 Kia,Sportage,Mascouche · QC,25135.0,27995.0
+2021 Hyundai,Tucson,Mascouche · QC,27774.0,26995.0
+2019 Volkswagen,Jetta,Laval · QC,86305.0,22649.0
+2019 Hyundai,Santa Fe,Mascouche · QC,41834.0,25995.0
+2019 Buick,Encore,Saint-Hubert · QC,40025.0,20999.0
+2022 Kia,Sportage,Saint-Jerome · QC,48113.0,23795.0
+2023 Chevrolet,Camaro,Saint-Constant · QC,12713.0,38999.0
+2022 Hyundai,Elantra,Laval · QC,47477.0,24999.0
+2023 Kia,Forte,Mascouche · QC,11950.0,24995.0
+2022 Hyundai,Tucson,Mascouche · QC,28615.0,27995.0
+2018 Kia,Soul,Laval · QC,106551.0,18499.0
+2018 Nissan,Pathfinder,Laval · QC,116365.0,23999.0
+2020 Chevrolet,Bolt EV,Saint-Constant · QC,64290.0,22499.0
+2023 Mazda,CX-9,Laval · QC,19612.0,38999.0
+2021 Hyundai,Kona,Mascouche · QC,29866.0,26995.0
+2022 Nissan,Armada,Mascouche · QC,8578.0,65995.0
+2020 Toyota,Corolla,Saint-Hubert · QC,101978.0,21299.0
+2017 Mini,Cooper Clubman,Laval · QC,63351.0,23999.0
+2022 Toyota,Corolla,Saint-Constant · QC,31623.0,24999.0
+2019 Nissan,Qashqai,Mascouche · QC,58889.0,21995.0
+2018 Chevrolet,Cruze,Saint-Constant · QC,36005.0,18999.0
+2021 Nissan,Kicks,Laval · QC,62758.0,21999.0
+2021 Volkswagen,Golf,Laval · QC,72834.0,24999.0
+2019 Chevrolet,Spark,Saint-Hubert · QC,57479.0,16999.0
+2021 Toyota,Corolla Hatchback,Cowansville · QC,82296.0,26982.0
+2019 Volvo,S60,Saint-Hubert · QC,65484.0,27499.0
+2020 Toyota,Corolla,Saint-Constant · QC,100255.0,19999.0
+2022 Chevrolet,Equinox,Mascouche · QC,39289.0,34995.0
+2017 Chevrolet,Camaro,Laval · QC,111619.0,25999.0
+2021 Mazda,Mazda3 Sport,Mascouche · QC,57851.0,29995.0
+2021 Kia,Forte,Laval · QC,92243.0,19499.0
+2023 Mitsubishi,Outlander,Mascouche · QC,9789.0,38995.0
+2021 Chevrolet,Silverado 1500,Granby · QC,77438.0,40988.0
+2022 Nissan,Kicks,Mascouche · QC,24947.0,26995.0
+2020 Chevrolet,Spark,Laval · QC,92284.0,17499.0
+2023 Nissan,Kicks,Laval · QC,11481.0,24499.0
+2021 Chevrolet,Trailblazer,Mascouche · QC,35487.0,26995.0
+2020 Jeep,Cherokee,Saint-Constant · QC,111818.0,24999.0
+2020 Nissan,Kicks,Mascouche · QC,31673.0,20995.0
+2013 Hyundai,Elantra,Pincourt · QC,112627.0,10290.0
+2020 Mazda,CX-3,Mascouche · QC,50746.0,23995.0
+2023 Volvo,C40,Blainville · QC,8600.0,57950.0
+2019 Nissan,Leaf,Mascouche · QC,41319.0,23495.0
+2019 Jaguar,E-PACE,Cowansville · QC,47303.0,31999.0
+2021 Hyundai,Elantra,Saint-Constant · QC,79742.0,23499.0
+2021 Kia,Seltos,Mascouche · QC,47940.0,27995.0
+2020 Subaru,Brz,Saint-Constant · QC,74163.0,26499.0
+2019 Audi,A3,Saint-Hubert · QC,82609.0,23949.0
+2021 Nissan,Rogue,Mascouche · QC,44988.0,28995.0
+2019 Nissan,Micra,Laval · QC,39927.0,18949.0
+2022 Chevrolet,Silverado 1500,Mascouche · QC,14375.0,45995.0
+2019 Volkswagen,Tiguan,Saint-Hubert · QC,103592.0,22999.0
+2019 Audi,Sq5,Saint-Hubert · QC,85546.0,35999.0
+2019 Volkswagen,Jetta,Saint-Constant · QC,55819.0,19999.0
+2017 Mazda,Mazda3,Saint-Constant · QC,74294.0,17999.0
+2023 Ford,Mustang Mach-E,Cowansville · QC,15.0,71995.0
+2019 Gmc,Acadia,Laval · QC,93526.0,22999.0
+2022 Buick,Encore,Mascouche · QC,18477.0,27995.0
+2021 Hyundai,Elantra,Saint-Constant · QC,85663.0,22999.0
+2019 Nissan,Kicks,Saint-Constant · QC,58825.0,22449.0
+2021 Mazda,Mazda3,Saint-Hubert · QC,82974.0,25999.0
+2019 Volkswagen,Jetta,Laval · QC,113584.0,18499.0
+2021 Nissan,Rogue,Mascouche · QC,41392.0,28995.0
+2021 Dodge,Charger,Saint-Constant · QC,76030.0,31999.0
+2017 Volkswagen,Tiguan,Laval · QC,76666.0,18999.0
+2022 Ford,Bronco Sport,Saint-Eustache · QC,31000.0,29840.0
+2020 Nissan,Maxima,Mascouche · QC,38535.0,32995.0
+2019 Mercedes-Benz,GLC,Cowansville · QC,42844.0,47984.0
+2019 Mercedes-Benz,A-Class,Saint-Hubert · QC,83184.0,26999.0
+2022 Kia,Niro,Mascouche · QC,34637.0,32995.0
+2016 Mercedes-Benz,GLC,Saint-Hubert · QC,117874.0,23499.0
+2022 Nissan,Leaf,Laval · QC,14563.0,22999.0
+2021 Ford,Explorer,Cowansville · QC,39975.0,53984.0
+2022 Cadillac,XT5,Pincourt · QC,46820.0,41536.0
+2018 Honda,Civic,Saint-Constant · QC,73161.0,21999.0
+2017 Audi,A4,Cowansville · QC,137415.0,23995.0
+2021 Kia,Forte,Laval · QC,35105.0,21499.0
+2021 Kia,Sportage,Laval · QC,74652.0,26499.0
+2023 Nissan,Leaf,Mascouche · QC,21748.0,32995.0
+2018 Honda,CR-V,Laval · QC,70379.0,25999.0
+2021 Kia,Soul,Saint-Hubert · QC,66087.0,20999.0
+2020 Dodge,Grand Caravan,Laval · QC,133172.0,23999.0
+2019 Mazda,CX-3,Laval · QC,56509.0,19999.0
+2019 Mercedes-Benz,GLA,Laval · QC,54290.0,27999.0
+2018 Ford,Explorer,Saint-Constant · QC,111279.0,26999.0
+2019 Buick,Encore,Saint-Hubert · QC,54665.0,21499.0
+2021 Kia,Sportage,Saint-Constant · QC,71312.0,25999.0
+2021 Hyundai,Elantra,Laval · QC,79763.0,21999.0
+2018 Volkswagen,Passat,Saint-Constant · QC,124700.0,20449.0
+2018 Ford,EDGE,Saint-Hubert · QC,125857.0,18999.0
+2022 Chevrolet,Silverado 1500,Mascouche · QC,12692.0,67995.0
+2017 Subaru,Impreza,Saint-Constant · QC,72650.0,19449.0
+2020 Hyundai,Kona,Saint-Hubert · QC,85598.0,20999.0
+2022 Bmw,X2,Cowansville · QC,44055.0,40999.0
+2018 Mercedes-Benz,GLC,Laval · QC,116180.0,25999.0
+2021 Nissan,Kicks,Mascouche · QC,41513.0,21995.0
+2021 Chevrolet,Spark,Saint-Constant · QC,83007.0,18999.0
+2019 Nissan,Leaf,Saint-Constant · QC,39483.0,19499.0
+2021 Hyundai,Kona,Saint-Hubert · QC,50430.0,21999.0
+2022 Mitsubishi,Outlander,Mascouche · QC,25173.0,35995.0
+2022 Chevrolet,Silverado 1500,Mascouche · QC,15351.0,67995.0
+2022 Volkswagen,ID.4,Saint-Hubert · QC,71187.0,41999.0
+2019 Honda,CR-V,Saint-Hubert · QC,81754.0,25499.0
+2021 Hyundai,Elantra,Laval · QC,75787.0,23499.0
+2018 Hyundai,Elantra,Saint-Constant · QC,98796.0,16499.0
+2021 Chevrolet,Trax,Laval · QC,74186.0,22999.0
+2019 Volkswagen,Jetta,Laval · QC,98914.0,16999.0
+2019 Volkswagen,Tiguan,Saint-Constant · QC,88631.0,26499.0
+2021 Hyundai,Tucson,Mascouche · QC,30971.0,24995.0
+2021 Kia,Forte,Saint-Hubert · QC,89796.0,22949.0
+2023 Mini,3 Door,Cowansville · QC,12833.0,35999.0
+2018 Kia,Sportage,Saint-Constant · QC,81432.0,24999.0
+2019 Infiniti,Q50,Saint-Constant · QC,89210.0,26999.0
+2020 Dodge,Grand Caravan,Cowansville · QC,80783.0,31984.0
+2021 Volkswagen,Golf,Laval · QC,81503.0,23949.0
+2021 Chevrolet,Spark,Laval · QC,29956.0,21449.0
+2018 Chrysler,300,Laval · QC,114814.0,21499.0
+2021 Toyota,Corolla,Saint-Hubert · QC,83493.0,22499.0
+2021 Nissan,Rogue,Mascouche · QC,55538.0,33995.0
+2020 Mazda,Mazda3,Mascouche · QC,30165.0,25995.0
+2019 Nissan,Kicks,Saint-Hubert · QC,55290.0,20949.0
+2017 Mercedes-Benz,GLC,Laval · QC,98098.0,30999.0
+2016 Mercedes-Benz,C-Class,Saint-Hubert · QC,116098.0,21999.0
+2023 Chevrolet,Camaro,Mascouche · QC,7417.0,42995.0
+2020 Kia,Forte,Saint-Constant · QC,80132.0,19999.0
+2020 Kia,Forte,Mascouche · QC,56192.0,21995.0
+2019 Dodge,Grand Caravan,Saint-Hubert · QC,52254.0,27499.0
+2019 Nissan,Kicks,Laval · QC,49573.0,19999.0
+2023 Hyundai,Kona,Mascouche · QC,21495.0,27995.0
+2022 Ram,1500,Cowansville · QC,51119.0,53984.0
+2023 Hyundai,Kona,Saint-Constant · QC,34400.0,30999.0
+2019 Gmc,Acadia,Saint-Hubert · QC,87596.0,25949.0
+2018 Volkswagen,Golf,Saint-Constant · QC,56692.0,19499.0
+2019 Nissan,Qashqai,Mascouche · QC,53665.0,20995.0
+2021 Volvo,XC60,Mascouche · QC,45414.0,42995.0
+2018 Subaru,Impreza,Laval · QC,85560.0,19999.0
+2021 Kia,Sportage,Saint-Eustache · QC,64000.0,27450.0
+2021 Mazda,Mazda3 Sport,Mascouche · QC,46401.0,29995.0
+2020 Kia,Sorento,Laval · QC,97211.0,23499.0
+2020 Volvo,S60,Saint-Constant · QC,46303.0,32999.0
+2021 Kia,Forte,Mascouche · QC,27763.0,26995.0
+2020 Volvo,XC40,Laval · QC,62102.0,31999.0
+2020 Hyundai,Elantra,Mascouche · QC,51841.0,23995.0
+2020 Hyundai,Kona,Mascouche · QC,52752.0,23995.0
+2018 Volkswagen,Tiguan,Saint-Constant · QC,117476.0,21499.0
+2022 Chevrolet,Silverado 1500,Mascouche · QC,14595.0,53995.0
+2022 Chevrolet,Silverado 1500 LTD,Mascouche · QC,31971.0,44995.0
+2019 Chrysler,Pacifica,Saint-Constant · QC,49743.0,30999.0
+2022 Nissan,Leaf,Mascouche · QC,16297.0,28495.0
+2020 Hyundai,Kona EV,Mascouche · QC,61581.0,25995.0
+2019 Dodge,Grand Caravan,Saint-Constant · QC,79491.0,24499.0
+2023 Mitsubishi,RVR,Laval · QC,16134.0,24449.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,51401.0,24999.0
+2019 Volvo,XC90,Saint-Constant · QC,69627.0,43999.0
+2017 Volvo,XC60,Laval · QC,88086.0,22999.0
+2022 Mitsubishi,Mirage,Saint-Hubert · QC,47183.0,18499.0
+2021 Nissan,Versa,Laval · QC,76584.0,18999.0
+2021 Kia,Seltos,Cowansville · QC,36088.0,29984.0
+2019 Audi,A5,Laval · QC,54122.0,31999.0
+2018 Nissan,Qashqai,Laval · QC,64112.0,20999.0
+2020 Chevrolet,Trax,Mascouche · QC,45183.0,21995.0
+2022 Nissan,Rogue,Mascouche · QC,26755.0,27995.0
+2021 Buick,Envision,Mascouche · QC,14555.0,34995.0
+2021 Hyundai,Kona,Saint-Constant · QC,88243.0,23999.0
+2021 Nissan,Rogue,Laval · QC,59430.0,25499.0
+2020 Kia,Sportage,Mascouche · QC,24832.0,21495.0
+2022 Nissan,Armada,Mascouche · QC,9894.0,66995.0
+2022 Hyundai,Sonata,Saint-Constant · QC,81564.0,27999.0
+2021 Nissan,Kicks,Saint-Constant · QC,31255.0,22499.0
+2021 Volvo,XC60,Mascouche · QC,68967.0,42995.0
+2021 Hyundai,Venue,Saint-Constant · QC,85624.0,19999.0
+2020 Ford,Escape,Saint-Constant · QC,64670.0,20999.0
+2022 Kia,Forte,Saint-Constant · QC,56862.0,22499.0
+2014 Hyundai,SANTA FE SPORT,Saint-Eustache · QC,143141.0,13994.0
+2021 Mazda,CX-3,Laval · QC,83975.0,26449.0
+2021 Kia,Soul,Laval · QC,90404.0,20999.0
+2021 Chrysler,Grand Caravan,Saint-Constant · QC,91973.0,28299.0
+2022 Kia,Seltos,Saint-Jerome · QC,44547.0,24795.0
+2018 Nissan,Qashqai,Laval · QC,107332.0,17999.0
+2021 Ford,Escape,Saint-Constant · QC,24600.0,28999.0
+2021 Chevrolet,Spark,Saint-Constant · QC,80471.0,18499.0
+2022 Hyundai,Kona,Mascouche · QC,31217.0,25995.0
+2021 Toyota,Corolla,Laval · QC,91267.0,21999.0
+2020 Volvo,XC60,Saint-Constant · QC,85655.0,32999.0
+2020 Hyundai,Santa Fe,Mascouche · QC,30853.0,29995.0
+2023 Hyundai,Kona,Mascouche · QC,9030.0,37995.0
+2021 Kia,Seltos,Saint-Jerome · QC,125310.0,20985.0
+2017 Buick,Encore,Saint-Constant · QC,126355.0,16999.0
+2023 Hyundai,Kona,Mascouche · QC,19802.0,27995.0
+2023 Hyundai,Santa Cruz,Cowansville · QC,19854.0,45995.0
+2021 Nissan,Kicks,Saint-Hubert · QC,30343.0,23499.0
+2023 Ford,F-150,Cowansville · QC,9.0,83995.0
+2022 Mazda,Mazda3 Sport,Mascouche · QC,15888.0,28995.0
+2021 Hyundai,Venue,Laval · QC,80348.0,19999.0
+2023 Mazda,CX-50,Mascouche · QC,29814.0,43495.0
+2020 Hyundai,Elantra Gt,Saint-Constant · QC,79593.0,24499.0
+2020 Audi,Q5,Laval · QC,93358.0,30499.0
+2017 Hyundai,Tucson,Laval · QC,106229.0,19999.0
+2019 Toyota,Tacoma,Pincourt · QC,106031.0,36990.0
+2017 Cadillac,XT5,Laval · QC,117867.0,22299.0
+2019 Hyundai,Santa Fe,Mascouche · QC,48891.0,23995.0
+2023 Kia,Stinger,Saint-Jerome · QC,11981.0,48995.0
+2016 Jeep,Cherokee,Saint-Constant · QC,81560.0,17499.0
+2016 Bmw,X5,Saint-Constant · QC,122045.0,24999.0
+2020 Mazda,CX-3,Mascouche · QC,50891.0,22995.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,91384.0,31499.0
+2022 Mazda,CX-5,Mascouche · QC,46993.0,31995.0
+2021 Kia,Forte,Mascouche · QC,35203.0,23995.0
+2016 Ford,Focus Electric,Granby · QC,91097.0,14988.0
+2021 Kia,Soul EV,Mascouche · QC,45693.0,27995.0
+2019 Dodge,Grand Caravan,Laval · QC,109581.0,27499.0
+2021 Mazda,MX-5,Mascouche · QC,40785.0,29995.0
+2020 Nissan,Kicks,Laval · QC,32569.0,22499.0
+2019 Hyundai,Kona,Saint-Hubert · QC,48558.0,21999.0
+2016 Bmw,340i,Cowansville · QC,113176.0,23984.0
+2019 Nissan,Kicks,Laval · QC,36836.0,20499.0
+2018 Mazda,Mazda3 Sport,Saint-Constant · QC,69415.0,18499.0
+2023 Kia,Sportage,Mascouche · QC,17201.0,34995.0
+2019 Mazda,Mazda3 Sport,Laval · QC,86453.0,22999.0
+2021 Honda,CR-V,Cowansville · QC,28310.0,32984.0
+2022 Mazda,MX-30,Mascouche · QC,10335.0,24995.0
+2023 Subaru,Wrx,Cowansville · QC,5119.0,38984.0
+2021 Bmw,X3,Blainville · QC,49000.0,41950.0
+2020 Hyundai,Elantra,Laval · QC,85521.0,19999.0
+2020 Chevrolet,Colorado,Saint-Hubert · QC,144131.0,29499.0
+2021 Kia,Soul,Saint-Constant · QC,96484.0,19999.0
+2022 Mazda,Mazda3 Sport,Mascouche · QC,14704.0,25995.0
+2017 Audi,Q3,Saint-Hubert · QC,112066.0,19999.0
+2018 Audi,Q5,Laval · QC,85462.0,26999.0
+2017 Dodge,Grand Caravan,Saint-Hubert · QC,82289.0,19999.0
+2022 Nissan,Kicks,Mascouche · QC,37418.0,22995.0
+2017 Hyundai,Elantra,Saint-Constant · QC,68715.0,15999.0
+2019 Volkswagen,Jetta,Saint-Hubert · QC,85387.0,22499.0
+2017 Lincoln,MKC,Laval · QC,108842.0,19499.0
+2021 Buick,Encore,Mascouche · QC,21184.0,23995.0
+2021 Volkswagen,Jetta,Saint-Constant · QC,80527.0,23999.0
+2020 Volkswagen,Golf,Saint-Constant · QC,84880.0,20999.0
+2022 Mini,Cooper EV,Cowansville · QC,36317.0,28999.0
+2021 Ford,Bronco Sport,Saint-Constant · QC,98581.0,26499.0
+2023 Nissan,Rogue,Mascouche · QC,19660.0,29995.0
+2023 Ford,F-150,Saint-Hubert · QC,21920.0,52999.0
+2016 Nissan,Frontier,Saint-Constant · QC,107368.0,26999.0
+2021 Hyundai,Kona,Mascouche · QC,42353.0,24995.0
+2021 Kia,Seltos,Mascouche · QC,53290.0,28995.0
+2022 Gmc,Terrain,Saint-Constant · QC,52738.0,28499.0
+2018 Gmc,Terrain,Brossard · QC,191605.0,14975.0
+2021 Toyota,Corolla,Saint-Constant · QC,51074.0,23499.0
+2020 Honda,Civic,Cowansville · QC,73464.0,26495.0
+2021 Mazda,Mazda3 Sport,Laval · QC,80416.0,25499.0
+2019 Volkswagen,Tiguan,Cowansville · QC,95233.0,26999.0
+2023 Mazda,CX-9,Mascouche · QC,7656.0,39995.0
+2016 Honda,Civic,Saint-Constant · QC,103246.0,15499.0
+2020 Kia,Soul EV,Saint-Hubert · QC,87221.0,24449.0
+2021 Hyundai,Tucson,Saint-Hubert · QC,47522.0,29949.0
+2022 Mazda,MX-30,Mascouche · QC,39144.0,26995.0
+2021 Kia,Soul,Mascouche · QC,33140.0,22495.0
+2021 Toyota,Corolla,Saint-Constant · QC,90657.0,22299.0
+2018 Ford,Escape,Saint-Hubert · QC,66789.0,21499.0
+2015 Mini,Cooper Hardtop,Saint-Constant · QC,121736.0,12999.0
+2023 Mazda,CX-50,Mascouche · QC,19806.0,43995.0
+2020 Volvo,XC60,Saint-Constant · QC,96915.0,34999.0
+2022 Gmc,Sierra 1500,Cowansville · QC,32424.0,68984.0
+2019 Nissan,Leaf,Mascouche · QC,55576.0,23495.0
+2019 Volkswagen,Jetta,Saint-Constant · QC,75192.0,21999.0
+2017 Honda,CR-V,Laval · QC,97121.0,23999.0
+2022 Kia,Soul EV,Mascouche · QC,35210.0,30995.0
+2017 Nissan,Sentra,Saint-Hubert · QC,106704.0,15999.0
+2023 Kia,EV6,Mascouche · QC,25954.0,54995.0
+2017 Nissan,Versa Note,Mascouche · QC,66129.0,16995.0
+2021 Ram,1500 Classic,Mascouche · QC,57683.0,41995.0
+2022 Tesla,Model Y,Brossard · QC,23563.0,60985.0
+2018 Kia,Sorento,Saint-Jerome · QC,58772.0,23895.0
+2022 Honda,Civic Hatchback,Cowansville · QC,16106.0,33486.0
+2021 Gmc,Canyon,Mascouche · QC,22852.0,35995.0
+2020 Jaguar,F-TYPE,Laval · QC,42255.0,57999.0
+2021 Toyota,C-HR,Mascouche · QC,67307.0,25995.0
+2019 Ford,F-150,Laval · QC,125609.0,29999.0
+2016 Hyundai,Elantra Gt,Laval · QC,100147.0,14999.0
+2021 Hyundai,Elantra,Laval · QC,85343.0,22999.0
+2017 Dodge,Grand Caravan,Saint-Hubert · QC,94919.0,20499.0
+2020 Mazda,CX-30,Mascouche · QC,82573.0,24995.0
+2016 Jeep,Cherokee,Saint-Hubert · QC,103322.0,16499.0
+2017 Hyundai,Elantra,Saint-Constant · QC,69561.0,17499.0
+2023 Nissan,Kicks,Saint-Constant · QC,13400.0,25999.0
+2020 Nissan,Qashqai,Laval · QC,91535.0,20499.0
+2021 Jeep,Grand Cherokee,Saint-Constant · QC,83125.0,31499.0
+2019 Honda,HR-V,Cowansville · QC,77585.0,24984.0
+2022 Nissan,Leaf,Mascouche · QC,27255.0,27995.0
+2022 Buick,Encore,Mascouche · QC,4549.0,29995.0
+2018 Kia,Rio,Laval · QC,85819.0,17999.0
+2021 Kia,Forte,Saint-Hubert · QC,88660.0,20999.0
+2021 Volkswagen,Jetta,Saint-Constant · QC,85568.0,23999.0
+2021 Hyundai,Kona,Mascouche · QC,47407.0,26500.0
+2020 Hyundai,Kona,Mascouche · QC,35167.0,24500.0
+2020 Ford,Transit Cargo Van,Laval · QC,92763.0,39999.0
+2021 Kia,Soul,Laval · QC,89606.0,19999.0
+2016 Dodge,Grand Caravan,Saint-Constant · QC,90657.0,16999.0
+2019 Acura,RDX,Saint-Constant · QC,125841.0,27999.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,74629.0,22999.0
+2022 Hyundai,Kona,Mascouche · QC,48803.0,25995.0
+2021 Honda,CR-V,Saint-Constant · QC,33517.0,30999.0
+2016 Ford,Fusion,Saint-Constant · QC,48702.0,15999.0
+2021 Ford,EDGE,Pincourt · QC,37593.0,33043.0
+2019 Subaru,Outback,Saint-Constant · QC,144030.0,22449.0
+2018 Honda,HR-V,Saint-Hubert · QC,87492.0,21499.0
+2022 Nissan,Leaf,Saint-Hubert · QC,41061.0,22499.0
+2022 Ford,Bronco,Cowansville · QC,3486.0,72495.0
+2022 Nissan,Armada,Mascouche · QC,8004.0,65995.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,65423.0,23499.0
+2018 Hyundai,SANTA FE SPORT,Laval · QC,108000.0,18999.0
+2020 Dodge,Grand Caravan,Laval · QC,125890.0,25499.0
+2021 Kia,Sportage,Saint-Jerome · QC,134262.0,20985.0
+2018 Hyundai,Elantra,Saint-Constant · QC,116280.0,15999.0
+2021 Hyundai,Kona,Mascouche · QC,35165.0,23995.0
+2023 Genesis,GV70,Mascouche · QC,39448.0,59995.0
+2017 Lincoln,MKX,Laval · QC,96755.0,22999.0
+2018 Jeep,Grand Cherokee,Cowansville · QC,97252.0,33999.0
+2022 Mazda,CX-5,Mascouche · QC,32349.0,29995.0
+2020 Subaru,Brz,Saint-Hubert · QC,36046.0,28999.0
+2021 Chevrolet,Equinox,Laval · QC,88829.0,23499.0
+2019 Subaru,Ascent,Saint-Constant · QC,93545.0,26499.0
+2021 Kia,Sorento,Mascouche · QC,57065.0,35995.0
+2019 Mercedes-Benz,A-Class,Cowansville · QC,70339.0,30384.0
+2021 Mazda,Mazda3 Sport,Mascouche · QC,40722.0,26995.0
+2019 Volkswagen,Jetta,Saint-Hubert · QC,90796.0,21499.0
+2020 Volvo,XC40,Mascouche · QC,42871.0,35995.0
+2021 Nissan,Rogue,Laval · QC,50484.0,25999.0
+2023 Nissan,Rogue,Mascouche · QC,11820.0,31995.0
+2023 Nissan,Qashqai,Mascouche · QC,7983.0,26995.0
+2018 Volkswagen,Tiguan,Laval · QC,125037.0,19999.0
+2018 Chevrolet,Cruze,Saint-Hubert · QC,149106.0,15449.0
+2021 Kia,Forte,Saint-Jerome · QC,12947.0,18395.0
+2023 Genesis,G70,Mascouche · QC,5022.0,58500.0
+2021 Nissan,Qashqai,Mascouche · QC,50921.0,22995.0
+2022 Hyundai,Kona,Saint-Constant · QC,70588.0,24499.0
+2022 Volvo,XC40,Mascouche · QC,25936.0,40995.0
+2020 Buick,Encore,Mascouche · QC,56299.0,23495.0
+2022 Kia,K5,Pincourt · QC,53600.0,27477.0
+2021 Nissan,Sentra,Mascouche · QC,39058.0,22995.0
+2017 Chevrolet,Bolt EV,Saint-Constant · QC,95646.0,17999.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,47308.0,20999.0
+2023 Ford,Mustang,Saint-Hubert · QC,28083.0,39499.0
+2021 Nissan,Kicks,Mascouche · QC,20928.0,23995.0
+2022 Mitsubishi,Eclipse Cross,Saint-Constant · QC,41772.0,27499.0
+2018 Toyota,Corolla iM,Saint-Constant · QC,109129.0,18499.0
+2022 Nissan,Sentra,Mascouche · QC,24701.0,21995.0
+2017 Mercedes-Benz,GLA,Saint-Constant · QC,130569.0,19499.0
+2017 Cadillac,XT5 AWD PLATINUM,Pincourt · QC,99722.0,25537.0
+2019 Volvo,XC90,Mascouche · QC,59561.0,42995.0
+2020 Kia,Forte,Mascouche · QC,49577.0,21995.0
+2019 Hyundai,Ioniq Electric,Saint-Constant · QC,99439.0,19499.0
+2021 Kia,Sorento,Mascouche · QC,48972.0,33995.0
+2016 Mercedes-Benz,GLE450,Cowansville · QC,62150.0,38984.0
+2015 Bmw,i3,Cowansville · QC,65000.0,19984.0
+2022 Chevrolet,Bolt EUV LT,Pincourt · QC,66982.0,28937.0
+2019 Toyota,Corolla,Laval · QC,44308.0,20999.0
+2022 Buick,Envision,Saint-Constant · QC,33647.0,36999.0
+2021 Nissan,Rogue,Mascouche · QC,33633.0,29995.0
+2022 Hyundai,Tucson,Mascouche · QC,36163.0,27995.0
+2020 Chevrolet,Camaro,Laval · QC,65521.0,34999.0
+2022 Mitsubishi,Outlander,Mascouche · QC,29840.0,35995.0
+2020 Nissan,Leaf,Laval · QC,44255.0,19449.0
+2021 Kia,Forte,Laval · QC,84398.0,21299.0
+2021 Hyundai,Kona,Mascouche · QC,57607.0,24995.0
+2021 Toyota,Corolla Hatchback,Saint-Hubert · QC,16462.0,26999.0
+2020 Hyundai,Kona,Mascouche · QC,55434.0,23995.0
+2019 Infiniti,Q50,Saint-Hubert · QC,54081.0,26999.0
+2021 Subaru,Crosstrek,Mascouche · QC,47616.0,27995.0
+2021 Kia,Forte,Laval · QC,77669.0,19999.0
+2021 Honda,Civic Sedan,Saint-Constant · QC,49685.0,25999.0
+2019 Nissan,Pathfinder,Saint-Hubert · QC,51890.0,28999.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,85229.0,22999.0
+2022 Mercedes-Benz,GLC-Class,Mascouche · QC,20659.0,54995.0
+2019 Audi,Q5,Saint-Constant · QC,62579.0,28999.0
+2022 Chevrolet,Trailblazer,Mascouche · QC,57496.0,26995.0
+2021 Dodge,Charger,Laval · QC,89456.0,30949.0
+2021 Chevrolet,Bolt EV,Saint-Constant · QC,48349.0,24499.0
+2021 Volkswagen,Golf,Saint-Hubert · QC,87646.0,22999.0
+2020 Lexus,NX,Cowansville · QC,90301.0,33984.0
+2019 Toyota,Corolla Hatchback,Saint-Constant · QC,111624.0,20499.0
+2017 Audi,Q7,Saint-Constant · QC,128754.0,29999.0
+2017 Nissan,Micra,Laval · QC,74542.0,14999.0
+2021 Nissan,Kicks,Mascouche · QC,60481.0,20995.0
+2018 Mazda,CX-5,Pincourt · QC,141567.0,19977.0
+2023 Mazda,CX-50,Mascouche · QC,8981.0,42995.0
+2022 Toyota,Corolla,Saint-Constant · QC,22275.0,26999.0
+2021 Nissan,Sentra,Saint-Constant · QC,31558.0,23499.0
+2022 Ford,EcoSport,Laval · QC,23498.0,24949.0
+2020 Audi,A3,Saint-Hubert · QC,54236.0,27999.0
+2024 Chevrolet,Malibu,Saint-Constant · QC,1760.0,27999.0
+2020 Buick,Encore,Mascouche · QC,53154.0,24995.0
+2019 Nissan,Kicks,Mascouche · QC,67914.0,17995.0
+2021 Hyundai,Elantra,Saint-Constant · QC,85975.0,22499.0
+2021 Kia,Soul,Mascouche · QC,55291.0,22995.0
+2019 Volkswagen,Jetta,Saint-Constant · QC,99655.0,18999.0
+2023 Hyundai,Venue,Mascouche · QC,12380.0,21995.0
+2021 Toyota,RAV4,Saint-Hubert · QC,74531.0,29499.0
+2020 Honda,Civic,Laval · QC,52316.0,24999.0
+2020 Toyota,Corolla,Saint-Hubert · QC,92584.0,20499.0
+2021 Mazda,CX-3,Laval · QC,90542.0,24999.0
+2022 Nissan,Leaf,Laval · QC,40220.0,21999.0
+2022 Tesla,Model Y,Saint-Hubert · QC,97374.0,48999.0
+2018 Bmw,X1,Saint-Hubert · QC,97110.0,22499.0
+2018 Volvo,XC60,Saint-Constant · QC,99035.0,30999.0
+2021 Nissan,Rogue,Mascouche · QC,50361.0,27995.0
+2020 Volvo,XC40,Saint-Hubert · QC,100299.0,28499.0
+2021 Dodge,Charger,Laval · QC,92092.0,30499.0
+2020 Chevrolet,Spark,Saint-Constant · QC,22650.0,18499.0
+2020 Nissan,Rogue,Mascouche · QC,55634.0,22995.0
+2020 Mercedes-Benz,GLE,Laval · QC,55035.0,52999.0
+2021 Subaru,Crosstrek,Laval · QC,57120.0,26999.0
+2021 Chrysler,Pacifica,Laval · QC,89986.0,31499.0
+2016 Dodge,Grand Caravan,Laval · QC,104930.0,16499.0
+2021 Mazda,Mazda3 Sport,Mascouche · QC,56925.0,30995.0
+2024 Gmc,Terrain,Mascouche · QC,4325.0,35995.0
+2023 Mazda,Mazda3,Mascouche · QC,16203.0,26995.0
+2023 Kia,Forte,Mascouche · QC,19603.0,25995.0
+2014 Ford,FIESTA,Pincourt · QC,156123.0,6299.0
+2019 Dodge,Grand Caravan,Saint-Constant · QC,88870.0,27999.0
+2018 Toyota,C-HR,Saint-Constant · QC,64290.0,21499.0
+2016 Audi,Q5,Saint-Constant · QC,107483.0,18999.0
+2020 Chevrolet,Silverado 1500,Mascouche · QC,58286.0,37995.0
+2019 Ford,EDGE,Saint-Hubert · QC,92849.0,21999.0
+2017 Nissan,Rogue,Saint-Hubert · QC,102358.0,19449.0
+2021 Chrysler,Pacifica,Saint-Constant · QC,91196.0,31499.0
+2023 Hyundai,Venue,Mascouche · QC,13650.0,22995.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,91404.0,31499.0
+2016 Land Rover,Discovery Sport,Saint-Constant · QC,99073.0,21449.0
+2024 Mazda,cx-90,Mascouche · QC,4968.0,52995.0
+2022 Gmc,Terrain,Saint-Constant · QC,76920.0,26999.0
+2021 Mazda,CX-3,Mascouche · QC,28064.0,24995.0
+2017 Bmw,X1,Laval · QC,88679.0,20999.0
+2019 Ford,Escape,Pincourt · QC,65781.0,18490.0
+2022 Toyota,Corolla,Saint-Hubert · QC,58218.0,24999.0
+2021 Toyota,Corolla,Saint-Constant · QC,87500.0,24949.0
+2020 Chevrolet,Bolt EV,Laval · QC,47139.0,21499.0
+2018 Ford,EcoSport,Saint-Hubert · QC,120994.0,16499.0
+2019 Nissan,Murano,Mascouche · QC,55872.0,29995.0
+2021 Hyundai,Venue,Mascouche · QC,49895.0,22995.0
+2018 Mercedes-Benz,C-Class,Laval · QC,87316.0,25499.0
+2018 Lexus,Is,Saint-Hubert · QC,65682.0,29499.0
+2021 Buick,Encore GX,Laval · QC,13710.0,24999.0
+2021 Kia,Soul EV,Mascouche · QC,49904.0,31995.0
+2020 Hyundai,Elantra,Saint-Hubert · QC,75757.0,22449.0
+2021 Kia,Soul,Saint-Constant · QC,90735.0,19999.0
+2019 Lexus,NX,Laval · QC,99585.0,29999.0
+2022 Hyundai,Elantra,Cowansville · QC,18716.0,26484.0
+2021 Gmc,Canyon,Mascouche · QC,49971.0,36995.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,65181.0,23499.0
+2019 Ram,1500 Classic,Cowansville · QC,47723.0,35995.0
+2018 Nissan,Titan,Laval · QC,105667.0,28499.0
+2021 Chevrolet,Silverado 1500,Mascouche · QC,37024.0,42995.0
+2021 Cadillac,XT5,Laval · QC,86385.0,31999.0
+2019 Toyota,Corolla Hatchback,Laval · QC,131078.0,18999.0
+2023 Jeep,Wrangler,Mascouche · QC,26051.0,49995.0
+2018 Ford,EDGE,Saint-Hubert · QC,47088.0,23999.0
+2023 Nissan,Sentra,Mascouche · QC,11820.0,26995.0
+2021 Hyundai,Venue,Saint-Hubert · QC,79546.0,20999.0
+2019 Dodge,Durango,Saint-Hyacinthe · QC,153312.0,27994.0
+2021 Genesis,GV80,Mascouche · QC,49659.0,56995.0
+2021 Bmw,X1,Laval · QC,81881.0,28999.0
+2022 Mazda,MX-30,Mascouche · QC,22189.0,26995.0
+2017 Chevrolet,Volt,Saint-Eustache · QC,118276.0,16991.0
+2020 Chevrolet,Spark,Mascouche · QC,41951.0,17995.0
+2022 Hyundai,Kona,Mascouche · QC,36251.0,22995.0
+2021 Nissan,Sentra,Mascouche · QC,45187.0,22995.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,25348.0,25949.0
+2017 Nissan,Murano,Granby · QC,88200.0,18488.0
+2017 Hyundai,Tucson,Cowansville · QC,69677.0,19484.0
+2017 Buick,Encore,Laval · QC,86252.0,17999.0
+2019 Audi,A4,Laval · QC,97766.0,28449.0
+2016 Kia,Rio,Saint-Constant · QC,103494.0,13499.0
+2021 Toyota,Corolla,Saint-Constant · QC,92135.0,21999.0
+2020 Nissan,Maxima,Mascouche · QC,47469.0,32995.0
+2022 Chevrolet,Trax,Mascouche · QC,25105.0,23995.0
+2020 Jaguar,F-PACE,Cowansville · QC,74857.0,61995.0
+2018 Mazda,Mazda3 Sport,Laval · QC,59304.0,21449.0
+2019 Nissan,Kicks,Saint-Hubert · QC,60642.0,20499.0
+2018 Audi,A4 allroad,Saint-Constant · QC,106881.0,23999.0
+2021 Nissan,Kicks,Mascouche · QC,19482.0,22495.0
+2020 Jaguar,F-PACE,Saint-Hubert · QC,69119.0,34999.0
+2020 Ford,F-150,Laval · QC,90210.0,30999.0
+2019 Subaru,Impreza,Laval · QC,30205.0,21999.0
+2018 Jaguar,F-TYPE,Cowansville · QC,75880.0,53995.0
+2018 Nissan,Altima,Laval · QC,78564.0,19449.0
+2016 Bmw,2 Series,Saint-Constant · QC,70171.0,27999.0
+2012 Bmw,650,Saint-Eustache · QC,97000.0,25345.0
+2018 Chevrolet,Sonic,Saint-Hubert · QC,73003.0,17449.0
+2021 Kia,Sportage,Laval · QC,99638.0,24949.0
+2017 Volkswagen,Jetta,Saint-Hubert · QC,116616.0,13999.0
+2021 Ram,2500,Laval · QC,83184.0,43999.0
+2021 Volkswagen,Jetta,Laval · QC,95632.0,23999.0
+2017 Nissan,Micra,Saint-Constant · QC,79637.0,13999.0
+2021 Kia,Sportage,Mascouche · QC,57740.0,27995.0
+2020 Volvo,S60,Mascouche · QC,40431.0,34995.0
+2016 Ford,F-150,Saint-Jerome · QC,145801.0,26955.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,43764.0,21999.0
+2017 Cadillac,XT5,Saint-Eustache · QC,125000.0,21910.0
+2022 Nissan,Sentra,Mascouche · QC,7800.0,24995.0
+2022 Hyundai,Sonata,Saint-Constant · QC,84442.0,29949.0
+2019 Mazda,CX-5,Saint-Hubert · QC,103939.0,25499.0
+2018 Mazda,CX-5,Saint-Constant · QC,116360.0,22499.0
+2017 Dodge,Grand Caravan,Saint-Constant · QC,114042.0,19999.0
+2022 Nissan,Sentra,Mascouche · QC,18584.0,24995.0
+2021 Chrysler,Pacifica,Saint-Constant · QC,91006.0,30999.0
+2022 Nissan,Qashqai,Mascouche · QC,19472.0,26995.0
+2018 Mazda,Mazda3,Saint-Constant · QC,133334.0,17999.0
+2021 Hyundai,Kona,Mascouche · QC,43809.0,24995.0
+2021 Nissan,Versa,Laval · QC,21559.0,19999.0
+2022 Kia,Niro,Mascouche · QC,47448.0,33995.0
+2019 Kia,Niro,Mascouche · QC,46952.0,26995.0
+2017 Honda,HR-V,Cowansville · QC,89800.0,23984.0
+2021 Nissan,Qashqai,Mascouche · QC,31736.0,23995.0
+2022 Mazda,MX-30,Mascouche · QC,17079.0,26995.0
+2021 Nissan,Sentra,Mascouche · QC,44003.0,22995.0
+2020 Volkswagen,Passat,Saint-Hubert · QC,90195.0,19499.0
+2021 Nissan,Rogue,Mascouche · QC,42435.0,28995.0
+2019 Volkswagen,Golf,Saint-Hubert · QC,78196.0,20499.0
+2021 Toyota,Corolla,Saint-Constant · QC,91857.0,21999.0
+2022 Hyundai,Tucson,Mascouche · QC,66171.0,26995.0
+2018 Acura,TLX,Brossard · QC,62711.0,27985.0
+2022 Chevrolet,Silverado 1500,Mascouche · QC,13493.0,56995.0
+2022 Mazda,Mazda3,Mascouche · QC,10501.0,32495.0
+2023 Hyundai,Santa Fe,Mascouche · QC,18536.0,42995.0
+2019 Audi,A5,Saint-Constant · QC,64331.0,30999.0
+2017 Cadillac,XT5,Laval · QC,93893.0,27449.0
+2015 Honda,CR-V,Saint-Hubert · QC,141579.0,19449.0
+2023 Mazda,MX-30,Mascouche · QC,6786.0,30995.0
+2020 Dodge,Grand Caravan,Laval · QC,112026.0,23999.0
+2019 Dodge,Grand Caravan,Saint-Hubert · QC,119218.0,23499.0
+2023 Volkswagen,Tiguan,Mascouche · QC,24775.0,36495.0
+2019 Audi,A3,Saint-Hubert · QC,47523.0,27999.0
+2020 Dodge,Grand Caravan,Saint-Constant · QC,84295.0,26999.0
+2018 Audi,Q3,Laval · QC,48829.0,24499.0
+2020 Hyundai,Elantra,Saint-Hubert · QC,20479.0,21499.0
+2021 Honda,Civic,Laval · QC,40062.0,25999.0
+2021 Chevrolet,Spark,Mascouche · QC,44030.0,17995.0
+2023 Mazda,CX-9,Mascouche · QC,15251.0,47995.0
+2021 Toyota,RAV4,Saint-Constant · QC,97299.0,27999.0
+2020 Subaru,Crosstrek,Saint-Constant · QC,90889.0,25949.0
+2019 Nissan,Leaf,Mascouche · QC,52259.0,23495.0
+2017 Kia,Sportage,Saint-Constant · QC,99657.0,17499.0
+2021 Ford,Mustang,Cowansville · QC,8085.0,43984.0
+2019 Nissan,Qashqai,Saint-Constant · QC,82638.0,20999.0
+2018 Volkswagen,Tiguan,Laval · QC,99104.0,21999.0
+2018 Chevrolet,Equinox,Granby · QC,175385.0,14984.0
+2020 Tesla,Model X,Cowansville · QC,74401.0,84995.0
+2018 Nissan,Leaf,Mascouche · QC,65115.0,18995.0
+2019 Dodge,Grand Caravan,Laval · QC,91164.0,23499.0
+2020 Honda,Civic,Saint-Hubert · QC,9142.0,25499.0
+2021 Nissan,Kicks,Mascouche · QC,13038.0,23995.0
+2019 Ford,Fusion Energi,Saint-Hubert · QC,86137.0,18499.0
+2017 Hyundai,Elantra,Saint-Constant · QC,122457.0,14499.0
+2021 Toyota,Corolla Hatchback,Cowansville · QC,87314.0,26984.0
+2020 Chevrolet,Spark,Laval · QC,86791.0,17299.0
+2017 Ford,F-150,Saint-Hubert · QC,139645.0,47499.0
+2020 Volvo,XC40,Saint-Constant · QC,97958.0,29999.0
+2022 Mitsubishi,RVR,Mascouche · QC,37576.0,24995.0
+2022 Nissan,Kicks,Mascouche · QC,11112.0,21495.0
+2017 Mazda,Mazda3,Pincourt · QC,144177.0,14477.0
+2021 Toyota,RAV4,Saint-Constant · QC,99596.0,27999.0
+2021 Hyundai,Kona,Laval · QC,25601.0,26499.0
+2023 Buick,Encore GX,Saint-Constant · QC,4405.0,29999.0
+2020 Volvo,XC90,Mascouche · QC,46038.0,45995.0
+2023 Ford,Escape,Laval · QC,2346.0,35999.0
+2022 Gmc,Sierra 1500,Mascouche · QC,13853.0,63995.0
+2021 Ford,Mustang Mach-E,Cowansville · QC,28773.0,42984.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,62977.0,23499.0
+2017 Nissan,Sentra,Saint-Constant · QC,98490.0,13949.0
+2020 Subaru,Legacy,Saint-Constant · QC,101368.0,26999.0
+2020 Hyundai,Tucson,Blainville · QC,74431.0,26987.0
+2021 Hyundai,Santa Fe,Mascouche · QC,38123.0,30995.0
+2023 Mazda,MX-5,Mascouche · QC,2627.0,36995.0
+2021 Nissan,Sentra,Mascouche · QC,35474.0,22995.0
+2024 Mazda,CX-5,Laval · QC,3366.0,39499.0
+2022 Nissan,Leaf,Mascouche · QC,44281.0,26995.0
+2007 Mazda,MX-5,Cowansville · QC,145703.0,11984.0
+2017 Hyundai,Tucson,Laval · QC,77766.0,20499.0
+2021 Honda,HR-V,Mascouche · QC,49625.0,24995.0
+2016 Honda,Accord,Saint-Constant · QC,75637.0,19499.0
+2020 Nissan,Kicks,Saint-Constant · QC,51470.0,21499.0
+2023 Volkswagen,ID.4,Saint-Constant · QC,9975.0,40999.0
+2021 Hyundai,Elantra,Laval · QC,75937.0,23499.0
+2023 Volkswagen,Atlas Cross Sport,Saint-Constant · QC,28248.0,34999.0
+2020 Chevrolet,Bolt EV,Laval · QC,62364.0,22499.0
+2021 Volkswagen,Golf,Saint-Constant · QC,98388.0,22999.0
+2022 Nissan,Qashqai,Mascouche · QC,28633.0,24995.0
+2022 Chevrolet,Camaro,Saint-Constant · QC,66509.0,38949.0
+2022 Tesla,Model Y,Laval · QC,57905.0,50999.0
+2020 Hyundai,Kona,Saint-Constant · QC,84029.0,21499.0
+2021 Mazda,CX-3,Mascouche · QC,37580.0,23995.0
+2016 Chevrolet,Spark EV,Saint-Hubert · QC,49363.0,13449.0
+2019 Bmw,X1,Saint-Constant · QC,47902.0,27499.0
+2021 Toyota,RAV4,Saint-Constant · QC,84857.0,28999.0
+2020 Toyota,Corolla,Saint-Eustache · QC,51957.0,22777.0
+2022 Mazda,CX-5,Mascouche · QC,31275.0,31995.0
+2014 Mazda,Mazda3,Saint-Eustache · QC,197069.0,9777.0
+2020 Nissan,Kicks,Mascouche · QC,23762.0,20995.0
+2018 Honda,Civic,Cowansville · QC,46813.0,24484.0
+2019 Ram,ProMaster,Laval · QC,75481.0,26499.0
+2016 Mini,Cooper Convertible,Saint-Constant · QC,98879.0,17999.0
+2018 Jeep,Grand Cherokee,Laval · QC,113494.0,25999.0
+2021 Volkswagen,Jetta,Laval · QC,83169.0,24499.0
+2021 Chevrolet,Silverado 1500,Mascouche · QC,35944.0,42995.0
+2020 Hyundai,Accent,Laval · QC,73712.0,20449.0
+2022 Volkswagen,Taos,Laval · QC,80565.0,24999.0
+2019 Nissan,Qashqai,Laval · QC,72827.0,19999.0
+2023 Kia,K5,Mascouche · QC,37562.0,30995.0
+2020 Honda,Civic,Mascouche · QC,43542.0,24995.0
+2021 Audi,Q3,Cowansville · QC,61334.0,36395.0
+2023 Hyundai,Kona EV,Mascouche · QC,36578.0,32995.0
+2016 Mini,Cooper,Laval · QC,84482.0,13499.0
+2022 Kia,Niro,Mascouche · QC,34799.0,32995.0
+2023 Toyota,Corolla,Cowansville · QC,9500.0,38984.0
+2019 Ram,2500,Saint-Hubert · QC,76993.0,56999.0
+2021 Volkswagen,Passat,Laval · QC,73351.0,24999.0
+2021 Nissan,Rogue,Saint-Hubert · QC,69541.0,27999.0
+2020 Volvo,S60,Saint-Constant · QC,42759.0,30999.0
+2020 Ford,EDGE,Cowansville · QC,54602.0,29984.0
+2016 Bmw,6 Series,Laval · QC,92037.0,35949.0
+2021 Mazda,Mazda3,Mascouche · QC,40322.0,27995.0
+2021 Kia,Soul EV,Mascouche · QC,42160.0,27995.0
+2021 Nissan,Kicks,Saint-Constant · QC,79772.0,21299.0
+2016 Hyundai,Accent,Saint-Constant · QC,102792.0,13499.0
+2021 Honda,Civic Sedan,Saint-Hubert · QC,75297.0,23999.0
+2019 Hyundai,Santa Fe,Saint-Constant · QC,95949.0,22999.0
+2022 Nissan,Rogue,Mascouche · QC,33148.0,29995.0
+2022 Hyundai,Kona,Mascouche · QC,36384.0,25995.0
+2020 Chevrolet,Spark,Mascouche · QC,66973.0,16995.0
+2022 Hyundai,Tucson,Blainville · QC,32500.0,28950.0
+2015 Honda,Pilot,Saint-Hubert · QC,125171.0,19499.0
+2021 Volkswagen,Tiguan,Saint-Hubert · QC,81524.0,25999.0
+2020 Volkswagen,Tiguan,Mascouche · QC,38043.0,34495.0
+2019 Volkswagen,Golf,Saint-Hubert · QC,28600.0,22999.0
+2023 Ford,Mustang,Saint-Constant · QC,31704.0,38999.0
+2018 Subaru,Outback,Cowansville · QC,102157.0,24999.0
+2022 Mazda,MX-30,Mascouche · QC,42311.0,25995.0
+2019 Chevrolet,Bolt EV,Saint-Constant · QC,136475.0,17999.0
+2022 Audi,S5,Mascouche · QC,44042.0,64995.0
+2017 Nissan,Micra,Cowansville · QC,42000.0,13984.0
+2022 Gmc,Terrain,Saint-Hubert · QC,94027.0,27999.0
+2022 Chevrolet,Silverado 1500 LTD,Saint-Hubert · QC,36221.0,42999.0
+2022 Hyundai,Kona,Mascouche · QC,39010.0,25995.0
+2022 Nissan,Kicks,Mascouche · QC,12099.0,23995.0
+2021 Nissan,Kicks,Saint-Constant · QC,73038.0,22999.0
+2022 Volkswagen,Tiguan,Laval · QC,80502.0,31999.0
+2023 Mazda,CX-9,Cowansville · QC,10680.0,49984.0
+2021 Mazda,Mazda3,Mascouche · QC,56599.0,29995.0
+2021 Mazda,CX-5,Mascouche · QC,35754.0,29995.0
+2020 Hyundai,Elantra,Laval · QC,92175.0,19999.0
+2021 Mazda,CX-5,Mascouche · QC,50814.0,27995.0
+2020 Land Rover,Discovery Sport,Saint-Hubert · QC,79288.0,32999.0
+2022 Kia,Forte,Mascouche · QC,14066.0,24995.0
+2020 Ford,EcoSport,Laval · QC,75407.0,19999.0
+2022 Volkswagen,Golf Gti,Saint-Constant · QC,12758.0,34999.0
+2016 Honda,HR-V,Saint-Constant · QC,108605.0,16999.0
+2021 Nissan,Sentra,Mascouche · QC,47455.0,24995.0
+2021 Ram,1500 Classic,Mascouche · QC,41770.0,35995.0
+2022 Ford,Bronco,Mascouche · QC,35494.0,48995.0
+2023 Hyundai,Kona,Mascouche · QC,10377.0,37995.0
+2018 Lincoln,MKZ,Saint-Constant · QC,79815.0,21999.0
+2019 Nissan,Qashqai,Saint-Hubert · QC,49210.0,20499.0
+2021 Mazda,CX-3,Mascouche · QC,39402.0,22995.0
+2021 Kia,Forte,Saint-Constant · QC,80670.0,21499.0
+2023 Hyundai,Sonata,Mascouche · QC,9942.0,36995.0
+2024 Chevrolet,Malibu,Saint-Constant · QC,46.0,27999.0
+2019 Audi,A5 Coupe,Saint-Constant · QC,81371.0,27999.0
+2024 Nissan,Sentra,Mascouche · QC,8583.0,25995.0
+2021 Volkswagen,Golf,Saint-Constant · QC,87211.0,23999.0
+2020 Hyundai,Kona,Laval · QC,96232.0,22979.0
+2020 Volvo,S60,Mascouche · QC,49734.0,34995.0
+2023 Mazda,Mazda3 Sport,Mascouche · QC,25141.0,28995.0
+2022 Mitsubishi,Outlander,Mascouche · QC,31133.0,32995.0
+2022 Mazda,CX-5,Mascouche · QC,30226.0,31995.0
+2021 Toyota,Corolla,Saint-Hubert · QC,92814.0,21999.0
+2017 Mazda,Mazda3,Saint-Hubert · QC,134127.0,15999.0
+2020 Chrysler,Pacifica,Saint-Constant · QC,69899.0,30999.0
+2021 Subaru,Crosstrek,Mascouche · QC,35089.0,30995.0
+2019 Volkswagen,Jetta,Laval · QC,87638.0,19999.0
+2017 Ford,Escape,Saint-Constant · QC,126850.0,15999.0
+2018 Mazda,Mazda3,Laval · QC,79281.0,16999.0
+2021 Kia,Forte,Laval · QC,90186.0,22999.0
+2022 Mazda,MX-30,Mascouche · QC,9765.0,24995.0
+2023 Hyundai,Santa Cruz,Mascouche · QC,15714.0,48495.0
+2021 Nissan,Kicks,Mascouche · QC,17338.0,21495.0
+2019 Gmc,Sierra 1500,Granby · QC,95689.0,42988.0
+2023 Mitsubishi,Eclipse Cross,Saint-Hubert · QC,17253.0,33499.0
+2022 Kia,Niro,Mascouche · QC,36369.0,35995.0
+2015 Mazda,Mazda3,Cowansville · QC,67594.0,16984.0
+2023 Honda,Civic Hatchback,Saint-Constant · QC,37701.0,31999.0
+2017 Kia,Forte,Saint-Hubert · QC,101599.0,17449.0
+2021 Toyota,C-HR,Saint-Constant · QC,82713.0,24999.0
+2016 Mercedes-Benz,S-Class,Cowansville · QC,116156.0,45984.0
+2017 Nissan,Micra,Saint-Hubert · QC,48418.0,14999.0
+2020 Chevrolet,Trax,Granby · QC,79465.0,19988.0
+2021 Hyundai,Kona EV,Mascouche · QC,55279.0,27995.0
+2017 Chevrolet,Cruze,Laval · QC,61271.0,15499.0
+2023 Nissan,Leaf,Mascouche · QC,11031.0,31995.0
+2019 Audi,Q5,Cowansville · QC,84799.0,35984.0
+2021 Honda,HR-V,Saint-Hubert · QC,45968.0,24999.0
+2019 Toyota,4Runner,Montreal · QC,120224.0,38900.0
+2019 Dodge,Grand Caravan,Saint-Constant · QC,70758.0,24999.0
+2023 Toyota,Venza,Saint-Hubert · QC,12335.0,46499.0
+2022 Hyundai,Tucson,Mascouche · QC,26217.0,27995.0
+2016 Kia,Rio,Cowansville · QC,99496.0,13984.0
+2020 Infiniti,Q50,Laval · QC,88659.0,28949.0
+2021 Kia,Soul,Saint-Constant · QC,88042.0,19999.0
+2023 Nissan,Rogue,Mascouche · QC,2454.0,29995.0
+2020 Nissan,Rogue,Mascouche · QC,59878.0,21995.0
+2018 Kia,Rio5,Pincourt · QC,175000.0,10937.0
+2021 Nissan,Rogue,Mascouche · QC,61642.0,27995.0
+2022 Nissan,Leaf,Mascouche · QC,10024.0,26995.0
+2020 Tesla,Model 3,Cowansville · QC,67414.0,49994.0
+2023 Hyundai,Santa Cruz,Mascouche · QC,8399.0,49995.0
+2019 Nissan,Leaf,Mascouche · QC,62668.0,22995.0
+2022 Kia,Seltos,Mascouche · QC,34890.0,25995.0
+2019 Volkswagen,Jetta,Saint-Constant · QC,40545.0,19999.0
+2021 Mercedes-Benz,GLC,Cowansville · QC,27870.0,69999.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,91399.0,31499.0
+2019 Chevrolet,Cruze,Saint-Constant · QC,89028.0,18499.0
+2022 Audi,Q5,Cowansville · QC,54887.0,49984.0
+2019 Audi,A3,Saint-Hubert · QC,70040.0,26499.0
+2018 Ford,E-Series Cutaway,Granby · QC,122999.0,44988.0
+2022 Mazda,MX-30,Mascouche · QC,60.0,34995.0
+2022 Mazda,CX-30,Mascouche · QC,36171.0,25995.0
+2017 Audi,Q7,Laval · QC,100678.0,28999.0
+2020 Nissan,Rogue,Saint-Constant · QC,25591.0,24449.0
+2018 Audi,A5 Sportback,Laval · QC,75321.0,28499.0
+2019 Kia,Niro,Laval · QC,104039.0,21999.0
+2021 Chevrolet,Equinox,Saint-Hubert · QC,93128.0,22999.0
+2017 Ford,Escape,Pincourt · QC,37525.0,16043.0
+2022 Buick,Encore,Mascouche · QC,34066.0,28995.0
+2018 Dodge,Grand Caravan,Saint-Hubert · QC,68126.0,23499.0
+2019 Cadillac,XT5,Saint-Hubert · QC,73069.0,29499.0
+2023 Kia,Forte,Laval · QC,14562.0,24499.0
+2021 Mazda,Mazda3,Saint-Constant · QC,86352.0,23999.0
+2018 Nissan,Rogue,Mascouche · QC,65950.0,21995.0
+2020 Buick,Encore,Mascouche · QC,35838.0,23995.0
+2021 Hyundai,Santa Fe,Laval · QC,86685.0,27949.0
+2019 Hyundai,Tucson,Saint-Constant · QC,43052.0,26999.0
+2024 Mazda,Mazda3,Mascouche · QC,9245.0,35995.0
+2020 Toyota,Corolla,Laval · QC,61167.0,24299.0
+2019 Mazda,Mazda3,Mascouche · QC,53463.0,24995.0
+2020 Dodge,Grand Caravan,Saint-Constant · QC,125413.0,26999.0
+2022 Honda,CR-V,Cowansville · QC,24000.0,36995.0
+2021 Hyundai,Elantra,Laval · QC,73303.0,22999.0
+2019 Mazda,MAZDA6,Laval · QC,92076.0,22449.0
+2019 Hyundai,Elantra,Saint-Eustache · QC,56537.0,17997.0
+2020 Dodge,Grand Caravan,Saint-Constant · QC,117305.0,26999.0
+2022 Kia,Niro,Mascouche · QC,58272.0,32995.0
+2019 Nissan,Leaf,Mascouche · QC,19772.0,23995.0
+2022 Nissan,Qashqai,Mascouche · QC,35660.0,25995.0
+2022 Hyundai,Kona,Saint-Constant · QC,83599.0,23499.0
+2019 Nissan,Rogue,Mascouche · QC,39553.0,22995.0
+2020 Buick,Encore,Mascouche · QC,54983.0,26995.0
+2020 Bmw,i3,Saint-Constant · QC,50914.0,30499.0
+2019 Nissan,Leaf,Mascouche · QC,60417.0,21995.0
+2021 Bmw,X,Cowansville · QC,76612.0,43984.0
+2019 Volvo,XC40,Saint-Hubert · QC,78125.0,27499.0
+2020 Hyundai,Elantra,Saint-Hubert · QC,45657.0,23499.0
+2019 Nissan,Leaf,Mascouche · QC,61222.0,20995.0
+2016 Toyota,Yaris Hatchback,Cowansville · QC,66917.0,16984.0
+2023 Jeep,Wrangler,Mascouche · QC,38004.0,61995.0
+2020 Hyundai,Elantra,Laval · QC,85077.0,20499.0
+2021 Nissan,Sentra,Mascouche · QC,7067.0,24995.0
+2018 Nissan,Sentra,Saint-Constant · QC,56360.0,16499.0
+2021 Mini,Cooper,Saint-Hubert · QC,25994.0,28999.0
+2022 Hyundai,Kona,Mascouche · QC,48594.0,24995.0
+2022 Volkswagen,Taos,Saint-Constant · QC,57743.0,30999.0
+2019 Mazda,CX-3,Saint-Hubert · QC,73658.0,20449.0
+2022 Chevrolet,Silverado 1500,Saint-Hubert · QC,40279.0,52999.0
+2022 Subaru,Forester,Cowansville · QC,18439.0,34999.0
+2022 Volvo,XC60,Mascouche · QC,51491.0,46995.0
+2021 Mazda,CX-3,Mascouche · QC,53913.0,24995.0
+2021 Mazda,Mazda3 Sport,Mascouche · QC,31220.0,24995.0
+2019 Dodge,Grand Caravan,Laval · QC,102461.0,26999.0
+2021 Kia,Forte,Laval · QC,59576.0,20999.0
+2018 Infiniti,QX30,Saint-Hubert · QC,60871.0,21999.0
+2022 Chevrolet,Silverado 1500,Mascouche · QC,12880.0,45995.0
+2018 Kia,Soul,Mascouche · QC,96693.0,16995.0
+2016 Audi,Q3,Saint-Constant · QC,128348.0,16499.0
+2022 Nissan,Qashqai,Saint-Constant · QC,41666.0,25999.0
+2015 Honda,Accord Sedan,Cowansville · QC,108316.0,21484.0
+2021 Kia,Seltos,Mascouche · QC,44676.0,26996.0
+2020 Hyundai,Kona,Saint-Hubert · QC,93312.0,22449.0
+2018 Hyundai,Accent,Cowansville · QC,20928.0,20984.0
+2012 Mazda,Mazda3,Granby · QC,162101.0,6995.0
+2017 Kia,Sportage,Saint-Hubert · QC,85982.0,18999.0
+2018 Chevrolet,Camaro,Saint-Hubert · QC,55446.0,41999.0
+2016 Nissan,Rogue,Saint-Constant · QC,111946.0,15999.0
+2021 Mazda,Mazda3,Mascouche · QC,20479.0,27995.0
+2018 Bmw,X1,Laval · QC,73876.0,22999.0
+2019 Toyota,C-HR,Laval · QC,53370.0,23499.0
+2020 Honda,Civic,Laval · QC,61814.0,22999.0
+2021 Toyota,Corolla,Laval · QC,57780.0,22999.0
+2017 Kia,Sorento,Saint-Hubert · QC,109007.0,19949.0
+2022 Toyota,Corolla,Saint-Constant · QC,58561.0,24499.0
+2019 Nissan,Kicks,Saint-Constant · QC,81407.0,19499.0
+2019 Dodge,Grand Caravan,Saint-Hubert · QC,74853.0,24499.0
+2020 Ford,Explorer,Cowansville · QC,92224.0,44984.0
+2023 Kia,Forte,Saint-Constant · QC,9239.0,25949.0
+2020 Nissan,Kicks,Saint-Hubert · QC,87127.0,21449.0
+2023 Nissan,Rogue,Mascouche · QC,4659.0,39995.0
+2019 Mitsubishi,Eclipse Cross,Saint-Hubert · QC,111839.0,20499.0
+2022 Tesla,Model Y,Saint-Constant · QC,82484.0,49999.0
+2019 Honda,CR-V,Cowansville · QC,156690.0,22984.0
+2022 Chevrolet,Trailblazer,Mascouche · QC,53401.0,28995.0
+2020 Toyota,RAV4,Laval · QC,118039.0,25499.0
+2020 Land Rover,Range Rover Sport,Saint-Hubert · QC,88339.0,57999.0
+2021 Chevrolet,Malibu,Laval · QC,82174.0,21499.0
+2021 Infiniti,Qx50,Cowansville · QC,79532.0,33984.0
+2020 Kia,Forte,Saint-Jerome · QC,61160.0,18985.0
+2018 Volvo,XC90,Laval · QC,109809.0,31999.0
+2018 Nissan,Versa Note,Saint-Hubert · QC,113169.0,14999.0
+2018 Hyundai,Tucson,Laval · QC,106659.0,22449.0
+2021 Hyundai,Venue,Laval · QC,77717.0,20999.0
+2016 Nissan,Rogue,Laval · QC,145361.0,14499.0
+2021 Hyundai,Elantra,Saint-Constant · QC,82123.0,22999.0
+2024 Mazda,CX-5,Laval · QC,5565.0,37999.0
+2015 Ram,1500,Saint-Constant · QC,133733.0,24999.0
+2022 Mazda,MX-30,Mascouche · QC,15769.0,24995.0
+2021 Toyota,Camry,Saint-Constant · QC,91664.0,23999.0
+2023 Nissan,Sentra,Mascouche · QC,8462.0,27995.0
+2016 Mitsubishi,Outlander,Laval · QC,108162.0,20949.0
+2018 Subaru,Wrx,Cowansville · QC,97433.0,32995.0
+2022 Hyundai,IONIQ 5,Mascouche · QC,62373.0,38995.0
+2021 Volkswagen,Golf,Saint-Hubert · QC,80666.0,23299.0
+2020 Volvo,XC90,Saint-Hubert · QC,73347.0,34999.0
+2020 Nissan,Qashqai,Mascouche · QC,30267.0,25995.0
+2021 Chevrolet,Trailblazer,Mascouche · QC,66996.0,24995.0
+2020 Chevrolet,Spark,Mascouche · QC,58505.0,16995.0
+2019 Honda,CR-V,Saint-Hubert · QC,81953.0,27949.0
+2023 Ford,F-150,Cowansville · QC,134.0,71995.0
+2021 Mitsubishi,RVR,Mascouche · QC,33955.0,21995.0
+2022 Mazda,MX-30,Mascouche · QC,10166.0,24995.0
+2021 Chrysler,Pacifica,Saint-Constant · QC,86852.0,31499.0
+2020 Ford,EDGE,Laval · QC,116128.0,23449.0
+2022 Mazda,MX-30,Mascouche · QC,29884.0,24995.0
+2022 Mitsubishi,RVR,Mascouche · QC,11304.0,27995.0
+2021 Hyundai,Elantra,Saint-Hubert · QC,80607.0,22999.0
+2017 Mercedes-Benz,CLA,Saint-Constant · QC,46826.0,24499.0
+2016 Bmw,X1,Saint-Hubert · QC,101764.0,18999.0
+2021 Hyundai,Elantra,Saint-Constant · QC,81042.0,22999.0
+2021 Nissan,Sentra,Mascouche · QC,21507.0,21995.0
+2023 Nissan,Kicks,Saint-Hubert · QC,25074.0,23949.0
+2021 Nissan,Sentra,Saint-Hubert · QC,62638.0,22499.0
+2019 Audi,A3,Saint-Hubert · QC,46932.0,25949.0
+2016 Dodge,Grand Caravan,Saint-Hubert · QC,99116.0,19949.0
+2016 Audi,A4,Cowansville · QC,87289.0,22984.0
+2020 Buick,Encore,Mascouche · QC,46891.0,23995.0
+2022 Hyundai,Tucson,Mascouche · QC,34294.0,27995.0
+2020 Hyundai,Kona,Saint-Constant · QC,90150.0,22499.0
+2020 Mitsubishi,Eclipse Cross,Laval · QC,72368.0,20999.0
+2021 Nissan,Rogue,Mascouche · QC,31019.0,27995.0
+2017 Audi,Q5,Laval · QC,121661.0,20999.0
+2021 Hyundai,Tucson,Mascouche · QC,43015.0,25995.0
+2022 Gmc,Sierra 1500,Mascouche · QC,14473.0,68995.0
+2020 Nissan,Sentra,Laval · QC,32214.0,20499.0
+2020 Ford,F-150,Mascouche · QC,48944.0,44995.0
+2021 Dodge,Charger,Laval · QC,75170.0,31999.0
+2021 Mazda,CX-5,Mascouche · QC,47289.0,26995.0
+2023 Hyundai,Sonata,Mascouche · QC,14372.0,41995.0
+2021 Volkswagen,Jetta,Laval · QC,44571.0,24999.0
+2021 Nissan,Rogue,Mascouche · QC,46556.0,25995.0
+2017 Kia,Soul,Laval · QC,102945.0,16449.0
+2022 Gmc,Sierra 1500 LTD,Mascouche · QC,62376.0,39995.0
+2021 Toyota,Corolla,Laval · QC,96733.0,21999.0
+2022 Kia,Sportage,Mascouche · QC,30870.0,29995.0
+2021 Mazda,Mazda3 Sport,Saint-Hubert · QC,65104.0,26449.0
+2021 Chevrolet,Trailblazer,Mascouche · QC,56056.0,28995.0
+2015 Nissan,Versa Note,Cowansville · QC,123354.0,11995.0
+2018 Infiniti,Qx60,Laval · QC,84232.0,24999.0
+2016 Kia,Sportage,Laval · QC,89159.0,17999.0
+2017 Subaru,Forester,Saint-Hubert · QC,108375.0,18999.0
+2022 Nissan,Kicks,Mascouche · QC,32.0,27500.0
+2022 Mazda,MX-30,Mascouche · QC,11709.0,26995.0
+2018 Bmw,X2,Saint-Constant · QC,110798.0,24499.0
+2019 Ram,2500 BIG HORN,Pincourt · QC,140000.0,50537.0
+2018 Subaru,Wrx,Laval · QC,97688.0,23999.0
+2021 Hyundai,Santa Fe,Mascouche · QC,49122.0,35995.0
+2023 Ford,Mustang Mach-E,Cowansville · QC,14.0,72995.0
+2019 Kia,Rio,Laval · QC,56762.0,18999.0
+2022 Kia,Niro,Mascouche · QC,32405.0,35995.0
+2021 Volvo,XC60,Mascouche · QC,53223.0,46995.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,98751.0,30999.0
+2020 Mazda,CX-3,Saint-Constant · QC,97363.0,22499.0
+2017 Nissan,Versa Note,Saint-Constant · QC,88766.0,14499.0
+2021 Nissan,Versa,Saint-Constant · QC,80041.0,18999.0
+2020 Toyota,Corolla,Laval · QC,12903.0,23999.0
+2021 Chrysler,Pacifica,Laval · QC,89492.0,31499.0
+2019 Audi,A4,Saint-Constant · QC,98606.0,26999.0
+2019 Ford,EDGE,Saint-Constant · QC,118419.0,20999.0
+2024 Mazda,CX-50,Mascouche · QC,11799.0,44995.0
+2021 Chevrolet,Trailblazer,Mascouche · QC,42026.0,29495.0
+2018 Kia,Forte,Laval · QC,80657.0,16499.0
+2022 Kia,Forte,Mascouche · QC,50261.0,23995.0
+2021 Hyundai,Elantra,Saint-Constant · QC,24246.0,21999.0
+2022 Mazda,CX-5,Mascouche · QC,36130.0,31995.0
+2021 Nissan,Versa,Mascouche · QC,61293.0,20995.0
+2024 Mitsubishi,Outlander,Laval · QC,5200.0,36999.0
+2020 Audi,A4,Blainville · QC,64000.0,27950.0
+2022 Buick,Encore,Mascouche · QC,21924.0,26995.0
+2024 Bmw,iX,Blainville · QC,3150.0,89673.0
+2016 Volkswagen,Jetta,Laval · QC,99181.0,14499.0
+2018 Chrysler,Pacifica Hybrid,Laval · QC,88714.0,29999.0
+2017 Hyundai,Elantra,Saint-Hubert · QC,101699.0,14999.0
+2023 Mazda,CX-50,Mascouche · QC,6554.0,43995.0
+2016 Ford,Explorer,Saint-Constant · QC,73018.0,23499.0
+2022 Hyundai,IONIQ 5,Mascouche · QC,55888.0,38995.0
+2021 Hyundai,Kona EV,Mascouche · QC,55873.0,29995.0
+2021 Chrysler,Grand Caravan,Saint-Hubert · QC,94476.0,28999.0
+2021 Toyota,Camry,Saint-Hubert · QC,98047.0,22999.0
+2022 Volvo,XC40 Recharge,Laval · QC,66932.0,42999.0
+2021 Nissan,Qashqai,Mascouche · QC,30882.0,25995.0
+2021 Jeep,Compass,Laval · QC,82849.0,26999.0
+2016 Bmw,X1,Saint-Hubert · QC,79341.0,19999.0
+2021 Mazda,CX-30,Mascouche · QC,29705.0,29995.0
+2020 Ford,F-250,Laval · QC,91124.0,53999.0
+2020 Audi,A3,Cowansville · QC,69506.0,29984.0
+2021 Hyundai,Palisade,Mascouche · QC,33051.0,44995.0
+2023 Nissan,Rogue,Mascouche · QC,4078.0,31995.0
+2022 Chevrolet,Bolt EUV,Blainville · QC,24190.0,33950.0
+2023 Kia,Sportage,Mascouche · QC,41808.0,34995.0
+2022 Hyundai,Kona,Laval · QC,81324.0,23499.0
+2021 Toyota,Corolla,Laval · QC,55907.0,23999.0
+2018 Chevrolet,Trax,Laval · QC,120175.0,15999.0
+2019 Lexus,NX,Saint-Hubert · QC,84267.0,30999.0
+2021 Chrysler,Grand Caravan,Laval · QC,92036.0,27999.0
+2020 Volvo,XC40,Mascouche · QC,70195.0,32995.0
+2021 Volkswagen,Jetta,Laval · QC,98160.0,23499.0
+2022 Gmc,Sierra 1500 LTD,Mascouche · QC,48219.0,48995.0
+2021 Hyundai,Venue,Saint-Constant · QC,70071.0,20999.0
+2008 Mercedes-Benz,SLK280,Cowansville · QC,100825.0,18984.0
+2022 Hyundai,Venue,Mascouche · QC,29862.0,22995.0
+2020 Hyundai,Elantra,Laval · QC,81442.0,20999.0
+2020 Toyota,Prius Prime,Laval · QC,81215.0,24499.0
+2022 Kia,Seltos,Mascouche · QC,41147.0,28995.0
+2019 Kia,Forte,Saint-Constant · QC,34164.0,19999.0
+2017 Cadillac,ATS,Laval · QC,82007.0,21499.0
+2022 Mazda,MX-30,Mascouche · QC,19286.0,26995.0
+2021 Ford,F-150,Cowansville · QC,88502.0,66984.0
+2021 Ford,Escape,Saint-Hubert · QC,88362.0,22499.0
+2020 Hyundai,Elantra,Laval · QC,84183.0,20699.0
+2020 Mazda,Mazda3 Sport,Laval · QC,91597.0,22449.0
+2023 Mazda,CX-9,Saint-Constant · QC,25900.0,38999.0
+2021 Dodge,Charger,Saint-Hubert · QC,83419.0,31999.0
+2023 Nissan,Qashqai,Laval · QC,7399.0,27999.0
+2022 Honda,CR-V,Cowansville · QC,41832.0,35995.0
+2021 Kia,Forte,Saint-Constant · QC,75959.0,21499.0
+2020 Mitsubishi,Outlander,Laval · QC,83161.0,27949.0
+2017 Toyota,Corolla,Saint-Constant · QC,78018.0,17999.0
+2021 Kia,Sportage,Pincourt · QC,58863.0,20977.0
+2022 Nissan,Kicks,Mascouche · QC,17031.0,23995.0
+2020 Nissan,Rogue,Mascouche · QC,53464.0,21995.0
+2021 Toyota,Camry,Laval · QC,83755.0,23999.0
+2021 Nissan,Qashqai,Mascouche · QC,43384.0,23995.0
+2021 Honda,CR-V,Saint-Constant · QC,67267.0,28999.0
+2021 Kia,Forte,Saint-Constant · QC,91276.0,20999.0
+2021 Nissan,Qashqai,Mascouche · QC,31887.0,27995.0
+2020 Volvo,XC40,Saint-Constant · QC,66225.0,30499.0
+2019 Toyota,Corolla,Laval · QC,66482.0,22949.0
+2019 Hyundai,Ioniq Electric,Laval · QC,105282.0,20499.0
+2022 Chevrolet,Silverado 1500 LTD,Laval · QC,53132.0,43999.0
+2018 Kia,Forte,Saint-Constant · QC,45929.0,16499.0
+2022 Toyota,Corolla,Saint-Constant · QC,20067.0,25999.0
+2022 Kia,Sportage,Mascouche · QC,39185.0,29995.0
+2022 Hyundai,Kona,Mascouche · QC,33879.0,25995.0
+2017 Mini,Cooper Clubman,Saint-Hubert · QC,71992.0,20999.0
+2023 Ford,Mustang,Laval · QC,34623.0,39499.0
+2021 Volkswagen,Jetta,Saint-Constant · QC,83968.0,23999.0
+2021 Volvo,XC40,Mascouche · QC,31936.0,42995.0
+2024 Volkswagen,Golf Gti,Saint-Constant · QC,255.0,38499.0
+2021 Hyundai,Kona Electric,Saint-Constant · QC,79249.0,26499.0
+2021 Honda,Civic,Laval · QC,38515.0,24999.0
+2021 Mazda,CX-30,Mascouche · QC,29710.0,26495.0
+2018 Buick,Encore,Laval · QC,51011.0,19949.0
+2021 Volkswagen,Jetta,Saint-Hubert · QC,76760.0,23999.0
+2019 Kia,Sportage,Laval · QC,78227.0,21999.0
+2023 Nissan,Rogue,Mascouche · QC,25442.0,31995.0
+2020 Nissan,Qashqai,Mascouche · QC,50324.0,22995.0
+2021 Mazda,CX-5,Mascouche · QC,29781.0,26995.0
+2022 Hyundai,Kona,Laval · QC,78865.0,24499.0
+2020 Nissan,Rogue,Saint-Hubert · QC,19876.0,25499.0
+2021 Nissan,Rogue,Laval · QC,60969.0,27499.0
+2017 Mercedes-Benz,GLC,Laval · QC,85285.0,27949.0
+2021 Mazda,CX-3,Laval · QC,97247.0,24949.0
+2020 Nissan,Kicks,Mascouche · QC,50443.0,20995.0
+2022 Mitsubishi,RVR,Laval · QC,21134.0,23999.0
+2017 Bmw,X5,Saint-Hubert · QC,121583.0,28999.0
+2022 Genesis,GV80,Brossard · QC,17215.0,73485.0
+2021 Nissan,Qashqai,Mascouche · QC,43868.0,23495.0
+2020 Hyundai,Elantra,Saint-Constant · QC,71394.0,20499.0
+2016 Nissan,Micra,Saint-Constant · QC,35482.0,13499.0
+2022 Kia,Seltos,Saint-Eustache · QC,31141.0,23994.0
+2021 Toyota,Corolla,Laval · QC,54022.0,23499.0
+2021 Volvo,V60,Mascouche · QC,70338.0,40995.0
+2020 Chevrolet,Equinox,Mascouche · QC,30669.0,27995.0
+2021 Kia,Rio,Saint-Hubert · QC,82092.0,18999.0
+2021 Hyundai,Elantra,Saint-Constant · QC,91821.0,21499.0
+2016 Jeep,Cherokee,Saint-Constant · QC,110568.0,15999.0
+2019 Volkswagen,Tiguan,Laval · QC,79410.0,26999.0
+2023 Nissan,Sentra,Mascouche · QC,5736.0,28995.0
+2022 Toyota,Corolla,Saint-Hubert · QC,58949.0,24999.0
+2021 Nissan,Versa,Mascouche · QC,5706.0,21495.0
+2022 Mazda,CX-3,Mascouche · QC,9527.0,25995.0
+2021 Jeep,Compass,Laval · QC,29944.0,27499.0
+2020 Nissan,Kicks,Mascouche · QC,62744.0,18995.0
+2022 Mazda,MX-30,Mascouche · QC,8215.0,26995.0
+2021 Mazda,CX-5,Mascouche · QC,57178.0,32995.0
+2022 Subaru,Wrx,Laval · QC,23418.0,32999.0
+2022 Kia,Sportage,Mascouche · QC,23504.0,29995.0
+2020 Chevrolet,Equinox,Saint-Hubert · QC,109879.0,20499.0
+2023 Nissan,Rogue,Mascouche · QC,19421.0,35995.0
+2021 Kia,Sportage,Mascouche · QC,52339.0,23995.0
+2019 Hyundai,Tucson,Saint-Hubert · QC,46242.0,23999.0
+2020 Toyota,Prius Prime,Pincourt · QC,116859.0,20338.0
+2017 Bmw,X1,Laval · QC,123427.0,18999.0
+2021 Hyundai,Santa Fe,Pincourt · QC,73754.0,26990.0
+2017 Audi,Q3,Cowansville · QC,62454.0,26495.0
+2023 Nissan,Leaf,Mascouche · QC,4946.0,34995.0
+2017 Hyundai,Accent,Laval · QC,65374.0,15499.0
+2022 Mazda,MX-30,Mascouche · QC,30247.0,24995.0
+2021 Mazda,Mazda3,Saint-Hubert · QC,84387.0,21999.0
+2023 Hyundai,Santa Fe,Mascouche · QC,5951.0,35995.0
+2020 Hyundai,Kona,Mascouche · QC,18984.0,23995.0
+2022 Mini,Cooper,Saint-Hubert · QC,39669.0,25499.0
+2022 Nissan,Rogue,Mascouche · QC,33318.0,27995.0
+2021 Ram,1500 Classic,Mascouche · QC,38732.0,42995.0
+2021 Toyota,Corolla,Laval · QC,62394.0,22999.0
+2022 Nissan,Kicks,Mascouche · QC,20910.0,21495.0
+2014 Kia,Rondo,Montreal · QC,97124.0,12900.0
+2020 Buick,Encore,Saint-Hubert · QC,29882.0,22499.0
+2021 Toyota,RAV4,Saint-Constant · QC,91923.0,28499.0
+2022 Tesla,Model Y,Laval · QC,61101.0,50499.0
+2019 Ford,Explorer,Saint-Hubert · QC,116612.0,26999.0
+2020 Nissan,Qashqai,Mascouche · QC,54075.0,22995.0
+2020 Nissan,Kicks,Mascouche · QC,43213.0,20995.0
+2021 Kia,Forte,Saint-Constant · QC,82143.0,22949.0
+2020 Volvo,XC60,Laval · QC,91747.0,31999.0
+2022 Nissan,Leaf,Mascouche · QC,20986.0,26995.0
+2021 Ram,1500 Classic,Mascouche · QC,35918.0,41995.0
+2019 Hyundai,Kona,Mascouche · QC,22319.0,22995.0
+2022 Tesla,Model S,Saint-Constant · QC,40449.0,99999.0
+2021 Honda,CR-V,Cowansville · QC,39076.0,34295.0
+2018 Mazda,Mazda3,Saint-Constant · QC,67719.0,18999.0
+2021 Nissan,Sentra,Mascouche · QC,56319.0,21995.0
+2018 Nissan,Versa Note,Saint-Hubert · QC,59630.0,16999.0
+2021 Hyundai,Elantra,Saint-Constant · QC,77473.0,23499.0
+2017 Honda,Civic Hatchback,Brossard · QC,110088.0,19955.0
+2020 Chevrolet,Bolt EV,Saint-Hubert · QC,72460.0,21999.0
+2021 Hyundai,Venue,Saint-Hubert · QC,83128.0,19999.0
+2021 Hyundai,Venue,Saint-Hubert · QC,77681.0,20999.0
+2022 Mazda,Mazda3 Sport,Mascouche · QC,34751.0,33995.0
+2020 Mercedes-Benz,CLA250,Laval · QC,50317.0,39995.0
+2021 Hyundai,Kona,Mascouche · QC,48370.0,22995.0
+2019 Honda,CR-V,Pincourt · QC,38888.0,26995.0
+2019 Audi,Q5,Laval · QC,90537.0,25499.0
+2018 Toyota,Sienna,Saint-Constant · QC,117241.0,30949.0
+2022 Mitsubishi,Eclipse Cross,Laval · QC,75211.0,22999.0
+2020 Hyundai,Elantra,Saint-Constant · QC,15281.0,21999.0
+2019 Hyundai,Ioniq,Mascouche · QC,73168.0,19995.0
+2017 Dodge,Journey,Laval · QC,85929.0,18949.0
+2022 Nissan,Rogue,Mascouche · QC,30802.0,31995.0
+2019 Hyundai,Santa Fe,Saint-Hubert · QC,82768.0,24999.0
+2022 Nissan,Leaf,Mascouche · QC,7690.0,27995.0
+2021 Mazda,CX-5,Mascouche · QC,55704.0,32500.0
+2019 Nissan,Micra,Saint-Constant · QC,18535.0,17499.0
+2024 Mazda,Mazda3 Sport,Mascouche · QC,344.0,35495.0
+2018 Volvo,XC60,Laval · QC,106404.0,28999.0
+2023 Chevrolet,Trailblazer,Pincourt · QC,15400.0,26391.0
+2022 Toyota,Corolla,Laval · QC,68878.0,24499.0
+2019 Hyundai,Ioniq Electric,Laval · QC,115771.0,17999.0
+2021 Jeep,Wrangler,Blainville · QC,42000.0,36950.0
+2021 Toyota,Corolla,Saint-Constant · QC,93960.0,21999.0
+2022 Nissan,Rogue,Mascouche · QC,32792.0,31995.0
+2020 Volvo,S60,Mascouche · QC,32884.0,34995.0
+2018 Nissan,Sentra,Laval · QC,74439.0,16999.0
+2020 Mitsubishi,Outlander,Mascouche · QC,32619.0,29995.0
+2018 Tesla,Model S,Cowansville · QC,48092.0,60995.0
+2023 Mazda,MX-30,Mascouche · QC,9707.0,30995.0
+2017 Nissan,Micra,Saint-Hubert · QC,123539.0,11499.0
+2022 Nissan,Leaf,Saint-Constant · QC,55171.0,21499.0
+2019 Dodge,Grand Caravan,Laval · QC,117809.0,24999.0
+2021 Gmc,Sierra 1500,Mascouche · QC,38951.0,39995.0
+2019 Honda,Civic,Pincourt · QC,81247.0,19995.0
+2016 Ford,Mustang,Laval · QC,105680.0,23999.0
+2017 Kia,Niro Hybrid,Saint-Constant · QC,98060.0,19999.0
+2018 Ford,Escape,Saint-Hubert · QC,73151.0,18499.0
+2023 Ford,F-550,Cowansville · QC,15.0,91279.0
+2021 Ford,Mustang Mach-E,Cowansville · QC,68160.0,49984.0
+2019 Volvo,S60,Laval · QC,121344.0,26999.0
+2020 Mazda,Mazda3,Mascouche · QC,49245.0,25995.0
+2021 Volkswagen,Golf Gti,Laval · QC,79173.0,28499.0
+2021 Toyota,RAV4,Saint-Constant · QC,89236.0,28999.0
+2023 Mitsubishi,RVR,Saint-Constant · QC,11158.0,25499.0
+2018 Mitsubishi,Outlander,Saint-Hubert · QC,83608.0,19999.0
+2022 Nissan,Rogue,Mascouche · QC,17348.0,32500.0
+2021 Chrysler,Pacifica Hybrid,Saint-Hubert · QC,62000.0,44999.0
+2021 Toyota,4Runner,Cowansville · QC,70822.0,48495.0
+2022 Buick,Encore,Mascouche · QC,15922.0,29995.0
+2017 Ford,Escape,Pincourt · QC,127406.0,14490.0
+2020 Chevrolet,Bolt EV,Saint-Constant · QC,57910.0,22999.0
+2021 Kia,Forte,Saint-Constant · QC,59298.0,21999.0
+2019 Toyota,RAV4,Brossard · QC,62000.0,37985.0
+2022 Dodge,Durango,Laval · QC,18235.0,50999.0
+2021 Nissan,Versa,Mascouche · QC,29754.0,22500.0
+2016 Gmc,Yukon,Saint-Hyacinthe · QC,173371.0,32894.0
+2022 Volkswagen,Taos,Saint-Constant · QC,75698.0,23499.0
+2020 Kia,Soul,Mascouche · QC,26219.0,21995.0
+2018 Bmw,4 Series,Saint-Constant · QC,94104.0,24999.0
+2018 Volkswagen,Golf Gti,Laval · QC,118985.0,23449.0
+2017 Mazda,CX-5,Laval · QC,133055.0,21449.0
+2017 Volkswagen,Jetta Sedan,Saint-Hubert · QC,72601.0,16449.0
+2022 Chevrolet,Equinox,Laval · QC,53611.0,25499.0
+2020 Nissan,Murano,Mascouche · QC,28761.0,32995.0
+2018 Mitsubishi,Outlander PHEV,Saint-Hubert · QC,109317.0,23449.0
+2016 Chevrolet,Silverado 1500,Saint-Hubert · QC,153435.0,24999.0
+2021 Chevrolet,Bolt EV,Mascouche · QC,30399.0,26995.0
+2016 Nissan,Sentra,Saint-Constant · QC,111018.0,15499.0
+2019 Volvo,XC90,Mascouche · QC,45391.0,43995.0
+2019 Volkswagen,Golf,Saint-Constant · QC,62693.0,20499.0
+2019 Buick,Envision,Saint-Hubert · QC,79627.0,25499.0
+2020 Hyundai,Elantra,Saint-Constant · QC,80870.0,19999.0
+2020 Honda,Insight,Cowansville · QC,63250.0,27999.0
+2019 Infiniti,Qx60,Saint-Hubert · QC,105743.0,27499.0
+2021 Bmw,3 Series,Saint-Hubert · QC,81628.0,31999.0
+2019 Subaru,Wrx,Laval · QC,103921.0,25949.0
+2022 Nissan,Kicks,Mascouche · QC,20726.0,22495.0
+2022 Volvo,XC60,Mascouche · QC,65199.0,44995.0
+2017 Volvo,XC90 Hybrid,Laval · QC,83651.0,34999.0
+2022 Kia,Niro,Mascouche · QC,65758.0,31995.0
+2022 Nissan,Versa,Mascouche · QC,29858.0,23500.0
+2016 Jeep,Cherokee,Laval · QC,104537.0,17499.0
+2021 Volkswagen,ID.4,Saint-Constant · QC,49683.0,36999.0
+2021 Mazda,Mazda3 Sport,Mascouche · QC,56944.0,25495.0
+2022 Hyundai,Kona,Mascouche · QC,31173.0,26995.0
+2010 Hyundai,Accent,Pincourt · QC,191123.0,3699.0
+2021 Kia,Forte,Laval · QC,74982.0,22949.0
+2013 Mazda,CX-5,Pincourt · QC,128949.0,12477.0
+2021 Kia,Sportage,Mascouche · QC,52652.0,23995.0
+2019 Kia,Rio 5,Laval · QC,88198.0,16499.0
+2019 Volkswagen,Jetta,Laval · QC,135722.0,17949.0
+2019 Nissan,Leaf,Mascouche · QC,62048.0,21995.0
+2020 Hyundai,Kona,Mascouche · QC,51037.0,22995.0
+2019 Lexus,NX,Laval · QC,87518.0,30999.0
+2019 Dodge,Grand Caravan,Saint-Constant · QC,136488.0,20499.0
+2022 Mazda,CX-3,Mascouche · QC,34546.0,24995.0
+2021 Volkswagen,Golf,Saint-Constant · QC,82981.0,23999.0
+2020 Hyundai,Kona,Brossard · QC,89204.0,18985.0
+2020 Mitsubishi,RVR,Saint-Constant · QC,80589.0,19499.0
+2018 Mercedes-Benz,GLC,Saint-Constant · QC,122789.0,29949.0
+2018 Honda,CR-V,Saint-Constant · QC,118156.0,24999.0
+2017 Chevrolet,Cruze,Saint-Hubert · QC,69453.0,15999.0
+2021 Mitsubishi,RVR,Saint-Constant · QC,91199.0,19999.0
+2023 Nissan,Rogue,Mascouche · QC,13305.0,38995.0
+2019 Audi,A4,Cowansville · QC,76801.0,31984.0
+2022 Mazda,CX-9,Mascouche · QC,26088.0,36995.0
+2019 Chevrolet,Trax,Saint-Constant · QC,74748.0,19499.0
+2019 Dodge,Grand Caravan,Cowansville · QC,71515.0,27984.0
+2021 Ram,1500 Classic,Mascouche · QC,24471.0,42995.0
+2023 Buick,Encore,Mascouche · QC,19626.0,28995.0
+2017 Kia,Forte,Saint-Hubert · QC,88277.0,14999.0
+2021 Mercedes-Benz,GLB35 AMG,Cowansville · QC,44008.0,52984.0
+2021 Nissan,Sentra,Laval · QC,86535.0,21999.0
+2021 Dodge,Charger,Saint-Constant · QC,85810.0,30499.0
+2016 Kia,Forte,Saint-Hubert · QC,99197.0,15949.0
+2020 Hyundai,Santa Fe,Laval · QC,60918.0,29999.0
+2020 Chevrolet,Spark,Mascouche · QC,42531.0,16995.0
+2016 Kia,Forte Koup,Saint-Constant · QC,88160.0,16449.0
+2019 Hyundai,Tucson,Saint-Eustache · QC,156281.0,17993.0
+2016 Bmw,X3,Saint-Constant · QC,113694.0,18999.0
+2023 Nissan,Leaf,Mascouche · QC,10865.0,31995.0
+2017 Kia,Rio,Laval · QC,53695.0,16499.0
+2021 Chevrolet,Spark,Mascouche · QC,39348.0,17995.0
+2020 Chevrolet,Spark,Saint-Constant · QC,93694.0,16999.0
+2021 Kia,Soul,Laval · QC,79254.0,20499.0
+2021 Kia,Soul,Saint-Constant · QC,54256.0,21499.0
+2020 Nissan,Qashqai,Saint-Constant · QC,56785.0,21499.0
+2023 Chevrolet,Trailblazer,Mascouche · QC,23946.0,29995.0
+2020 Chevrolet,Camaro,Laval · QC,41188.0,32999.0
+2020 Bmw,M4,Cowansville · QC,13908.0,76999.0
+2019 Honda,Civic Hatchback,Saint-Hubert · QC,139140.0,18999.0
+2020 Honda,Civic,Laval · QC,18358.0,24499.0
+2016 Mazda,CX-5,Pincourt · QC,69847.0,17477.0
+2018 Hyundai,Elantra,Saint-Hubert · QC,76493.0,16999.0
+2022 Volkswagen,Taos,Laval · QC,41572.0,28999.0
+2020 Nissan,Kicks,Mascouche · QC,32768.0,20995.0
+2022 Nissan,Kicks,Mascouche · QC,31811.0,23995.0
+2018 Mazda,Mazda3 Sport,Saint-Hubert · QC,54264.0,20999.0
+2023 Dodge,Charger,Pincourt · QC,17538.0,68743.0
+2020 Mazda,Mazda3 Sport,Saint-Hubert · QC,92091.0,22499.0
+2022 Hyundai,Palisade,Mascouche · QC,62308.0,45995.0
+2022 Chevrolet,Silverado 1500 LTD,Mascouche · QC,48064.0,44995.0
+2021 Hyundai,Venue,Saint-Constant · QC,77816.0,20499.0
+2021 Chevrolet,Spark,Laval · QC,49043.0,18999.0
+2017 Mazda,Mazda3,Pincourt · QC,119350.0,13977.0
+2017 Buick,Encore,Laval · QC,124631.0,16999.0
+2021 Chrysler,Pacifica,Saint-Hubert · QC,84900.0,31499.0
+2017 Honda,Civic,Saint-Constant · QC,112571.0,23499.0
+2018 Audi,S5,Cowansville · QC,148938.0,31999.0
+2018 Volkswagen,Golf Gti,Saint-Hubert · QC,99901.0,22999.0
+2022 Mazda,MX-30,Mascouche · QC,22744.0,26995.0
+2018 Subaru,Outback,Pincourt · QC,89062.0,23995.0
+2023 Hyundai,Kona,Mascouche · QC,10452.0,27995.0
+2022 Kia,Niro,Mascouche · QC,35277.0,35995.0
+2019 Bmw,2 Series,Laval · QC,56238.0,42999.0
+2021 Nissan,Kicks,Mascouche · QC,47379.0,20495.0
+2022 Hyundai,IONIQ 5,Mascouche · QC,39757.0,39995.0
+2020 Hyundai,Elantra,Saint-Constant · QC,71007.0,20499.0
+2019 Hyundai,Santa Fe,Blainville · QC,58487.0,24987.0
+2019 Buick,Encore,Saint-Constant · QC,65100.0,22449.0
+2017 Lexus,Rx,Laval · QC,122383.0,29499.0
+2019 Ford,Explorer,Laval · QC,109320.0,28499.0
+2021 Hyundai,Kona,Mascouche · QC,50705.0,23995.0
+2017 Audi,A4,Cowansville · QC,76451.0,28495.0
+2018 Mazda,CX-5,Saint-Hubert · QC,76903.0,24949.0
+2021 Volkswagen,Jetta,Saint-Constant · QC,68912.0,24299.0
+2015 Ford,Flex,Pincourt · QC,157156.0,17977.0
+2018 Gmc,Sierra 1500,Cowansville · QC,107475.0,33984.0
+2021 Kia,Forte,Laval · QC,66151.0,22499.0
+2019 Subaru,Crosstrek,Saint-Eustache · QC,140055.0,21995.0
+2018 Hyundai,Sonata,Saint-Hubert · QC,142619.0,14999.0
+2019 Audi,S3,Laval · QC,50851.0,32999.0
+2021 Audi,Q3,Cowansville · QC,59204.0,39984.0
+2023 Nissan,Rogue,Mascouche · QC,16845.0,34995.0
+2023 Ford,Bronco,Cowansville · QC,15.0,79984.0
+2019 Volvo,S60,Laval · QC,61054.0,26999.0
+2022 Nissan,Rogue,Mascouche · QC,15820.0,29995.0
+2022 Nissan,Qashqai,Mascouche · QC,53662.0,24995.0
+2019 Mazda,CX-3,Mascouche · QC,67140.0,21495.0
+2021 Nissan,Maxima,Saint-Constant · QC,79814.0,26499.0
+2021 Toyota,Corolla,Laval · QC,90763.0,21999.0
+2016 Toyota,Corolla,Saint-Constant · QC,52705.0,17499.0
+2021 Nissan,Versa,Saint-Hubert · QC,39483.0,21449.0
+2020 Ford,Explorer,Cowansville · QC,102421.0,43495.0
+2021 Kia,Forte,Mascouche · QC,46850.0,23995.0
+2021 Honda,Pilot,Cowansville · QC,75677.0,43599.0
+2021 Nissan,Sentra,Saint-Hubert · QC,88612.0,20999.0
+2017 Nissan,Versa Note,Saint-Constant · QC,78294.0,15999.0
+2023 Chevrolet,Silverado 1500,Saint-Constant · QC,12400.0,48949.0
+2021 Toyota,Corolla Hatchback,Cowansville · QC,84284.0,26984.0
+2019 Dodge,Durango,Saint-Constant · QC,86133.0,31999.0
+2020 Mazda,Mazda3,Mascouche · QC,49398.0,24495.0
+2020 Toyota,RAV4,Laval · QC,27519.0,29999.0
+2019 Nissan,Kicks,Laval · QC,45264.0,19999.0
+2021 Nissan,Rogue,Mascouche · QC,32065.0,24995.0
+2022 Toyota,Corolla Hatchback,Saint-Constant · QC,66157.0,26949.0
+2022 Mazda,MX-30,Mascouche · QC,14772.0,24995.0
+2020 Kia,Niro,Mascouche · QC,47359.0,29995.0
+2016 Mazda,CX-3,Saint-Constant · QC,109535.0,17499.0
+2022 Hyundai,IONIQ 5,Mascouche · QC,40301.0,39995.0
+2021 Nissan,Kicks,Laval · QC,35384.0,20999.0
+2020 Ford,Ranger,Cowansville · QC,97965.0,35295.0
+2021 Nissan,Sentra,Laval · QC,79118.0,21499.0
+2021 Ram,1500 Classic,Mascouche · QC,46904.0,41995.0
+2021 Gmc,Sierra 1500,Mascouche · QC,49219.0,40995.0
+2016 Hyundai,Veloster,Saint-Hubert · QC,61159.0,15499.0
+2021 Mazda,CX-30,Mascouche · QC,44183.0,23995.0
+2019 Hyundai,Santa Fe,Saint-Constant · QC,93330.0,26499.0
+2020 Buick,Encore,Saint-Constant · QC,82060.0,21449.0
+2021 Buick,Encore,Mascouche · QC,36977.0,24995.0
+2017 Nissan,Rogue,Saint-Hubert · QC,106112.0,19449.0
+2016 Bmw,X1,Saint-Constant · QC,90951.0,19499.0
+2021 Ford,Escape,Laval · QC,41709.0,24999.0
+2021 Chrysler,Grand Caravan,Saint-Hubert · QC,84377.0,30949.0
+2022 Nissan,Rogue,Mascouche · QC,33793.0,31995.0
+2019 Honda,Civic,Saint-Constant · QC,76601.0,21499.0
+2016 Audi,Rs 7,Granby · QC,80400.0,64988.0
+2022 Nissan,Armada,Mascouche · QC,13205.0,65995.0
+2008 Bmw,3 Series,Cowansville · QC,99240.0,14999.0
+2021 Kia,Forte,Saint-Constant · QC,77762.0,23499.0
+2021 Toyota,Corolla,Saint-Hubert · QC,85765.0,24449.0
+2019 Subaru,Ascent,Saint-Constant · QC,93637.0,26499.0
+2018 Nissan,Rogue,Saint-Hubert · QC,109917.0,17999.0
+2023 Hyundai,Tucson,Mascouche · QC,11968.0,28995.0
+2020 Volvo,S60,Saint-Constant · QC,40106.0,31499.0
+2021 Toyota,RAV4,Saint-Constant · QC,99590.0,29449.0
+2020 Kia,Forte,Laval · QC,88160.0,19499.0
+2021 Kia,Sportage,Mascouche · QC,52334.0,24995.0
+2017 Ford,Fusion,Saint-Hubert · QC,87636.0,18999.0
+2018 Ford,EDGE,Pincourt · QC,154390.0,19110.0
+2023 Ford,Mustang,Laval · QC,33519.0,39499.0
+2021 Nissan,Versa,Mascouche · QC,27860.0,22500.0
+2023 Nissan,Rogue,Saint-Constant · QC,14400.0,34999.0
+2021 Nissan,Versa,Saint-Hubert · QC,76536.0,18999.0
+2021 Genesis,G70,Mascouche · QC,54462.0,34995.0
+2020 Chevrolet,Trax,Mascouche · QC,18465.0,21995.0
+2020 Audi,A3,Saint-Constant · QC,79461.0,28499.0
+2022 Nissan,Sentra,Mascouche · QC,36306.0,25995.0
+2022 Kia,Niro,Mascouche · QC,41185.0,32995.0
+2021 Hyundai,Ioniq Hybrid,Saint-Constant · QC,58467.0,24999.0
+2021 Chrysler,Pacifica,Laval · QC,98072.0,30499.0
+2022 Hyundai,IONIQ 5,Laval · QC,54717.0,40949.0
+2020 Chevrolet,Bolt EV,Laval · QC,37371.0,23949.0
+2021 Buick,Encore GX,Laval · QC,90171.0,21999.0
+2022 Mazda,CX-5,Mascouche · QC,31665.0,33995.0
+2021 Hyundai,Elantra,Saint-Constant · QC,71110.0,23449.0
+2021 Hyundai,Kona Electric,Saint-Constant · QC,97586.0,23999.0
+2019 Dodge,Grand Caravan,Laval · QC,91484.0,26499.0
+2020 Kia,Rio5,Blainville · QC,86748.0,17486.0
+2021 Volvo,XC60,Mascouche · QC,42995.0,42995.0
+2021 Chevrolet,Trailblazer,Mascouche · QC,31487.0,25995.0
+2018 Kia,Optima,Laval · QC,101649.0,19449.0
+2019 Nissan,Kicks,Saint-Hubert · QC,55668.0,19999.0
+2023 Nissan,Sentra,Saint-Constant · QC,4775.0,26499.0
+2022 Chevrolet,Trailblazer,Mascouche · QC,27367.0,28495.0
+2020 Tesla,Model 3,Saint-Hubert · QC,74835.0,28999.0
+2017 Audi,A4,Saint-Hubert · QC,87955.0,23499.0
+2023 Toyota,BZ4X,Pincourt · QC,31471.0,38038.0
+2018 Ford,Escape,Laval · QC,105041.0,17499.0
+2024 Nissan,Versa,Saint-Constant · QC,5488.0,23499.0
+2020 Bmw,X1,Blainville · QC,67000.0,28950.0
+2021 Nissan,Maxima,Laval · QC,72466.0,27499.0
+2018 Honda,Civic Sedan,Saint-Hubert · QC,79342.0,19999.0
+2020 Hyundai,Elantra,Saint-Hubert · QC,68468.0,21949.0
+2019 Mazda,CX-3,Mascouche · QC,45988.0,21995.0
+2020 Nissan,Kicks,Mascouche · QC,40238.0,18995.0
+2020 Volkswagen,Tiguan,Saint-Hubert · QC,61125.0,25999.0
+2020 Ford,EDGE,Saint-Eustache · QC,90000.0,27450.0
+2017 Subaru,Legacy,Cowansville · QC,102376.0,16984.0
+2021 Hyundai,Sonata,Saint-Constant · QC,86270.0,24499.0
+2017 Volkswagen,Golf Alltrack,Cowansville · QC,79439.0,25495.0
+2023 Mazda,CX-9,Mascouche · QC,34462.0,38995.0
+2022 Subaru,Forester,Laval · QC,87664.0,27999.0
+2022 Nissan,Rogue,Mascouche · QC,25394.0,33995.0
+2019 Subaru,Impreza,Laval · QC,82600.0,18999.0
+2021 Nissan,Kicks,Mascouche · QC,28954.0,22495.0
+2021 Toyota,Corolla,Laval · QC,92366.0,21999.0
+2022 Nissan,Sentra,Mascouche · QC,11884.0,22495.0
+2023 Chevrolet,Trailblazer,Mascouche · QC,8351.0,30995.0
+2017 Nissan,Sentra,Laval · QC,60111.0,15999.0
+2016 Chevrolet,Cruze,Saint-Hubert · QC,76482.0,13999.0
+2021 Toyota,RAV4,Laval · QC,90328.0,28499.0
+2020 Nissan,Kicks,Mascouche · QC,35961.0,20995.0
+2021 Chevrolet,Bolt EV,Mascouche · QC,48351.0,26995.0
+2023 Ford,Bronco Sport,Cowansville · QC,28.0,48995.0
+2023 Hyundai,Kona EV,Mascouche · QC,37386.0,32995.0
+2021 Mazda,CX-5,Mascouche · QC,35828.0,27995.0
+2022 Nissan,Kicks,Mascouche · QC,31219.0,23995.0
+2021 Toyota,Corolla,Saint-Hubert · QC,23894.0,25999.0
+2022 Hyundai,IONIQ 5,Mascouche · QC,38387.0,39995.0
+2016 Acura,TLX,Saint-Constant · QC,83797.0,19499.0
+2020 Ford,Escape,Mascouche · QC,61755.0,28995.0
+2021 Chrysler,Pacifica,Saint-Constant · QC,91768.0,31499.0
+2018 Nissan,Kicks,Saint-Constant · QC,87678.0,20449.0
+2020 Toyota,Corolla,Laval · QC,52318.0,21999.0
+2023 Nissan,Leaf,Mascouche · QC,25147.0,30995.0
+2017 Mercedes-Benz,GLC,Laval · QC,120086.0,23499.0
+2018 Nissan,Rogue,Mascouche · QC,69148.0,18995.0
+2021 Bmw,i3,Laval · QC,57629.0,33949.0
+2022 Ford,Maverick,Mascouche · QC,46030.0,41500.0
+2019 Volkswagen,Jetta,Saint-Constant · QC,17838.0,20499.0
+2018 Bmw,2 Series,Saint-Constant · QC,106402.0,29999.0
+2019 Mazda,CX-3,Mascouche · QC,53930.0,21995.0
+2020 Dodge,Grand Caravan,Saint-Hubert · QC,91751.0,28499.0
+2018 Audi,Q3,Laval · QC,83878.0,25499.0
+2021 Ford,Mustang,Saint-Hubert · QC,34590.0,36499.0
+2021 Nissan,Kicks,Saint-Constant · QC,42495.0,23999.0
+2018 Kia,Rio,Saint-Constant · QC,108645.0,14999.0
+2008 Jeep,Wrangler,Cowansville · QC,118375.0,19484.0
+2022 Genesis,GV70,Mascouche · QC,34278.0,47500.0
+2014 Mercedes-Benz,SL-Class,Cowansville · QC,80731.0,48995.0
+2020 Volvo,XC60,Mascouche · QC,32281.0,42995.0
+2021 Mazda,CX-5,Mascouche · QC,48096.0,26995.0
